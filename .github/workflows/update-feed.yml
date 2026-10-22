@@ -1,0 +1,33 @@
+name: Update feed
+
+on:
+  schedule:
+    # 07:00 America/Mexico_City (fixed UTC-6, no DST) == 13:00 UTC
+    - cron: "0 13 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: update-feed
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.14"
+      - name: Build feed
+        run: uv run rss-mexican-news
+      - name: Commit feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet feed.xml; then
+            git add feed.xml
+            git commit -m "chore: update feed"
+            git push
+          fi
