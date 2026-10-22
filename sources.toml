@@ -24,5 +24,35 @@
 # summary = "p"
 # published = "time"
 
-# TODO: enumerate the real Mexican news sources here.
-sources = []
+[[sources]]
+type = "scrape"
+name = "Proceso"
+homepage = "https://www.proceso.com.mx"
+url = "https://www.proceso.com.mx/"
+item = "a.news-article"
+title = ".news-article__title"
+summary = ".news-article__excerpt"
+
+[[sources]]
+type = "scrape"
+name = "El Universal"
+homepage = "https://www.eluniversal.com.mx"
+url = "https://www.eluniversal.com.mx/"
+item = "a.event-cards"
+title = "h2"
+summary = '[class$="__subtitle"]'
+
+[[sources]]
+type = "feed"
+name = "Excélsior"
+homepage = "https://www.excelsior.com.mx"
+url = "https://www.excelsior.com.mx/rss"
+
+[[sources]]
+type = "scrape"
+name = "Animal Político"
+homepage = "https://grupoanimal.mx"
+url = "https://grupoanimal.mx/noticias"
+item = "#ssr-list li"
+title = "a"
+published = "span"
