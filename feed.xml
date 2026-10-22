@@ -2,8 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mexican News</title>
   <id>tag:atorizva.github.io,2026:rss-mexican-news</id>
-  <updated>2026-10-22T06:00:39Z</updated>
+  <updated>2026-10-22T13:03:22Z</updated>
   <link href="https://atorizva.github.io/rss-mexican-news/feed.xml" rel="self" />
+  <entry>
+    <title>Jorge Volpi alerta sobre el poder la IA: “Se ve como si fuera Dios”</title>
+    <link href="https://www.excelsior.com.mx/cultura/jorge-volpi-alerta-sobre-poder-ia-ve-como-si-dios" />
+    <id>https://www.excelsior.com.mx/cultura/jorge-volpi-alerta-sobre-poder-ia-ve-como-si-dios</id>
+    <updated>2026-10-22T11:54:24Z</updated>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Francia reporta primer caso humano del virus Shamonda; paciente murió</title>
+    <link href="https://www.excelsior.com.mx/internacional/francia-1er-caso-humano-virus-shamonda-paciente-murio" />
+    <id>https://www.excelsior.com.mx/internacional/francia-1er-caso-humano-virus-shamonda-paciente-murio</id>
+    <updated>2026-10-22T11:25:51Z</updated>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Rommel Pacheco y María José Alcalá niegan ruptura por recursos de Centroamericanos y Dakar</title>
+    <link href="https://www.eluniversal.com.mx/deportes/rommel-pacheco-y-maria-jose-alcala-niegan-ruptura-por-recursos-de-centroamericanos-y-dakar/" />
+    <id>https://www.eluniversal.com.mx/deportes/rommel-pacheco-y-maria-jose-alcala-niegan-ruptura-por-recursos-de-centroamericanos-y-dakar/</id>
+    <updated>2026-10-22T10:21:17Z</updated>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Sindicalizados del IMSS marchan y rechazan alza salarial de 8%</title>
+    <link href="https://www.eluniversal.com.mx/nacion/sindicalizados-del-imss-marchan-y-rechazan-alza-salarial-de-8/" />
+    <id>https://www.eluniversal.com.mx/nacion/sindicalizados-del-imss-marchan-y-rechazan-alza-salarial-de-8/</id>
+    <updated>2026-10-22T08:38:00Z</updated>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Viggiano es dueña de terreno en San Miguel de Allende; exclusivo fraccionamiento cuenta con viñedo y campo de golf</title>
+    <link href="https://www.eluniversal.com.mx/nacion/viggiano-es-duena-de-terreno-en-san-miguel-de-allende-exclusivo-fraccionamiento-cuenta-con-vinedo-y-campo-de-golf/" />
+    <id>https://www.eluniversal.com.mx/nacion/viggiano-es-duena-de-terreno-en-san-miguel-de-allende-exclusivo-fraccionamiento-cuenta-con-vinedo-y-campo-de-golf/</id>
+    <updated>2026-10-22T08:37:00Z</updated>
+    <summary>La senadora priista suma a sus propiedades un terreno en un exclusivo club de golf localizado en San Miguel de Allende, Guanajuato</summary>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Cruje el sistema de pensiones del IMSS; frenan modalidad 40</title>
+    <link href="https://www.eluniversal.com.mx/nacion/cruje-el-sistema-de-pensiones-del-imss-frenan-modalidad-40/" />
+    <id>https://www.eluniversal.com.mx/nacion/cruje-el-sistema-de-pensiones-del-imss-frenan-modalidad-40/</id>
+    <updated>2026-10-22T08:36:00Z</updated>
+    <summary>El instituto detuvo y topó el Sistema de Pensiones para restringir los ahorros para el retiro de los trabajadores y modificar los lineamientos; los especialistas aseguran que se trata de una auténtica bomba de tiempo</summary>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Agentes de la CIA eran fantasmas andantes en Chihuahua</title>
+    <link href="https://www.eluniversal.com.mx/nacion/agentes-de-la-cia-eran-fantasmas-andantes-en-chihuahua/" />
+    <id>https://www.eluniversal.com.mx/nacion/agentes-de-la-cia-eran-fantasmas-andantes-en-chihuahua/</id>
+    <updated>2026-10-22T08:35:00Z</updated>
+    <summary>Según las diligencias de la FGR en campo y concentradas en la orden de aprehensión del exfiscal de Chihuahua César Jáuregui, la FGE no informó sobre los miembros de la CIA</summary>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
   <entry>
     <title>Los defensas centrales hunden a Pumas y permiten que Santos Laguna gane su sexto partido consecutivo</title>
     <link href="https://www.excelsior.com.mx/deportes/defensas-centrales-hunden-pumas-y-permiten-que-santos-laguna-gane-sexto-partido-consecutivo" />
@@ -23,34 +89,6 @@
     </author>
   </entry>
   <entry>
-    <title>El cineasta Juan Antonio Bayona devela su butaca en el Festival de Cine de Morelia</title>
-    <link href="https://www.excelsior.com.mx/espectaculos/cineasta-juan-antonio-bayona-devela-butaca-festival-cine-morelia" />
-    <id>https://www.excelsior.com.mx/espectaculos/cineasta-juan-antonio-bayona-devela-butaca-festival-cine-morelia</id>
-    <updated>2026-10-22T05:16:33Z</updated>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Renuncia jueza que ordenó arrestar a exfiscal de Chihuahua César Jáuregui</title>
-    <link href="https://www.excelsior.com.mx/nacional/renuncia-jueza-ordeno-arrestar-exfiscal-chihuahua-jauregui" />
-    <id>https://www.excelsior.com.mx/nacional/renuncia-jueza-ordeno-arrestar-exfiscal-chihuahua-jauregui</id>
-    <updated>2026-10-22T05:12:23Z</updated>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>"El IMSS esta a un paso de entrar a terapia intensiva"; Con los de Casa condiciones en el sector de salud</title>
-    <link href="https://www.eluniversal.com.mx/nacion/el-imss-esta-a-un-paso-de-entrar-a-terapia-intensiva-con-los-de-casa-condiciones-en-el-sector-de-salud/" />
-    <id>https://www.eluniversal.com.mx/nacion/el-imss-esta-a-un-paso-de-entrar-a-terapia-intensiva-con-los-de-casa-condiciones-en-el-sector-de-salud/</id>
-    <updated>2026-10-22T04:25:25Z</updated>
-    <summary>Además de las demandas principales, Éctor Ramírez alertó sobre la situación financiera del IMSS advirtiendo  que los recursos podrían ser insuficientes en los próximos años</summary>
-    <author>
-      <name>El Universal</name>
-    </author>
-  </entry>
-  <entry>
     <title>Karim López no vio acción en el arranque de la NBA: ¿Por qué no debutó el mexicano?</title>
     <link href="https://www.excelsior.com.mx/deportes/karim-lopez-no-vio-accion-arranque-nba-por-que-no-debuto-mexicano" />
     <id>https://www.excelsior.com.mx/deportes/karim-lopez-no-vio-accion-arranque-nba-por-que-no-debuto-mexicano</id>
@@ -60,50 +98,12 @@
     </author>
   </entry>
   <entry>
-    <title>América no suelta el mando de la Liga MX; le pega un baile Atlas en el Jalisco</title>
+    <title>América no suelta el mando de la Liga MX; le pega un baile al Atlas en el Jalisco</title>
     <link href="https://www.excelsior.com.mx/deportes/america-no-suelta-mando-liga-mx-le-pega-baile-atlas-jalisco" />
     <id>https://www.excelsior.com.mx/deportes/america-no-suelta-mando-liga-mx-le-pega-baile-atlas-jalisco</id>
     <updated>2026-10-22T03:13:07Z</updated>
     <author>
       <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Trabajadores del IMSS anuncian bloqueos intermitentes este 22 de octubre; conoce dónde y a qué hora</title>
-    <link href="https://www.eluniversal.com.mx/nacion/trabajadores-del-imss-anuncian-bloqueos-intermitentes-este-22-de-octubre-conoce-donde-y-a-que-hora/" />
-    <id>https://www.eluniversal.com.mx/nacion/trabajadores-del-imss-anuncian-bloqueos-intermitentes-este-22-de-octubre-conoce-donde-y-a-que-hora/</id>
-    <updated>2026-10-22T01:59:38Z</updated>
-    <summary>Disidentes rechazaron el aumento salarial del 8% acordado por el Sindicato y el IMSS</summary>
-    <author>
-      <name>El Universal</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Presidente del Comité de la ONU pide a México dar cuentas sobre los 16 mil localizados; aún faltan 120 mil desaparecidos, recuerda</title>
-    <link href="https://www.eluniversal.com.mx/nacion/presidente-del-comite-de-la-onu-pide-a-mexico-dar-cuentas-sobre-los-16-mil-localizados-aun-faltan-120-mil-desaparecidos-recuerda/" />
-    <id>https://www.eluniversal.com.mx/nacion/presidente-del-comite-de-la-onu-pide-a-mexico-dar-cuentas-sobre-los-16-mil-localizados-aun-faltan-120-mil-desaparecidos-recuerda/</id>
-    <updated>2026-10-21T22:16:52Z</updated>
-    <summary>En X, Juan Pablo Albán aclaró que a pesar de las acciones, no limita al Consejo General a abordar el tema y tomar acciones en caso de ser necesario</summary>
-    <author>
-      <name>El Universal</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Senado alista análisis de legalidad en cambios del IMSS en la Modalidad 40; medida fue publicada en el DOF</title>
-    <link href="https://www.eluniversal.com.mx/nacion/senado-alista-analisis-de-legalidad-en-cambios-del-imss-en-la-modalidad-40-medida-fue-publicada-en-el-dof/" />
-    <id>https://www.eluniversal.com.mx/nacion/senado-alista-analisis-de-legalidad-en-cambios-del-imss-en-la-modalidad-40-medida-fue-publicada-en-el-dof/</id>
-    <updated>2026-10-21T20:00:59Z</updated>
-    <author>
-      <name>El Universal</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Editorial canadiense cancela publicaciones de escritor; reconoce uso de IA en su novela</title>
-    <link href="https://www.eluniversal.com.mx/cultura/editorial-canadiense-cancela-publicaciones-de-escritor-reconoce-uso-de-ia-en-su-novela/" />
-    <id>https://www.eluniversal.com.mx/cultura/editorial-canadiense-cancela-publicaciones-de-escritor-reconoce-uso-de-ia-en-su-novela/</id>
-    <updated>2026-10-21T19:12:33Z</updated>
-    <author>
-      <name>El Universal</name>
     </author>
   </entry>
   <entry>
@@ -236,26 +236,26 @@
     <title>Tras declaración de Sheinbaum, presidente del CED llama a “no tergiversar”</title>
     <link href="https://www.proceso.com.mx/nacional/2026/10/21/tras-declaracion-de-sheinbaum-presidente-del-comite-contra-la-desaparicion-llama-a-no-tergiversar-382292.html" />
     <id>https://www.proceso.com.mx/nacional/2026/10/21/tras-declaracion-de-sheinbaum-presidente-del-comite-contra-la-desaparicion-llama-a-no-tergiversar-382292.html</id>
-    <updated>2026-10-22T06:00:39Z</updated>
+    <updated>2026-10-22T13:03:22Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>“Raquítico; una burla”: Trabajadores del IMSS rechazan aumento salarial del 8% anunciado por Zoé Robledo</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/10/21/raquitico-una-burla-trabajadores-del-imss-rechazan-aumento-salarial-del-8-anunciado-por-zoe-robledo-382282.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/10/21/raquitico-una-burla-trabajadores-del-imss-rechazan-aumento-salarial-del-8-anunciado-por-zoe-robledo-382282.html</id>
-    <updated>2026-10-22T06:00:39Z</updated>
+    <title>El rodeo de Manuel Jiménez: mil 200 mdp en contratos con empresas ligadas a su familia para la Expo Coahuila (Video)</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/10/22/el-rodeo-de-manuel-jimenez-mil-200-mdp-en-contratos-con-empresas-ligadas-a-su-familia-para-la-expo-c-382313.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/10/22/el-rodeo-de-manuel-jimenez-mil-200-mdp-en-contratos-con-empresas-ligadas-a-su-familia-para-la-expo-c-382313.html</id>
+    <updated>2026-10-22T13:03:22Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>IMSS le pone freno a la Modalidad 40; restringe las cotizaciones para alcanzar una pensión más alta y revisa si es viable mantenerla a futuro</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/10/21/imss-le-pone-freno-a-la-modalidad-40-restringe-las-cotizaciones-para-alcanzar-una-pension-mas-alta-382291.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/10/21/imss-le-pone-freno-a-la-modalidad-40-restringe-las-cotizaciones-para-alcanzar-una-pension-mas-alta-382291.html</id>
-    <updated>2026-10-22T06:00:39Z</updated>
-    <summary>El Instituto Mexicano del Seguro Social revisa si es viable mantener a futuro las condiciones de la llamada Modalidad 40, uno de los mecanismos más utilizados por los trabajadores para mejorar el monto de su pensión antes de retirarse de la vida laboral.</summary>
+    <title>“Sí hay que estar preocupados” por cambios en las pensiones del IMSS con la Modalidad 40: Colegio de Contadores</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/10/22/si-hay-que-estar-preocupados-por-cambios-en-las-pensiones-del-imss-con-la-modalidad-40-colegio-de-co-382320.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/10/22/si-hay-que-estar-preocupados-por-cambios-en-las-pensiones-del-imss-con-la-modalidad-40-colegio-de-co-382320.html</id>
+    <updated>2026-10-22T13:03:22Z</updated>
+    <summary>El Seguro Social aprobó cambios temporales que limitan el salario de cotización al último registrado más una UMA, lo que preocupa al especialista Jorge Ponce Yépez por sus efectos en las pensiones, y anticipa una ola de amparos. Sin embargo, advierte que la reforma judicial dificultaría resoluciones favorables para los trabajadores.</summary>
     <author>
       <name>Proceso</name>
     </author>
@@ -264,7 +264,7 @@
     <title>Taddei se deslinda de escándalo de contratos y chofer en el INE; responsabiliza a excolaboradores</title>
     <link href="https://www.proceso.com.mx/nacional/politica/2026/10/21/taddei-se-deslinda-de-escandalo-de-contratos-y-chofer-en-el-ine-responsabiliza-a-excolaboradores-382310.html" />
     <id>https://www.proceso.com.mx/nacional/politica/2026/10/21/taddei-se-deslinda-de-escandalo-de-contratos-y-chofer-en-el-ine-responsabiliza-a-excolaboradores-382310.html</id>
-    <updated>2026-10-22T06:00:39Z</updated>
+    <updated>2026-10-22T13:03:22Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -273,25 +273,25 @@
     <title>Un año de impunidad: así mataron en la UNAM a Rodrigo Mondragón, aficionado del Cruz Azul (VIDEO)</title>
     <link href="https://www.proceso.com.mx/deportes/2026/10/21/un-ano-de-impunidad-asi-mataron-en-la-unam-a-rodrigo-mondragon-aficionado-del-cruz-azul-video-382182.html" />
     <id>https://www.proceso.com.mx/deportes/2026/10/21/un-ano-de-impunidad-asi-mataron-en-la-unam-a-rodrigo-mondragon-aficionado-del-cruz-azul-video-382182.html</id>
-    <updated>2026-10-22T06:00:39Z</updated>
+    <updated>2026-10-22T13:03:22Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Cuarón admite deuda con la cultura francesa al recibir medalla de la Orden de las Artes y las Letras</title>
-    <link href="https://www.proceso.com.mx/cultura/2026/10/21/cuaron-admite-deuda-con-la-cultura-francesa-al-recibir-medalla-de-la-orden-de-las-artes-y-las-letras-382328.html" />
-    <id>https://www.proceso.com.mx/cultura/2026/10/21/cuaron-admite-deuda-con-la-cultura-francesa-al-recibir-medalla-de-la-orden-de-las-artes-y-las-letras-382328.html</id>
-    <updated>2026-10-22T06:00:39Z</updated>
+    <title>La soberanía ya tiene un preso: la traición a la patria no condenaba a nadie desde 1867</title>
+    <link href="https://www.proceso.com.mx/opinion/2026/10/22/la-soberania-ya-tiene-un-preso-la-traicion-a-la-patria-no-condenaba-a-nadie-desde-1867-382296.html" />
+    <id>https://www.proceso.com.mx/opinion/2026/10/22/la-soberania-ya-tiene-un-preso-la-traicion-a-la-patria-no-condenaba-a-nadie-desde-1867-382296.html</id>
+    <updated>2026-10-22T13:03:22Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Diputados descongelan iniciativa de ley para combatir corrupción deportiva</title>
-    <link href="https://www.proceso.com.mx/deportes/2026/10/21/diputados-descongelan-iniciativa-de-ley-para-combatir-corrupcion-deportiva-382326.html" />
-    <id>https://www.proceso.com.mx/deportes/2026/10/21/diputados-descongelan-iniciativa-de-ley-para-combatir-corrupcion-deportiva-382326.html</id>
-    <updated>2026-10-22T06:00:39Z</updated>
+    <title>Sitios web se apagan mientras operadores corrigen falla de lenguaje de programación</title>
+    <link href="https://www.proceso.com.mx/ciencia-tecnologia/2026/10/22/sitios-web-se-apagan-mientras-operadores-corrigen-falla-de-lenguaje-de-programacion-382332.html" />
+    <id>https://www.proceso.com.mx/ciencia-tecnologia/2026/10/22/sitios-web-se-apagan-mientras-operadores-corrigen-falla-de-lenguaje-de-programacion-382332.html</id>
+    <updated>2026-10-22T13:03:22Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -300,16 +300,16 @@
     <title>"Caiga quien caiga"</title>
     <link href="https://www.proceso.com.mx/opinion/2026/10/21/caiga-quien-caiga-382279.html" />
     <id>https://www.proceso.com.mx/opinion/2026/10/21/caiga-quien-caiga-382279.html</id>
-    <updated>2026-10-22T06:00:39Z</updated>
+    <updated>2026-10-22T13:03:22Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Arma de intimidación masiva</title>
-    <link href="https://www.proceso.com.mx/opinion/2026/10/21/arma-de-intimidacion-masiva-382213.html" />
-    <id>https://www.proceso.com.mx/opinion/2026/10/21/arma-de-intimidacion-masiva-382213.html</id>
-    <updated>2026-10-22T06:00:39Z</updated>
+    <title>Día del Médico: un homenaje en medio de la crisis de salud</title>
+    <link href="https://www.proceso.com.mx/opinion/2026/10/22/dia-del-medico-un-homenaje-en-medio-de-la-crisis-de-salud-382305.html" />
+    <id>https://www.proceso.com.mx/opinion/2026/10/22/dia-del-medico-un-homenaje-en-medio-de-la-crisis-de-salud-382305.html</id>
+    <updated>2026-10-22T13:03:22Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -318,52 +318,52 @@
     <title>Desaparición forzada. La negación del Estado mexicano a examen en la ONU</title>
     <link href="https://www.proceso.com.mx/nacional/2026/10/19/desaparicion-forzada-la-negacion-del-estado-mexicano-a-examen-en-la-onu-382057.html" />
     <id>https://www.proceso.com.mx/nacional/2026/10/19/desaparicion-forzada-la-negacion-del-estado-mexicano-a-examen-en-la-onu-382057.html</id>
-    <updated>2026-10-22T06:00:39Z</updated>
+    <updated>2026-10-22T13:03:22Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Latinos, decepcionados de Trump; republicanos pierden apoyo</title>
-    <link href="https://www.eluniversal.com.mx/mundo/latinos-decepcionados-de-trump-republicanos-pierden-apoyo/" />
-    <id>https://www.eluniversal.com.mx/mundo/latinos-decepcionados-de-trump-republicanos-pierden-apoyo/</id>
-    <updated>2026-10-22T06:00:39Z</updated>
+    <title>Dejan a senador de Morena “con las manos vacías”</title>
+    <link href="https://www.eluniversal.com.mx/opinion/kiosko/dejan-a-senador-de-morena-con-las-manos-vacias/" />
+    <id>https://www.eluniversal.com.mx/opinion/kiosko/dejan-a-senador-de-morena-con-las-manos-vacias/</id>
+    <updated>2026-10-22T13:03:22Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Sacude detención de exfiscal a panismo de Chihuahua</title>
-    <link href="https://www.eluniversal.com.mx/opinion/kiosko/sacude-detencion-de-exfiscal-a-panismo-de-chihuahua/" />
-    <id>https://www.eluniversal.com.mx/opinion/kiosko/sacude-detencion-de-exfiscal-a-panismo-de-chihuahua/</id>
-    <updated>2026-10-22T06:00:39Z</updated>
+    <title>Senadores, con mucho ánimo</title>
+    <link href="https://www.eluniversal.com.mx/opinion/desbalance/senadores-con-mucho-animo/" />
+    <id>https://www.eluniversal.com.mx/opinion/desbalance/senadores-con-mucho-animo/</id>
+    <updated>2026-10-22T13:03:22Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Bajas en el gabinete de Clara Brugada</title>
-    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/bajas-en-el-gabinete-de-clara-brugada/" />
-    <id>https://www.eluniversal.com.mx/opinion/el-caballito/bajas-en-el-gabinete-de-clara-brugada/</id>
-    <updated>2026-10-22T06:00:39Z</updated>
+    <title>Choques en el Metrobús y cortocircuitos en el Metro</title>
+    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/choques-en-el-metrobus-y-cortocircuitos-en-el-metro/" />
+    <id>https://www.eluniversal.com.mx/opinion/el-caballito/choques-en-el-metrobus-y-cortocircuitos-en-el-metro/</id>
+    <updated>2026-10-22T13:03:22Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Desplumada</title>
-    <link href="https://www.eluniversal.com.mx/carton/chelo/desplumada/" />
-    <id>https://www.eluniversal.com.mx/carton/chelo/desplumada/</id>
-    <updated>2026-10-22T06:00:39Z</updated>
+    <title>Fran Meric hace humor de la menopausia</title>
+    <link href="https://www.eluniversal.com.mx/espectaculos/fran-meric-hace-humor-de-la-menopausia/" />
+    <id>https://www.eluniversal.com.mx/espectaculos/fran-meric-hace-humor-de-la-menopausia/</id>
+    <updated>2026-10-22T13:03:22Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Corte da golpe a investigadores</title>
-    <link href="https://www.eluniversal.com.mx/opinion/crimen-castigo/corte-da-golpe-a-investigadores/" />
-    <id>https://www.eluniversal.com.mx/opinion/crimen-castigo/corte-da-golpe-a-investigadores/</id>
-    <updated>2026-10-22T06:00:39Z</updated>
+    <title>La cultura y la ciencia, acosadas en toda América por los gobiernos populistas</title>
+    <link href="https://www.eluniversal.com.mx/cultura/la-cultura-y-la-ciencia-acosadas-en-toda-america-por-los-gobiernos-populistas/" />
+    <id>https://www.eluniversal.com.mx/cultura/la-cultura-y-la-ciencia-acosadas-en-toda-america-por-los-gobiernos-populistas/</id>
+    <updated>2026-10-22T13:03:22Z</updated>
     <author>
       <name>El Universal</name>
     </author>
