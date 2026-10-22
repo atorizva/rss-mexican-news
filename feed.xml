@@ -2,42 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mexican News</title>
   <id>tag:atorizva.github.io,2026:rss-mexican-news</id>
-  <updated>2026-10-22T13:03:22Z</updated>
+  <updated>2026-10-22T17:55:19Z</updated>
   <link href="https://atorizva.github.io/rss-mexican-news/feed.xml" rel="self" />
   <entry>
-    <title>Jorge Volpi alerta sobre el poder la IA: “Se ve como si fuera Dios”</title>
-    <link href="https://www.excelsior.com.mx/cultura/jorge-volpi-alerta-sobre-poder-ia-ve-como-si-dios" />
-    <id>https://www.excelsior.com.mx/cultura/jorge-volpi-alerta-sobre-poder-ia-ve-como-si-dios</id>
-    <updated>2026-10-22T11:54:24Z</updated>
+    <title>De padre e hijo en Euphoria a un último tributo: El emotivo proyecto que une a Jacob Elordi y Eric Dane</title>
+    <link href="https://www.excelsior.com.mx/espectaculos/jacob-elordi-narrara-audiolibro-memorias-eric-dane" />
+    <id>https://www.excelsior.com.mx/espectaculos/jacob-elordi-narrara-audiolibro-memorias-eric-dane</id>
+    <updated>2026-10-22T17:43:00Z</updated>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Francia reporta primer caso humano del virus Shamonda; paciente murió</title>
-    <link href="https://www.excelsior.com.mx/internacional/francia-1er-caso-humano-virus-shamonda-paciente-murio" />
-    <id>https://www.excelsior.com.mx/internacional/francia-1er-caso-humano-virus-shamonda-paciente-murio</id>
-    <updated>2026-10-22T11:25:51Z</updated>
+    <title>México vs Chile EN VIVO: sigue el minuto a minuto del Mundial Femenil Sub 17</title>
+    <link href="https://www.excelsior.com.mx/deportes/mexico-vs-chile-vivo-sigue-minuto-minuto-mundial-femenil-sub-17" />
+    <id>https://www.excelsior.com.mx/deportes/mexico-vs-chile-vivo-sigue-minuto-minuto-mundial-femenil-sub-17</id>
+    <updated>2026-10-22T17:41:38Z</updated>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Rommel Pacheco y María José Alcalá niegan ruptura por recursos de Centroamericanos y Dakar</title>
-    <link href="https://www.eluniversal.com.mx/deportes/rommel-pacheco-y-maria-jose-alcala-niegan-ruptura-por-recursos-de-centroamericanos-y-dakar/" />
-    <id>https://www.eluniversal.com.mx/deportes/rommel-pacheco-y-maria-jose-alcala-niegan-ruptura-por-recursos-de-centroamericanos-y-dakar/</id>
-    <updated>2026-10-22T10:21:17Z</updated>
+    <title>¿La tartamudez tiene tratamiento? Esto debes saber sobre la fluidez del habla</title>
+    <link href="https://www.excelsior.com.mx/salud/tartamudez-tiene-tratamiento-esto-debes-saber-sobre-fluidez-habla" />
+    <id>https://www.excelsior.com.mx/salud/tartamudez-tiene-tratamiento-esto-debes-saber-sobre-fluidez-habla</id>
+    <updated>2026-10-22T17:39:21Z</updated>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Arranca audiencia de César Jáuregui para definir su vinculación a proceso; familiares y amigos exigen su libertad</title>
+    <link href="https://www.eluniversal.com.mx/estados/arranca-audiencia-de-cesar-jauregui-para-definir-su-vinculacion-a-proceso-familiares-y-amigos-exigen-su-libertad/" />
+    <id>https://www.eluniversal.com.mx/estados/arranca-audiencia-de-cesar-jauregui-para-definir-su-vinculacion-a-proceso-familiares-y-amigos-exigen-su-libertad/</id>
+    <updated>2026-10-22T17:37:56Z</updated>
+    <summary>La audiencia se realiza en el Tribunal Superior de Justicia en Chihuahua capital donde el imputado está conectado de manera virtual, mientras que su defensa sí está presente en la audiencia</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Sindicalizados del IMSS marchan y rechazan alza salarial de 8%</title>
-    <link href="https://www.eluniversal.com.mx/nacion/sindicalizados-del-imss-marchan-y-rechazan-alza-salarial-de-8/" />
-    <id>https://www.eluniversal.com.mx/nacion/sindicalizados-del-imss-marchan-y-rechazan-alza-salarial-de-8/</id>
-    <updated>2026-10-22T08:38:00Z</updated>
+    <title>Sheinbaum justifica decisión de regular Modalidad 40 del IMSS; encontramos fraudes en las pensiones, señala</title>
+    <link href="https://www.eluniversal.com.mx/nacion/sheinbaum-justifica-decision-de-regular-modalidad-40-del-imss-encontramos-fraudes-en-las-pensiones-senala/" />
+    <id>https://www.eluniversal.com.mx/nacion/sheinbaum-justifica-decision-de-regular-modalidad-40-del-imss-encontramos-fraudes-en-las-pensiones-senala/</id>
+    <updated>2026-10-22T15:50:50Z</updated>
+    <summary>La Presidenta indicó que se trata de un impacto importante: "Estamos hablando de cientos de miles de millones"</summary>
     <author>
       <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Así va la tabla general de la Liga MX: Santos con récord (Jornada 13)</title>
+    <link href="https://www.excelsior.com.mx/deportes/va-tabla-general-liga-mx-santos-con-record-jornada-13" />
+    <id>https://www.excelsior.com.mx/deportes/va-tabla-general-liga-mx-santos-con-record-jornada-13</id>
+    <updated>2026-10-22T14:43:24Z</updated>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Isaac del Toro tiene nuevo desafío: el Tour de Francia 2027</title>
+    <link href="https://www.excelsior.com.mx/deportes/isaac-toro-tiene-nuevo-desafio-tour-francia-2027" />
+    <id>https://www.excelsior.com.mx/deportes/isaac-toro-tiene-nuevo-desafio-tour-francia-2027</id>
+    <updated>2026-10-22T13:49:12Z</updated>
+    <author>
+      <name>Excélsior</name>
     </author>
   </entry>
   <entry>
@@ -45,7 +74,6 @@
     <link href="https://www.eluniversal.com.mx/nacion/viggiano-es-duena-de-terreno-en-san-miguel-de-allende-exclusivo-fraccionamiento-cuenta-con-vinedo-y-campo-de-golf/" />
     <id>https://www.eluniversal.com.mx/nacion/viggiano-es-duena-de-terreno-en-san-miguel-de-allende-exclusivo-fraccionamiento-cuenta-con-vinedo-y-campo-de-golf/</id>
     <updated>2026-10-22T08:37:00Z</updated>
-    <summary>La senadora priista suma a sus propiedades un terreno en un exclusivo club de golf localizado en San Miguel de Allende, Guanajuato</summary>
     <author>
       <name>El Universal</name>
     </author>
@@ -65,18 +93,8 @@
     <link href="https://www.eluniversal.com.mx/nacion/agentes-de-la-cia-eran-fantasmas-andantes-en-chihuahua/" />
     <id>https://www.eluniversal.com.mx/nacion/agentes-de-la-cia-eran-fantasmas-andantes-en-chihuahua/</id>
     <updated>2026-10-22T08:35:00Z</updated>
-    <summary>Según las diligencias de la FGR en campo y concentradas en la orden de aprehensión del exfiscal de Chihuahua César Jáuregui, la FGE no informó sobre los miembros de la CIA</summary>
     <author>
       <name>El Universal</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Los defensas centrales hunden a Pumas y permiten que Santos Laguna gane su sexto partido consecutivo</title>
-    <link href="https://www.excelsior.com.mx/deportes/defensas-centrales-hunden-pumas-y-permiten-que-santos-laguna-gane-sexto-partido-consecutivo" />
-    <id>https://www.excelsior.com.mx/deportes/defensas-centrales-hunden-pumas-y-permiten-que-santos-laguna-gane-sexto-partido-consecutivo</id>
-    <updated>2026-10-22T05:33:55Z</updated>
-    <author>
-      <name>Excélsior</name>
     </author>
   </entry>
   <entry>
@@ -84,24 +102,6 @@
     <link href="https://www.excelsior.com.mx/deportes/cruz-azul-confirma-regreso-y-vence-1-2-pachuca-jornada-13-liga-mx" />
     <id>https://www.excelsior.com.mx/deportes/cruz-azul-confirma-regreso-y-vence-1-2-pachuca-jornada-13-liga-mx</id>
     <updated>2026-10-22T05:18:09Z</updated>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Karim López no vio acción en el arranque de la NBA: ¿Por qué no debutó el mexicano?</title>
-    <link href="https://www.excelsior.com.mx/deportes/karim-lopez-no-vio-accion-arranque-nba-por-que-no-debuto-mexicano" />
-    <id>https://www.excelsior.com.mx/deportes/karim-lopez-no-vio-accion-arranque-nba-por-que-no-debuto-mexicano</id>
-    <updated>2026-10-22T03:14:19Z</updated>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>América no suelta el mando de la Liga MX; le pega un baile al Atlas en el Jalisco</title>
-    <link href="https://www.excelsior.com.mx/deportes/america-no-suelta-mando-liga-mx-le-pega-baile-atlas-jalisco" />
-    <id>https://www.excelsior.com.mx/deportes/america-no-suelta-mando-liga-mx-le-pega-baile-atlas-jalisco</id>
-    <updated>2026-10-22T03:13:07Z</updated>
     <author>
       <name>Excélsior</name>
     </author>
@@ -233,19 +233,19 @@
     </author>
   </entry>
   <entry>
-    <title>Tras declaración de Sheinbaum, presidente del CED llama a “no tergiversar”</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/10/21/tras-declaracion-de-sheinbaum-presidente-del-comite-contra-la-desaparicion-llama-a-no-tergiversar-382292.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/10/21/tras-declaracion-de-sheinbaum-presidente-del-comite-contra-la-desaparicion-llama-a-no-tergiversar-382292.html</id>
-    <updated>2026-10-22T13:03:22Z</updated>
+    <title>Sheinbaum justificó freno a Modalidad 40 en pensiones del IMSS por fraudes millonarios</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/10/22/sheinbaum-justifico-freno-a-pensiones-de-la-modalidad-40-del-imss-por-fraudes-millonarios-382339.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/10/22/sheinbaum-justifico-freno-a-pensiones-de-la-modalidad-40-del-imss-por-fraudes-millonarios-382339.html</id>
+    <updated>2026-10-22T17:55:19Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>El rodeo de Manuel Jiménez: mil 200 mdp en contratos con empresas ligadas a su familia para la Expo Coahuila (Video)</title>
+    <title>El rodeo de Manolo Jiménez: mil 200 mdp en contratos con empresas ligadas a su familia para la Expo Coahuila (Video)</title>
     <link href="https://www.proceso.com.mx/nacional/2026/10/22/el-rodeo-de-manuel-jimenez-mil-200-mdp-en-contratos-con-empresas-ligadas-a-su-familia-para-la-expo-c-382313.html" />
     <id>https://www.proceso.com.mx/nacional/2026/10/22/el-rodeo-de-manuel-jimenez-mil-200-mdp-en-contratos-con-empresas-ligadas-a-su-familia-para-la-expo-c-382313.html</id>
-    <updated>2026-10-22T13:03:22Z</updated>
+    <updated>2026-10-22T17:55:19Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -254,26 +254,17 @@
     <title>“Sí hay que estar preocupados” por cambios en las pensiones del IMSS con la Modalidad 40: Colegio de Contadores</title>
     <link href="https://www.proceso.com.mx/nacional/2026/10/22/si-hay-que-estar-preocupados-por-cambios-en-las-pensiones-del-imss-con-la-modalidad-40-colegio-de-co-382320.html" />
     <id>https://www.proceso.com.mx/nacional/2026/10/22/si-hay-que-estar-preocupados-por-cambios-en-las-pensiones-del-imss-con-la-modalidad-40-colegio-de-co-382320.html</id>
-    <updated>2026-10-22T13:03:22Z</updated>
+    <updated>2026-10-22T17:55:19Z</updated>
     <summary>El Seguro Social aprobó cambios temporales que limitan el salario de cotización al último registrado más una UMA, lo que preocupa al especialista Jorge Ponce Yépez por sus efectos en las pensiones, y anticipa una ola de amparos. Sin embargo, advierte que la reforma judicial dificultaría resoluciones favorables para los trabajadores.</summary>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Taddei se deslinda de escándalo de contratos y chofer en el INE; responsabiliza a excolaboradores</title>
-    <link href="https://www.proceso.com.mx/nacional/politica/2026/10/21/taddei-se-deslinda-de-escandalo-de-contratos-y-chofer-en-el-ine-responsabiliza-a-excolaboradores-382310.html" />
-    <id>https://www.proceso.com.mx/nacional/politica/2026/10/21/taddei-se-deslinda-de-escandalo-de-contratos-y-chofer-en-el-ine-responsabiliza-a-excolaboradores-382310.html</id>
-    <updated>2026-10-22T13:03:22Z</updated>
-    <author>
-      <name>Proceso</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Un año de impunidad: así mataron en la UNAM a Rodrigo Mondragón, aficionado del Cruz Azul (VIDEO)</title>
-    <link href="https://www.proceso.com.mx/deportes/2026/10/21/un-ano-de-impunidad-asi-mataron-en-la-unam-a-rodrigo-mondragon-aficionado-del-cruz-azul-video-382182.html" />
-    <id>https://www.proceso.com.mx/deportes/2026/10/21/un-ano-de-impunidad-asi-mataron-en-la-unam-a-rodrigo-mondragon-aficionado-del-cruz-azul-video-382182.html</id>
-    <updated>2026-10-22T13:03:22Z</updated>
+    <title>Milei declara terroristas al Cártel de Sinaloa y La Nueva Familia Michoacana; refuerza alianza con EU</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/10/22/milei-declara-terroristas-al-cartel-de-sinaloa-y-la-nueva-familia-michoacana-refuerza-alianza-con-eu-382335.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/10/22/milei-declara-terroristas-al-cartel-de-sinaloa-y-la-nueva-familia-michoacana-refuerza-alianza-con-eu-382335.html</id>
+    <updated>2026-10-22T17:55:19Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -282,16 +273,25 @@
     <title>La soberanía ya tiene un preso: la traición a la patria no condenaba a nadie desde 1867</title>
     <link href="https://www.proceso.com.mx/opinion/2026/10/22/la-soberania-ya-tiene-un-preso-la-traicion-a-la-patria-no-condenaba-a-nadie-desde-1867-382296.html" />
     <id>https://www.proceso.com.mx/opinion/2026/10/22/la-soberania-ya-tiene-un-preso-la-traicion-a-la-patria-no-condenaba-a-nadie-desde-1867-382296.html</id>
-    <updated>2026-10-22T13:03:22Z</updated>
+    <updated>2026-10-22T17:55:19Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Sitios web se apagan mientras operadores corrigen falla de lenguaje de programación</title>
-    <link href="https://www.proceso.com.mx/ciencia-tecnologia/2026/10/22/sitios-web-se-apagan-mientras-operadores-corrigen-falla-de-lenguaje-de-programacion-382332.html" />
-    <id>https://www.proceso.com.mx/ciencia-tecnologia/2026/10/22/sitios-web-se-apagan-mientras-operadores-corrigen-falla-de-lenguaje-de-programacion-382332.html</id>
-    <updated>2026-10-22T13:03:22Z</updated>
+    <title>Se dispara el precio del petróleo tras nuevos ataques hutíes contra Arabia Saudita</title>
+    <link href="https://www.proceso.com.mx/economia/2026/10/22/se-dispara-el-precio-del-petroleo-tras-nuevos-ataques-huties-contra-arabia-saudita-382344.html" />
+    <id>https://www.proceso.com.mx/economia/2026/10/22/se-dispara-el-precio-del-petroleo-tras-nuevos-ataques-huties-contra-arabia-saudita-382344.html</id>
+    <updated>2026-10-22T17:55:19Z</updated>
+    <author>
+      <name>Proceso</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Universidad Michoacana otorga Doctorado Honoris Causa a Ernesto Villanueva por sus aportaciones al Derecho de la Información</title>
+    <link href="https://www.proceso.com.mx/brand-studio/2026/10/22/universidad-michoacana-otorga-doctorado-honoris-causa-a-ernesto-villanueva-por-sus-aportaciones-al-d-382343.html" />
+    <id>https://www.proceso.com.mx/brand-studio/2026/10/22/universidad-michoacana-otorga-doctorado-honoris-causa-a-ernesto-villanueva-por-sus-aportaciones-al-d-382343.html</id>
+    <updated>2026-10-22T17:55:19Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -300,7 +300,7 @@
     <title>"Caiga quien caiga"</title>
     <link href="https://www.proceso.com.mx/opinion/2026/10/21/caiga-quien-caiga-382279.html" />
     <id>https://www.proceso.com.mx/opinion/2026/10/21/caiga-quien-caiga-382279.html</id>
-    <updated>2026-10-22T13:03:22Z</updated>
+    <updated>2026-10-22T17:55:19Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -309,7 +309,7 @@
     <title>Día del Médico: un homenaje en medio de la crisis de salud</title>
     <link href="https://www.proceso.com.mx/opinion/2026/10/22/dia-del-medico-un-homenaje-en-medio-de-la-crisis-de-salud-382305.html" />
     <id>https://www.proceso.com.mx/opinion/2026/10/22/dia-del-medico-un-homenaje-en-medio-de-la-crisis-de-salud-382305.html</id>
-    <updated>2026-10-22T13:03:22Z</updated>
+    <updated>2026-10-22T17:55:19Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -318,7 +318,7 @@
     <title>Desaparición forzada. La negación del Estado mexicano a examen en la ONU</title>
     <link href="https://www.proceso.com.mx/nacional/2026/10/19/desaparicion-forzada-la-negacion-del-estado-mexicano-a-examen-en-la-onu-382057.html" />
     <id>https://www.proceso.com.mx/nacional/2026/10/19/desaparicion-forzada-la-negacion-del-estado-mexicano-a-examen-en-la-onu-382057.html</id>
-    <updated>2026-10-22T13:03:22Z</updated>
+    <updated>2026-10-22T17:55:19Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -327,34 +327,7 @@
     <title>Dejan a senador de Morena “con las manos vacías”</title>
     <link href="https://www.eluniversal.com.mx/opinion/kiosko/dejan-a-senador-de-morena-con-las-manos-vacias/" />
     <id>https://www.eluniversal.com.mx/opinion/kiosko/dejan-a-senador-de-morena-con-las-manos-vacias/</id>
-    <updated>2026-10-22T13:03:22Z</updated>
-    <author>
-      <name>El Universal</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Senadores, con mucho ánimo</title>
-    <link href="https://www.eluniversal.com.mx/opinion/desbalance/senadores-con-mucho-animo/" />
-    <id>https://www.eluniversal.com.mx/opinion/desbalance/senadores-con-mucho-animo/</id>
-    <updated>2026-10-22T13:03:22Z</updated>
-    <author>
-      <name>El Universal</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Choques en el Metrobús y cortocircuitos en el Metro</title>
-    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/choques-en-el-metrobus-y-cortocircuitos-en-el-metro/" />
-    <id>https://www.eluniversal.com.mx/opinion/el-caballito/choques-en-el-metrobus-y-cortocircuitos-en-el-metro/</id>
-    <updated>2026-10-22T13:03:22Z</updated>
-    <author>
-      <name>El Universal</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Fran Meric hace humor de la menopausia</title>
-    <link href="https://www.eluniversal.com.mx/espectaculos/fran-meric-hace-humor-de-la-menopausia/" />
-    <id>https://www.eluniversal.com.mx/espectaculos/fran-meric-hace-humor-de-la-menopausia/</id>
-    <updated>2026-10-22T13:03:22Z</updated>
+    <updated>2026-10-22T17:55:19Z</updated>
     <author>
       <name>El Universal</name>
     </author>
@@ -363,7 +336,34 @@
     <title>La cultura y la ciencia, acosadas en toda América por los gobiernos populistas</title>
     <link href="https://www.eluniversal.com.mx/cultura/la-cultura-y-la-ciencia-acosadas-en-toda-america-por-los-gobiernos-populistas/" />
     <id>https://www.eluniversal.com.mx/cultura/la-cultura-y-la-ciencia-acosadas-en-toda-america-por-los-gobiernos-populistas/</id>
-    <updated>2026-10-22T13:03:22Z</updated>
+    <updated>2026-10-22T17:55:19Z</updated>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Choques en el Metrobús y cortocircuitos en el Metro</title>
+    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/choques-en-el-metrobus-y-cortocircuitos-en-el-metro/" />
+    <id>https://www.eluniversal.com.mx/opinion/el-caballito/choques-en-el-metrobus-y-cortocircuitos-en-el-metro/</id>
+    <updated>2026-10-22T17:55:19Z</updated>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Fran Meric hace humor de la menopausia</title>
+    <link href="https://www.eluniversal.com.mx/espectaculos/fran-meric-hace-humor-de-la-menopausia/" />
+    <id>https://www.eluniversal.com.mx/espectaculos/fran-meric-hace-humor-de-la-menopausia/</id>
+    <updated>2026-10-22T17:55:19Z</updated>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Afinando puntería</title>
+    <link href="https://www.eluniversal.com.mx/carton/kemchs/afinando-punteria/" />
+    <id>https://www.eluniversal.com.mx/carton/kemchs/afinando-punteria/</id>
+    <updated>2026-10-22T17:55:19Z</updated>
     <author>
       <name>El Universal</name>
     </author>
