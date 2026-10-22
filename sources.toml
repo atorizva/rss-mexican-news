@@ -1,0 +1,28 @@
+# Mexican news sources. Each entry has a `type` of either "feed" or "scrape":
+#
+#   type = "feed"    -> `url` points at an RSS/Atom feed
+#   type = "scrape"  -> `url` points at a homepage; CSS selectors describe the items
+#
+# Example feed source:
+#
+# [[sources]]
+# type = "feed"
+# name = "Example"
+# homepage = "https://example.com"
+# url = "https://example.com/feed.xml"
+#
+# Example scrape source (selectors are relative to each `item` element):
+#
+# [[sources]]
+# type = "scrape"
+# name = "Example"
+# homepage = "https://example.com"
+# url = "https://example.com"
+# item = "article.news"
+# title = "h2"
+# link = "h2 a"
+# summary = "p"
+# published = "time"
+
+# TODO: enumerate the real Mexican news sources here.
+sources = []

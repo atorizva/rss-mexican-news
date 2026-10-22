@@ -1,0 +1,39 @@
+[project]
+name = "rss-mexican-news"
+version = "0.1.0"
+authors = [
+    { name = "atorizva", email = "alfonso.toriz@outlook.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "feedparser>=6.0.14",
+]
+
+[build-system]
+requires = ["uv_build>=0.12.20,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "prek>=0.5.7",
+    "pyrefly>=1.4.0",
+    "pytest>=9.1.1",
+    "ruff>=0.17.1",
+]
+
+[project.scripts]
+rss-mexican-news = "rss_mexican_news.__main__:main"
+
+[tool.ruff]
+line-length = 100
+target-version = "py314"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
+
+[tool.pyrefly]
+preset = "basic"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
