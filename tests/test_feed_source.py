@@ -48,3 +48,19 @@ def test_parse_atom():
     assert items[0].title == "A"
     assert items[0].link == "https://example.com/a"
     assert items[0].summary == "sum"
+
+
+def test_parse_feed_double_encoded_cdata():
+    # Some feeds (e.g. Excélsior) escape CDATA markers, so feedparser returns
+    # the literal "<![CDATA[...]]>" wrapper in the title. Strip it.
+    raw = b"""<?xml version="1.0"?>
+    <rss version="2.0"><channel>
+      <item>
+        <title>&lt;![CDATA[Headline with special chars &amp; more]]&gt;</title>
+        <link>https://example.com/c</link>
+      </item>
+    </channel></rss>
+    """
+    items = parse_feed(raw, source="X")
+    assert len(items) == 1
+    assert items[0].title == "Headline with special chars & more"

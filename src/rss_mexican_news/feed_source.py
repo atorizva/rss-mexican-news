@@ -17,17 +17,17 @@ def parse_feed(raw: bytes, *, source: str) -> list[NewsItem]:
     parsed = feedparser.parse(raw)
     items: list[NewsItem] = []
     for entry in parsed.entries:
-        title = (entry.get("title") or "").strip()
+        title = _strip_cdata(entry.get("title") or "")
         link = entry.get("link") or ""
         if not title or not link:
             continue
-        summary = entry.get("summary") or entry.get("description") or ""
+        summary = _plain_text(entry.get("summary") or entry.get("description") or "")
         items.append(
             NewsItem(
                 title=title,
                 link=link,
                 source=source,
-                summary=_plain_text(summary),
+                summary=summary,
                 published_at=_parsed_time(
                     entry.get("published_parsed") or entry.get("updated_parsed")
                 ),
@@ -50,6 +50,14 @@ class FeedSource:
 
 def _plain_text(html: str) -> str:
     return BeautifulSoup(html, "html.parser").get_text(" ", strip=True)
+
+
+def _strip_cdata(text: str) -> str:
+    """Remove a literal ``<![CDATA[ ... ]]>`` wrapper (feeds that double-encode CDATA)."""
+    text = text.strip()
+    if text.startswith("<![CDATA[") and text.endswith("]]>"):
+        return text[9:-3].strip()
+    return text
 
 
 def _parsed_time(value: time.struct_time | None) -> datetime | None:
