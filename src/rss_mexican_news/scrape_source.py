@@ -1,5 +1,6 @@
 """HTML-scraping sources, parsed with BeautifulSoup."""
 
+import re
 from dataclasses import dataclass
 from datetime import UTC, datetime
 from urllib.parse import urljoin
@@ -44,11 +45,8 @@ def parse_html(
             summary_el = node.select_one(selectors.summary)
             if summary_el is not None:
                 summary = summary_el.get_text(" ", strip=True)
-        published = None
-        if selectors.published:
-            published_el = node.select_one(selectors.published)
-            if published_el is not None:
-                published = _parse_datetime(published_el)
+        published_el = node.select_one(selectors.published) if selectors.published else node
+        published = _parse_datetime(published_el) if published_el is not None else None
         items.append(
             NewsItem(
                 title=title,
@@ -87,6 +85,8 @@ def _link(node: Tag, link_selector: str, fallback: Tag, homepage: str) -> str:
     if not href:
         anchor = target.find("a")
         href = _attr(anchor, "href") if anchor is not None else ""
+    if not href:
+        href = _attr(node, "href")  # the card itself may be the anchor (e.g. Proceso)
     return urljoin(homepage, href) if href else ""
 
 
@@ -96,15 +96,51 @@ def _attr(el: Tag, key: str) -> str:
 
 
 def _parse_datetime(el: Tag) -> datetime | None:
-    raw = _attr(el, "datetime") or el.get_text(" ", strip=True)
+    raw = _attr(el, "datetime") or _attr(el, "data-date") or el.get_text(" ", strip=True)
     if not raw:
         return None
     text = raw.strip().replace("Z", "+00:00")
     try:
         dt = datetime.fromisoformat(text)
     except ValueError:
-        # shortcut: only ISO-8601 timestamps are parsed; other formats yield no date
-        return None
+        # shortcut: ISO-8601 and Spanish "D de <mes> de AAAA"; other formats yield no date
+        return _parse_spanish_date(raw)
     if dt.tzinfo is None:
         dt = dt.replace(tzinfo=UTC)
     return dt.astimezone(UTC)
+
+
+_SPANISH_MONTHS = {
+    "enero": 1,
+    "febrero": 2,
+    "marzo": 3,
+    "abril": 4,
+    "mayo": 5,
+    "junio": 6,
+    "julio": 7,
+    "agosto": 8,
+    "septiembre": 9,
+    "octubre": 10,
+    "noviembre": 11,
+    "diciembre": 12,
+}
+_SPANISH_DATE = re.compile(
+    r"(\d{1,2})\s+de\s+(" + "|".join(_SPANISH_MONTHS) + r")\s+de\s+(\d{4})",
+    re.IGNORECASE,
+)
+
+
+def _parse_spanish_date(text: str) -> datetime | None:
+    """Parse a date like ``20 de octubre de 2026`` found anywhere in ``text``."""
+    match = _SPANISH_DATE.search(text)
+    if match is None:
+        return None
+    try:
+        return datetime(
+            int(match.group(3)),
+            _SPANISH_MONTHS[match.group(2).lower()],
+            int(match.group(1)),
+            tzinfo=UTC,
+        )
+    except ValueError:
+        return None
