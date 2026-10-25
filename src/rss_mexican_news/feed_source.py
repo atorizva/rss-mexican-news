@@ -14,7 +14,7 @@ from .models import NewsItem
 
 def parse_feed(raw: bytes, *, source: str) -> list[NewsItem]:
     """Parse an RSS or Atom document into news items."""
-    parsed = feedparser.parse(raw)
+    parsed = feedparser.parse(_strip_double_encoded_cdata(raw))
     items: list[NewsItem] = []
     for entry in parsed.entries:
         title = _strip_cdata(entry.get("title") or "")
@@ -46,6 +46,11 @@ class FeedSource:
 
     def fetch(self) -> list[NewsItem]:
         return parse_feed(fetch(self.url), source=self.name)
+
+
+def _strip_double_encoded_cdata(raw: bytes) -> bytes:
+    """Undo a feed that double-encodes CDATA (Excélsior emits ``&lt;![CDATA[...]]&gt;``)."""
+    return raw.replace(b"&lt;![CDATA[", b"").replace(b"]]&gt;", b"")
 
 
 def _plain_text(html: str) -> str:

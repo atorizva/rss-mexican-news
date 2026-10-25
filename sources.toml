@@ -40,7 +40,7 @@ homepage = "https://www.eluniversal.com.mx"
 url = "https://www.eluniversal.com.mx/"
 item = "a.event-cards"
 title = "h2"
-summary = '[class$="__subtitle"]'
+summary = '[class*="__subtitle"]'
 
 [[sources]]
 type = "feed"

@@ -64,3 +64,20 @@ def test_parse_feed_double_encoded_cdata():
     items = parse_feed(raw, source="X")
     assert len(items) == 1
     assert items[0].title == "Headline with special chars & more"
+
+
+def test_parse_feed_double_encoded_description():
+    # Excélsior double-encodes the CDATA wrapper on <description>, which makes
+    # feedparser drop the summary entirely. Strip the markers so the summary survives.
+    raw = b"""<?xml version="1.0"?>
+    <rss version="2.0"><channel>
+      <item>
+        <title>Headline</title>
+        <link>https://example.com/d</link>
+        <description>&lt;![CDATA[The summary text.]]&gt;</description>
+      </item>
+    </channel></rss>
+    """
+    items = parse_feed(raw, source="X")
+    assert len(items) == 1
+    assert items[0].summary == "The summary text."
