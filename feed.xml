@@ -2,106 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mexican News</title>
   <id>tag:atorizva.github.io,2026:rss-mexican-news</id>
-  <updated>2026-10-24T16:31:36Z</updated>
+  <updated>2026-10-25T10:32:07Z</updated>
   <link href="https://atorizva.github.io/rss-mexican-news/feed.xml" rel="self" />
   <entry>
-    <title>EU presiona a México por un golpe de seguridad; busca presumirlo como victoria previo a las elecciones, reporta New York Times</title>
-    <link href="https://www.eluniversal.com.mx/mundo/eu-presiona-a-mexico-por-un-golpe-de-seguridad-busca-presumirlo-como-victoria-previo-a-las-elecciones-reporta-new-york-times/" />
-    <id>https://www.eluniversal.com.mx/mundo/eu-presiona-a-mexico-por-un-golpe-de-seguridad-busca-presumirlo-como-victoria-previo-a-las-elecciones-reporta-new-york-times/</id>
-    <updated>2026-10-24T16:27:24Z</updated>
-    <summary>Según el medio, ha propuesto una vía para que fuerzas estadounidenses participen en operaciones contra cárteles en suelo mexicano</summary>
+    <title>Desfilan culturas rumbo al Mictlán</title>
+    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/desfilan-culturas-rumbo-mictlan" />
+    <id>https://www.excelsior.com.mx/ciudad-de-mexico/desfilan-culturas-rumbo-mictlan</id>
+    <updated>2026-10-25T09:30:00Z</updated>
+    <summary>El folclor yucateco del Colectivo Masehua’ayotl y el arte de decenas de maquillistas caracterizarán el recorrido de la Megaprocesión de catrinque irá del Ángel de la Independencia al Zócalo</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Piden infraestructura para salvar comida callejera</title>
+    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/piden-infraestructura-para-salvar-comida-callejera" />
+    <id>https://www.excelsior.com.mx/ciudad-de-mexico/piden-infraestructura-para-salvar-comida-callejera</id>
+    <updated>2026-10-25T09:20:00Z</updated>
+    <summary>Expertos afirman que sancionar o emitir más leyes no resolverá la falta de higiene en el comercio de la vía pública; señalan que la solución requiere dotar de equipamiento básica</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Se tambalea Taddei a siete meses de la elección; piden su renuncia y ella dice… “no me voy”</title>
+    <link href="https://www.eluniversal.com.mx/nacion/taddei-se-tambalea-a-siete-meses-de-la-eleccion-su-renuncia-es-lo-mas-saludable-para-la-democracia-mexicana-dice-exconsejero/" />
+    <id>https://www.eluniversal.com.mx/nacion/taddei-se-tambalea-a-siete-meses-de-la-eleccion-su-renuncia-es-lo-mas-saludable-para-la-democracia-mexicana-dice-exconsejero/</id>
+    <updated>2026-10-25T06:00:00Z</updated>
+    <summary>En entrevista con EL UNIVERSAL, Arturo Sánchez consideró que lo mejor es que se separe de su cargo como presidenta consejera del INE tras señalamientos de actos de corrupción</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>La FMF investiga a jugadores del Tepatitlán por posibles apuestas deportivas</title>
-    <link href="https://www.excelsior.com.mx/deportes/fmf-investiga-jugadores-tepatitlan-por-posibles-apuestas-deportivas" />
-    <id>https://www.excelsior.com.mx/deportes/fmf-investiga-jugadores-tepatitlan-por-posibles-apuestas-deportivas</id>
-    <updated>2026-10-24T15:46:37Z</updated>
+    <title>Pumas y Tigres empatan en la celebración por los 50 años del debut de Hugo Sánchez</title>
+    <link href="https://www.excelsior.com.mx/deportes/pumas-y-tigres-empatan-celebracion-por-50-anos-debut-hugo-sanchez" />
+    <id>https://www.excelsior.com.mx/deportes/pumas-y-tigres-empatan-celebracion-por-50-anos-debut-hugo-sanchez</id>
+    <updated>2026-10-25T05:35:13Z</updated>
+    <summary>Robert Morales adelantó a Pumas y Juan Brunetta rescató el empate para Tigres, que buscarán cerrar el Apertura 2026 con opciones de liguilla.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Agresión para la árbitro Lizzet Amairany García en la Liga de Expansión</title>
-    <link href="https://www.excelsior.com.mx/deportes/agresion-para-arbitro-lizzet-amairany-garcia-liga-expansion" />
-    <id>https://www.excelsior.com.mx/deportes/agresion-para-arbitro-lizzet-amairany-garcia-liga-expansion</id>
-    <updated>2026-10-24T15:41:49Z</updated>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Mujer quería meter 300 pastillas al Reclusorio Oriente; la cacharon</title>
-    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/mujer-queria-meter-300-pastillas-reclusorio-oriente-cacharon" />
-    <id>https://www.excelsior.com.mx/ciudad-de-mexico/mujer-queria-meter-300-pastillas-reclusorio-oriente-cacharon</id>
-    <updated>2026-10-24T15:16:40Z</updated>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>El duelo de declaraciones previas al clásico ya comenzó. Mourinho "venció" a Hansi Flick</title>
-    <link href="https://www.excelsior.com.mx/deportes/duelo-declaraciones-previas-clasico-comenzo-mourinho-vencio-hansi-flick" />
-    <id>https://www.excelsior.com.mx/deportes/duelo-declaraciones-previas-clasico-comenzo-mourinho-vencio-hansi-flick</id>
-    <updated>2026-10-24T14:35:48Z</updated>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Taddei “recibe con respeto” que ASF revise licitaciones del INE; "me he conducido con probidad", asegura</title>
-    <link href="https://www.eluniversal.com.mx/nacion/taddei-recibe-con-respeto-que-asf-revise-irregularidades-me-he-conducido-con-probidad-asegura-presidenta-del-ine/" />
-    <id>https://www.eluniversal.com.mx/nacion/taddei-recibe-con-respeto-que-asf-revise-irregularidades-me-he-conducido-con-probidad-asegura-presidenta-del-ine/</id>
-    <updated>2026-10-24T14:06:56Z</updated>
+    <title>Hugo Sánchez recibe espectacular homenaje en CU; Pumas reconoce su trayectoria</title>
+    <link href="https://www.eluniversal.com.mx/deportes/hugo-sanchez-recibe-espectacular-homenaje-en-cu-pumas-reconoce-su-trayectoria/" />
+    <id>https://www.eluniversal.com.mx/deportes/hugo-sanchez-recibe-espectacular-homenaje-en-cu-pumas-reconoce-su-trayectoria/</id>
+    <updated>2026-10-25T04:09:42Z</updated>
+    <summary>El Pentapichichi cumplió cinco décadas de su debut como futbolista profesional y los festejó en el estadio Olímpico Universitario</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Auditoría Superior destapa transas del clan Taddei en el INE; cercanos a la consejera presidenta obtuvieron contratos por 21 mdp</title>
-    <link href="https://www.eluniversal.com.mx/nacion/auditoria-superior-destapa-transas-del-clan-taddei-en-el-ine-cercanos-a-la-consejera-presidenta-obtuvieron-contratos-por-21-mdp/" />
-    <id>https://www.eluniversal.com.mx/nacion/auditoria-superior-destapa-transas-del-clan-taddei-en-el-ine-cercanos-a-la-consejera-presidenta-obtuvieron-contratos-por-21-mdp/</id>
-    <updated>2026-10-24T09:31:00Z</updated>
-    <summary>La ASF abrió una investigación de oficio en contra del instituto por probables daños al erario por más de 66.5 millones de pesos que le fueron observados en 2025 y no solventó</summary>
-    <author>
-      <name>El Universal</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Escala confrontación entre Sheinbaum y Maru; la presidenta confirma la tensión</title>
-    <link href="https://www.eluniversal.com.mx/nacion/escala-confrontacion-entre-sheinbaum-y-maru-la-presidenta-confirma-la-tension/" />
-    <id>https://www.eluniversal.com.mx/nacion/escala-confrontacion-entre-sheinbaum-y-maru-la-presidenta-confirma-la-tension/</id>
-    <updated>2026-10-24T09:30:00Z</updated>
-    <author>
-      <name>El Universal</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Así va el standing de la Liga Mexicana del Pacífico (24 de octubre 2026)</title>
-    <link href="https://www.excelsior.com.mx/deportes/va-standing-liga-mexicana-pacifico-24-octubre-2026" />
-    <id>https://www.excelsior.com.mx/deportes/va-standing-liga-mexicana-pacifico-24-octubre-2026</id>
-    <updated>2026-10-24T06:13:15Z</updated>
+    <title>Brewers ponen sobre la pared a Rays en la Serie Mundial 2026</title>
+    <link href="https://www.excelsior.com.mx/deportes/brewers-ponen-sobre-pared-rays-serie-mundial-2026" />
+    <id>https://www.excelsior.com.mx/deportes/brewers-ponen-sobre-pared-rays-serie-mundial-2026</id>
+    <updated>2026-10-25T03:50:50Z</updated>
+    <summary>Milwaukee Brewers se puso 2-0 al venir de atrás para vencer 4-5 a Tampa Bay Rays en el Juego 2 de la Serie Mundial 2026. El mexicano Jonathan Aranda tuvo un error costoso</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Ojo con Morita: ya entrena con el calzado de Messi</title>
-    <link href="https://www.excelsior.com.mx/deportes/ojo-con-gilberto-mora-entrena-con-calzado-messi" />
-    <id>https://www.excelsior.com.mx/deportes/ojo-con-gilberto-mora-entrena-con-calzado-messi</id>
-    <updated>2026-10-24T05:32:45Z</updated>
+    <title>Masterclass de Gabriel Milito: Chivas le gana a los Rayados de Matías Almeyda</title>
+    <link href="https://www.excelsior.com.mx/deportes/chivas-rayados-victoria-gabriel-milito-almeyda-polemica" />
+    <id>https://www.excelsior.com.mx/deportes/chivas-rayados-victoria-gabriel-milito-almeyda-polemica</id>
+    <updated>2026-10-25T03:07:04Z</updated>
+    <summary>Gabriel Milito se llevó el duelo ante Matías Almeyda; Chivas le vuelve a ganar a Rayados en el BBVA y se coloca segundo en la tabla</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Hijo de Guadalupe Taddei es captado en París con contratista del INE, revela Latinus; empresario ha recibido 245 mdp en contratos</title>
-    <link href="https://www.eluniversal.com.mx/nacion/hijo-de-guadalupe-taddei-es-captado-en-paris-con-contratista-del-inem-revela-latinus-empresario-ha-recibido-245-mdp-en-contratos/" />
-    <id>https://www.eluniversal.com.mx/nacion/hijo-de-guadalupe-taddei-es-captado-en-paris-con-contratista-del-inem-revela-latinus-empresario-ha-recibido-245-mdp-en-contratos/</id>
-    <updated>2026-10-24T04:48:35Z</updated>
-    <summary>El hijo de la consejera se encontraba en una suite de 200 mil pesos</summary>
+    <title>México completa entrega agua del Río Bravo a EU; "hemos actuado con responsabilidad": SRE</title>
+    <link href="https://www.eluniversal.com.mx/nacion/mexico-concluye-primer-ano-del-ciclo-de-37-entregas-de-agua-del-rio-bravo-a-eu-hemos-actuado-con-responsabilidad-sre/" />
+    <id>https://www.eluniversal.com.mx/nacion/mexico-concluye-primer-ano-del-ciclo-de-37-entregas-de-agua-del-rio-bravo-a-eu-hemos-actuado-con-responsabilidad-sre/</id>
+    <updated>2026-10-25T02:59:43Z</updated>
+    <summary>Por medio de un comunicado de la dependencia, se afirmó que se respeta la soberanía hídrica y, el derecho humano al dicho líquido</summary>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Linchan a presuntos feminicidas de niña y su abuela en Chiapas; a uno lo decapitaron</title>
+    <link href="https://www.eluniversal.com.mx/estados/intentan-linchar-a-presuntos-feminicidas-de-nina-y-su-abuela-en-chiapas-la-justicia-por-propia-mano-no-nos-devuelve-la-paz-gobernador/" />
+    <id>https://www.eluniversal.com.mx/estados/intentan-linchar-a-presuntos-feminicidas-de-nina-y-su-abuela-en-chiapas-la-justicia-por-propia-mano-no-nos-devuelve-la-paz-gobernador/</id>
+    <updated>2026-10-25T02:53:38Z</updated>
+    <summary>Pobladores aprovecharon un corte de energía para arrebatárselos a la policía; uno perdió la vida y otro más resultó herido, informó el ministerio público</summary>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Toluca suma seis partidos sin ganar tras empatar con León</title>
+    <link href="https://www.excelsior.com.mx/deportes/toluca-suma-seis-partidos-sin-ganar-tras-empatar-con-leon" />
+    <id>https://www.excelsior.com.mx/deportes/toluca-suma-seis-partidos-sin-ganar-tras-empatar-con-leon</id>
+    <updated>2026-10-25T01:22:53Z</updated>
+    <summary>José Alvarado adelantó a León y Federico Viñas rescató el empate para Toluca, que estrenó su uniforme inspirado en el Cosmovitral.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Del "ay, como eres Alfredo" a "París a tus pies, chamaquito"; estos son los videos por los que ligan a Taddei con contratista del INE</title>
+    <link href="https://www.eluniversal.com.mx/nacion/del-ay-como-eres-alfredo-a-paris-a-tus-pies-chamaquito-estos-son-los-videos-por-los-que-ligan-a-taddei-con-contratista-del-ine/" />
+    <id>https://www.eluniversal.com.mx/nacion/del-ay-como-eres-alfredo-a-paris-a-tus-pies-chamaquito-estos-son-los-videos-por-los-que-ligan-a-taddei-con-contratista-del-ine/</id>
+    <updated>2026-10-25T00:27:57Z</updated>
+    <summary>A lo largo de la última semana, el periodista Carlos Loret de Mola dio a conocer algunas grabaciones donde aparece con José Alfredo Hernández Casillas</summary>
     <author>
       <name>El Universal</name>
     </author>
@@ -201,6 +209,7 @@
     <link href="https://www.excelsior.com.mx/deportes/clausuran-juegos-centroamericanos-2026-juan-luis-guerra-pone-musica" />
     <id>https://www.excelsior.com.mx/deportes/clausuran-juegos-centroamericanos-2026-juan-luis-guerra-pone-musica</id>
     <updated>2026-08-09T01:22:22Z</updated>
+    <summary>México cerró como líder del medallero con 407 preseas, incluidas 167 de oro en los Juegos Centroamericanos y del Caribe 20266</summary>
     <author>
       <name>Excélsior</name>
     </author>
@@ -210,6 +219,7 @@
     <link href="https://www.excelsior.com.mx/deportes/quetzaly-lara-joya-15-anos-que-asombra-pentatlon-moderno-mexicano-nunca-achico" />
     <id>https://www.excelsior.com.mx/deportes/quetzaly-lara-joya-15-anos-que-asombra-pentatlon-moderno-mexicano-nunca-achico</id>
     <updated>2026-08-08T22:26:24Z</updated>
+    <summary>La más jóven en pentatlón moderno para México culminó en el noveno sitió, sin embargo, los Juegos de Santo Domingo le entregaron un aprendizaje mayúsculo para el futuro.</summary>
     <author>
       <name>Excélsior</name>
     </author>
@@ -219,6 +229,7 @@
     <link href="https://www.excelsior.com.mx/deportes/doble-plata-para-mexico-karim-saadi-subcampeon-centroamericanos" />
     <id>https://www.excelsior.com.mx/deportes/doble-plata-para-mexico-karim-saadi-subcampeon-centroamericanos</id>
     <updated>2026-08-08T20:41:17Z</updated>
+    <summary>El yucateco Karim Saadi se colgó las medallas de plata en el Arranque y Envión del Levantamiento de Pesas de los Juegos Centroamericanos y del Caribe Santo Domingo 2026</summary>
     <author>
       <name>Excélsior</name>
     </author>
@@ -228,79 +239,80 @@
     <link href="https://www.excelsior.com.mx/deportes/termino-medallero-juegos-centroamericanos-2026-mexico-cima" />
     <id>https://www.excelsior.com.mx/deportes/termino-medallero-juegos-centroamericanos-2026-mexico-cima</id>
     <updated>2026-08-08T20:34:41Z</updated>
+    <summary>Sumando un total de 407 preseas, México terminó en todo lo alto del medallero en los Juegos Centroamericanos y del Caribe 2026; Celia Pulido la que ostenta más metales</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>La 4T cierra filas en torno a Ariadna Montiel tras acusaciones de Maru Campos</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/10/23/la-4t-cierra-filas-en-torno-a-ariadna-montiel-tras-acusaciones-de-maru-campos-382432.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/10/23/la-4t-cierra-filas-en-torno-a-ariadna-montiel-tras-acusaciones-de-maru-campos-382432.html</id>
-    <updated>2026-10-24T16:31:36Z</updated>
+    <title>Ante avalancha de irregularidades, INE dice que Taddei "se ha conducido con probidad"</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/10/24/ante-avalancha-de-irregularidades-el-ine-dice-que-guadalupe-taddei-se-ha-conducido-con-probidad-382469.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/10/24/ante-avalancha-de-irregularidades-el-ine-dice-que-guadalupe-taddei-se-ha-conducido-con-probidad-382469.html</id>
+    <updated>2026-10-25T10:32:07Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Lula frente a Bolsonaro: una elección sin claro favorito con la geopolítica regional y la democracia en juego</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/10/24/lula-frente-a-bolsonaro-una-eleccion-sin-claro-favorito-con-la-geopolitica-regional-y-la-democracia-382434.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/10/24/lula-frente-a-bolsonaro-una-eleccion-sin-claro-favorito-con-la-geopolitica-regional-y-la-democracia-382434.html</id>
-    <updated>2026-10-24T16:31:36Z</updated>
+    <title>Video muestra a contratista del INE en hotel de lujo de París con el hijo de Taddei</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/10/24/video-muestra-a-contratista-del-ine-en-hotel-de-lujo-de-paris-con-el-hijo-de-guadalupe-taddei-382466.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/10/24/video-muestra-a-contratista-del-ine-en-hotel-de-lujo-de-paris-con-el-hijo-de-guadalupe-taddei-382466.html</id>
+    <updated>2026-10-25T10:32:07Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>ASF investiga posibles conflictos de interés, colusión y triangulación de recursos en el INE</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/10/23/asf-investiga-posibles-conflictos-de-interes-colusion-y-triangulacion-de-recursos-en-el-ine-382429.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/10/23/asf-investiga-posibles-conflictos-de-interes-colusion-y-triangulacion-de-recursos-en-el-ine-382429.html</id>
-    <updated>2026-10-24T16:31:36Z</updated>
-    <summary>Guadalupe Taddei rechazó irregularidades en su gestión y aseguró que los señalamientos forman parte de una campaña contra el instituto.</summary>
+    <title>Trump presiona a México para dar un golpe contra los cárteles antes de las elecciones en EU</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/10/24/trump-presiona-a-mexico-para-dar-un-golpe-contra-los-carteles-antes-de-las-elecciones-en-eu-382464.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/10/24/trump-presiona-a-mexico-para-dar-un-golpe-contra-los-carteles-antes-de-las-elecciones-en-eu-382464.html</id>
+    <updated>2026-10-25T10:32:07Z</updated>
+    <summary>La Casa Blanca entregó al gobierno mexicano una propuesta para que agentes estadunidenses acompañen operaciones contra el narcotráfico, según The New York Times. La exigencia ocurre a diez días de las elecciones legislativas y mientras Trump asegura que está cerca de alcanzar un acuerdo comercial con México, en medio de las tensiones por el T-MEC.</summary>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Libro revela que Elba Esther pactó su libertad con AMLO a cambio de dejar el control del SNTE</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/10/23/libro-revela-que-elba-esther-pacto-su-libertad-con-amlo-a-cambio-de-dejar-el-control-del-snte-382385.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/10/23/libro-revela-que-elba-esther-pacto-su-libertad-con-amlo-a-cambio-de-dejar-el-control-del-snte-382385.html</id>
-    <updated>2026-10-24T16:31:36Z</updated>
+    <title>“No queremos un crédito, sino tener paz”: víctimas reclaman a Sheinbaum en Apatzingán</title>
+    <link href="https://www.proceso.com.mx/nacional/estados/2026/10/24/no-queremos-un-credito-sino-tener-paz-victimas-reclaman-a-sheinbaum-en-apatzingan-382476.html" />
+    <id>https://www.proceso.com.mx/nacional/estados/2026/10/24/no-queremos-un-credito-sino-tener-paz-victimas-reclaman-a-sheinbaum-en-apatzingan-382476.html</id>
+    <updated>2026-10-25T10:32:07Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>“Heil Júpiter!”, nueva película de Carlos Reygadas</title>
-    <link href="https://www.proceso.com.mx/cultura/2026/10/24/heil-jupiter-nueva-pelicula-de-carlos-reygadas-382446.html" />
-    <id>https://www.proceso.com.mx/cultura/2026/10/24/heil-jupiter-nueva-pelicula-de-carlos-reygadas-382446.html</id>
-    <updated>2026-10-24T16:31:36Z</updated>
+    <title>Cuestionan gasto de mil 200 millones en Rodeo Saltillo ante falta de recursos para desaparecidos</title>
+    <link href="https://www.proceso.com.mx/nacional/estados/2026/10/24/cuestionan-gasto-de-mil-200-millones-en-rodeo-saltillo-ante-falta-de-recursos-para-desaparecidos-382488.html" />
+    <id>https://www.proceso.com.mx/nacional/estados/2026/10/24/cuestionan-gasto-de-mil-200-millones-en-rodeo-saltillo-ante-falta-de-recursos-para-desaparecidos-382488.html</id>
+    <updated>2026-10-25T10:32:07Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Un alto al fuego local abre vía humanitaria en Jersón, pese a diferencias entre Kiev y Moscú</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/10/24/un-alto-al-fuego-local-abre-via-humanitaria-en-jerson-pese-a-diferencias-entre-kiev-y-moscu-382460.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/10/24/un-alto-al-fuego-local-abre-via-humanitaria-en-jerson-pese-a-diferencias-entre-kiev-y-moscu-382460.html</id>
-    <updated>2026-10-24T16:31:36Z</updated>
+    <title>Tigres arranca un punto en cancha de Pumas</title>
+    <link href="https://www.proceso.com.mx/deportes/2026/10/24/tigres-arranca-un-punto-en-cancha-de-pumas-382491.html" />
+    <id>https://www.proceso.com.mx/deportes/2026/10/24/tigres-arranca-un-punto-en-cancha-de-pumas-382491.html</id>
+    <updated>2026-10-25T10:32:07Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>FMF abre investigación en contra de Tepatitlán FC por presunto amaño de partidos</title>
-    <link href="https://www.proceso.com.mx/deportes/2026/10/24/fmf-abre-investigacion-en-contra-de-tepatitlan-fc-por-presunto-amano-de-partidos-382459.html" />
-    <id>https://www.proceso.com.mx/deportes/2026/10/24/fmf-abre-investigacion-en-contra-de-tepatitlan-fc-por-presunto-amano-de-partidos-382459.html</id>
-    <updated>2026-10-24T16:31:36Z</updated>
+    <title>Cerveceros remontan cuatro carreras ante Tampa Bay y toman ventaja de 2-0 en la Serie Mundial</title>
+    <link href="https://www.proceso.com.mx/deportes/2026/10/24/cerveceros-remontan-cuatro-carreras-ante-tampa-bay-y-toman-ventaja-de-2-0-en-la-serie-mundial-382490.html" />
+    <id>https://www.proceso.com.mx/deportes/2026/10/24/cerveceros-remontan-cuatro-carreras-ante-tampa-bay-y-toman-ventaja-de-2-0-en-la-serie-mundial-382490.html</id>
+    <updated>2026-10-25T10:32:07Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Un incendio arrasa el refugio construido para Hitler en Alemania; hay un detenido</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/10/24/un-incendio-arrasa-el-refugio-construido-para-hitler-en-alemania-hay-un-detenido-382458.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/10/24/un-incendio-arrasa-el-refugio-construido-para-hitler-en-alemania-hay-un-detenido-382458.html</id>
-    <updated>2026-10-24T16:31:36Z</updated>
+    <title>Chivas liga dos victorias al vencer 1-0 a Rayados; Toluca suma seis partidos sin ganar</title>
+    <link href="https://www.proceso.com.mx/deportes/2026/10/24/chivas-liga-dos-victorias-al-vencer-1-0-a-rayados-toluca-suma-seis-partidos-sin-ganar-382489.html" />
+    <id>https://www.proceso.com.mx/deportes/2026/10/24/chivas-liga-dos-victorias-al-vencer-1-0-a-rayados-toluca-suma-seis-partidos-sin-ganar-382489.html</id>
+    <updated>2026-10-25T10:32:07Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -309,7 +321,7 @@
     <title>Regulación de redes sociales, un avance incipiente</title>
     <link href="https://www.proceso.com.mx/opinion/2026/10/24/regulacion-de-redes-sociales-un-avance-incipiente-382448.html" />
     <id>https://www.proceso.com.mx/opinion/2026/10/24/regulacion-de-redes-sociales-un-avance-incipiente-382448.html</id>
-    <updated>2026-10-24T16:31:36Z</updated>
+    <updated>2026-10-25T10:32:07Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -318,7 +330,7 @@
     <title>Desaparición forzada. La negación del Estado mexicano a examen en la ONU</title>
     <link href="https://www.proceso.com.mx/nacional/2026/10/19/desaparicion-forzada-la-negacion-del-estado-mexicano-a-examen-en-la-onu-382057.html" />
     <id>https://www.proceso.com.mx/nacional/2026/10/19/desaparicion-forzada-la-negacion-del-estado-mexicano-a-examen-en-la-onu-382057.html</id>
-    <updated>2026-10-24T16:31:36Z</updated>
+    <updated>2026-10-25T10:32:07Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -327,7 +339,7 @@
     <title>Llega al Congreso Mexiquense la polémica por el Plan Metropolitano</title>
     <link href="https://www.eluniversal.com.mx/opinion/el-caballito/llega-al-congreso-mexiquense-la-polemica-por-el-plan-metropolitano/" />
     <id>https://www.eluniversal.com.mx/opinion/el-caballito/llega-al-congreso-mexiquense-la-polemica-por-el-plan-metropolitano/</id>
-    <updated>2026-10-24T16:31:36Z</updated>
+    <updated>2026-10-25T10:32:07Z</updated>
     <author>
       <name>El Universal</name>
     </author>
@@ -336,7 +348,7 @@
     <title>Los juegos centroamericanos cumplen 100 años</title>
     <link href="https://www.eluniversal.com.mx/opinion/mochilazo-en-el-tiempo/los-juegos-centroamericanos-cumplen-100-anos/" />
     <id>https://www.eluniversal.com.mx/opinion/mochilazo-en-el-tiempo/los-juegos-centroamericanos-cumplen-100-anos/</id>
-    <updated>2026-10-24T16:31:36Z</updated>
+    <updated>2026-10-25T10:32:07Z</updated>
     <author>
       <name>El Universal</name>
     </author>
@@ -345,7 +357,7 @@
     <title>Gonzalo Celorio: ”La novela necesita una libertad para expresarse”</title>
     <link href="https://www.eluniversal.com.mx/cultura/gonzalo-celorio-la-novela-necesita-una-libertad-para-expresarse/" />
     <id>https://www.eluniversal.com.mx/cultura/gonzalo-celorio-la-novela-necesita-una-libertad-para-expresarse/</id>
-    <updated>2026-10-24T16:31:36Z</updated>
+    <updated>2026-10-25T10:32:07Z</updated>
     <author>
       <name>El Universal</name>
     </author>
@@ -354,7 +366,7 @@
     <title>Exjefa de USAID rechaza acusaciones de injerencia en México; respalda a Sheinbaum ante Trump</title>
     <link href="https://www.eluniversal.com.mx/nacion/exjefa-de-usaid-rechaza-acusaciones-de-injerencia-en-mexico-respalda-a-sheinbaum-ante-trump/" />
     <id>https://www.eluniversal.com.mx/nacion/exjefa-de-usaid-rechaza-acusaciones-de-injerencia-en-mexico-respalda-a-sheinbaum-ante-trump/</id>
-    <updated>2026-10-24T16:31:36Z</updated>
+    <updated>2026-10-25T10:32:07Z</updated>
     <author>
       <name>El Universal</name>
     </author>
@@ -363,7 +375,8 @@
     <title>La salud pública y el discurso político</title>
     <link href="https://www.eluniversal.com.mx/carton/boligan/la-salud-publica-y-el-discurso-politico/" />
     <id>https://www.eluniversal.com.mx/carton/boligan/la-salud-publica-y-el-discurso-politico/</id>
-    <updated>2026-10-24T16:31:36Z</updated>
+    <updated>2026-10-25T10:32:07Z</updated>
+    <summary>Cartón de BOLIGÁN</summary>
     <author>
       <name>El Universal</name>
     </author>
