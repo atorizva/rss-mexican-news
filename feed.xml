@@ -2,116 +2,145 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mexican News</title>
   <id>tag:atorizva.github.io,2026:rss-mexican-news</id>
-  <updated>2026-10-28T11:57:41Z</updated>
+  <updated>2026-10-29T12:07:12Z</updated>
   <link href="https://atorizva.github.io/rss-mexican-news/feed.xml" rel="self" />
   <entry>
-    <title>Santo de hoy 28 de octubre: San Judas Tadeo y su oración ante momentos de desesperación</title>
-    <link href="https://www.excelsior.com.mx/cultura/santo-hoy-28-octubre-san-judas-tadeo-y-oracion-momentos-desesperacion" />
-    <id>https://www.excelsior.com.mx/cultura/santo-hoy-28-octubre-san-judas-tadeo-y-oracion-momentos-desesperacion</id>
-    <updated>2026-10-28T10:00:00Z</updated>
-    <summary>Descubre la razón por la que millones acuden hoy al patrón de lo imposible para pedir amparo en situaciones límite y cómo elevar tu plegaria con fe.</summary>
+    <title>El líder que fracturó al PRI y forjó la alternancia pacífica; tres veces candidato presidencial</title>
+    <link href="https://www.excelsior.com.mx/nacional/lider-que-fracturo-pri-y-forjo-alternancia-pacifica-tres-veces-candidato-presidencial" />
+    <id>https://www.excelsior.com.mx/nacional/lider-que-fracturo-pri-y-forjo-alternancia-pacifica-tres-veces-candidato-presidencial</id>
+    <updated>2026-10-29T10:28:21Z</updated>
+    <summary>Cuauhtémoc Cárdenas, fundador del PRD y primer jefe de gobierno del DF, fue protagonista de la transformación política nacional</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Clan Taddei tejió redes en 13 estados para ganar contratos; identifican a cinco funcionarios allegados</title>
-    <link href="https://www.eluniversal.com.mx/nacion/clan-taddei-tejio-redes-en-13-estados-para-ganar-contratos-identifican-a-cinco-funcionarios-allegados/" />
-    <id>https://www.eluniversal.com.mx/nacion/clan-taddei-tejio-redes-en-13-estados-para-ganar-contratos-identifican-a-cinco-funcionarios-allegados/</id>
-    <updated>2026-10-28T09:49:56Z</updated>
-    <summary>Empresas de los Hernández Casillas fueron beneficiadas mediante licitaciones simuladas en 13 organismos electorales; en cinco se identificó a funcionarios allegados a la extitular del INE</summary>
+    <title>Símbolo de la transición democrática en México; murió Cuauhtémoc Cárdenas</title>
+    <link href="https://www.excelsior.com.mx/nacional/simbolo-transicion-democratica-mexico-murio-cuauhtemoc-cardenas" />
+    <id>https://www.excelsior.com.mx/nacional/simbolo-transicion-democratica-mexico-murio-cuauhtemoc-cardenas</id>
+    <updated>2026-10-29T09:53:49Z</updated>
+    <summary>Personajes de la vida pública del país coinciden en destacar que fue un defensor de la soberanía y las libertades políticas</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Fallecimiento de Cuauhtémoc Cárdenas hizo eco en medios internacionales</title>
+    <link href="https://www.excelsior.com.mx/nacional/fallecimiento-cuauhtemoc-cardenas-eco-medios-internacionales" />
+    <id>https://www.excelsior.com.mx/nacional/fallecimiento-cuauhtemoc-cardenas-eco-medios-internacionales</id>
+    <updated>2026-10-29T09:52:14Z</updated>
+    <summary>Diarios y agencias de Estados Unidos y Europa recordaron a Cuauhtémoc Cárdenas como un hombre clave de la transición democrática y de la izquierda mexicana</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Antonio Pérez Garibay despide a Cuauhtémoc Cárdenas: “Un día triste para México”</title>
+    <link href="https://www.excelsior.com.mx/nacional/perez-garibay-despide-cardenas-dia-triste-para-mexico" />
+    <id>https://www.excelsior.com.mx/nacional/perez-garibay-despide-cardenas-dia-triste-para-mexico</id>
+    <updated>2026-10-29T09:11:20Z</updated>
+    <summary>A su llegada al Panteón Francés, pare el velorio del Ingeniero, el político llamó a recordar su tenacidad y el amor por México</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Entre el drama y la ficción: Penélope Cruz analiza sus nuevos retos en 'Búnker' y 'La bola negra'</title>
+    <link href="https://www.excelsior.com.mx/espectaculos/entre-drama-y-ficcion-penelope-cruz-analiza-nuevos-retos-bunker-y-bola-negra" />
+    <id>https://www.excelsior.com.mx/espectaculos/entre-drama-y-ficcion-penelope-cruz-analiza-nuevos-retos-bunker-y-bola-negra</id>
+    <updated>2026-10-29T09:00:00Z</updated>
+    <summary>Penélope Cruz vive un momento cumbre en su carrera con el estreno de 'The Invite', 'Búnker' y 'La bola negra'. En entrevista, la actriz española habla sobre cómo equilibra la maternidad con la actuación, el reto de filmar escenas intensas junto a su esposo Javier Bardem y la eterna inspiración de Pedro Almodóvar en su vida</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Viggiano y Noroña chocan por Taddei; aluden propiedades millonarias</title>
+    <link href="https://www.excelsior.com.mx/nacional/viggiano-y-norona-chocan-por-taddei-aluden-propiedades-millonarias" />
+    <id>https://www.excelsior.com.mx/nacional/viggiano-y-norona-chocan-por-taddei-aluden-propiedades-millonarias</id>
+    <updated>2026-10-29T08:31:47Z</updated>
+    <summary>La senadora priista llamó “acomplejado” y “clasista” al morenista luego de que éste negó que la expresidenta del INE perteneciera a su partido</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Senado busca quitar superpoderes en INE; fuerzas políticas promueven cuatro iniciativas</title>
+    <link href="https://www.excelsior.com.mx/nacional/senado-busca-quitar-superpoderes-ine-fuerzas-politicas-promueven-cuatro-iniciativas" />
+    <id>https://www.excelsior.com.mx/nacional/senado-busca-quitar-superpoderes-ine-fuerzas-politicas-promueven-cuatro-iniciativas</id>
+    <updated>2026-10-29T08:09:46Z</updated>
+    <summary>Morenistas y opositores impulsan que se revoquen las facultades extraordinarias</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>"Letras Libres" reúne a especialistas de México y España para debatir historia y democracia</title>
+    <link href="https://www.excelsior.com.mx/cultura/letras-libres-reune-especialistas-mexico-y-espana-para-debatir-historia-y-democracia" />
+    <id>https://www.excelsior.com.mx/cultura/letras-libres-reune-especialistas-mexico-y-espana-para-debatir-historia-y-democracia</id>
+    <updated>2026-10-29T08:00:00Z</updated>
+    <summary>El encuentro por los 25 años de la edición española de la revista incluye cuatro mesas sobre la historia compartida, el exilio español en México, la Conquista y los desafíos actuales de la democracia, con la participación de 16 especialistas.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Sheinbaum despide a Cuauhtémoc Cárdenas; “Transformó la vida política de nuestro país”</title>
+    <link href="https://www.eluniversal.com.mx/nacion/sheinbaum-lamenta-fallecimiento-de-cuauhtemoc-cardenas-un-hombre-de-que-transformo-la-vida-politica-de-nuestro-pais/" />
+    <id>https://www.eluniversal.com.mx/nacion/sheinbaum-lamenta-fallecimiento-de-cuauhtemoc-cardenas-un-hombre-de-que-transformo-la-vida-politica-de-nuestro-pais/</id>
+    <updated>2026-10-29T03:35:40Z</updated>
+    <summary>A través de redes sociales, la presidenta de México lanzó un mensaje para reconocer su trayectoria</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Para los contrincantes: Así es como ser forjan los campeones infantiles en Tepito</title>
-    <link href="https://www.excelsior.com.mx/espectaculos/para-contrincantes-es-como-ser-forjan-campeones-infantiles-tepito" />
-    <id>https://www.excelsior.com.mx/espectaculos/para-contrincantes-es-como-ser-forjan-campeones-infantiles-tepito</id>
-    <updated>2026-10-28T09:30:00Z</updated>
-    <summary>La mexicana Salma Hayek está detrás del documental que busca meterse a la lista corta como mejor cortometraje de cara al Oscar; Excélsior habló con el director</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Especialistas piden atender las otras violencias en Coahuila</title>
-    <link href="https://www.eluniversal.com.mx/estados/especialistas-piden-atender-las-otras-violencias-en-coahuila/" />
-    <id>https://www.eluniversal.com.mx/estados/especialistas-piden-atender-las-otras-violencias-en-coahuila/</id>
-    <updated>2026-10-28T06:50:55Z</updated>
-    <summary>Señalan expertos la necesidad de tomar en consideración dinámicas sociales que pueden convertirse en delitos de alto impacto</summary>
+    <title>AMLO lamenta la muerte de Cuauhtémoc Cárdenas; lo llama precursor del movimiento democrático</title>
+    <link href="https://www.eluniversal.com.mx/nacion/amlo-lamenta-la-muerte-fallecimiento-de-cuauhtemoc-cardenas-precursor-del-movimiento-democratico-en-la-historia-reciente-de-mexico/" />
+    <id>https://www.eluniversal.com.mx/nacion/amlo-lamenta-la-muerte-fallecimiento-de-cuauhtemoc-cardenas-precursor-del-movimiento-democratico-en-la-historia-reciente-de-mexico/</id>
+    <updated>2026-10-29T03:30:41Z</updated>
+    <summary>A través de X, el expresidente de México afirmó que sin Cárdenas la realidad política del país sería otra</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Rays evita barrida de Brewers y obliga al Juego 5 en la Serie Mundial 2026</title>
-    <link href="https://www.excelsior.com.mx/deportes/rays-evita-barrida-brewers-y-obliga-juego-5-serie-mundial-2026" />
-    <id>https://www.excelsior.com.mx/deportes/rays-evita-barrida-brewers-y-obliga-juego-5-serie-mundial-2026</id>
-    <updated>2026-10-28T04:30:01Z</updated>
-    <summary>Definiendo el triunfo en la duodécima entrada, Rays logró imponer condiciones por primera vez en la Serie Mundial 2026; venció 4x3 a Brewers y obligó al Juego 5</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>América Vs Xolos: Precio del estacionamiento aumenta a más de $650</title>
-    <link href="https://www.excelsior.com.mx/deportes/estadio-banorte-estacionamiento-precio-america-xolos" />
-    <id>https://www.excelsior.com.mx/deportes/estadio-banorte-estacionamiento-precio-america-xolos</id>
-    <updated>2026-10-28T03:29:31Z</updated>
-    <summary>Para el América Vs Xolos del miércoles 28 de octubre, el costo del estacionamiento sobrepasa los $650; aumentará si se compra directo en el Estadio Banorte</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Trump presume arancel de 25% que impuso a autos importados de México; celebra que empresas se muden a EU</title>
-    <link href="https://www.eluniversal.com.mx/mundo/trump-presume-arancel-de-25-que-impuso-a-autos-importados-de-mexico-celebra-que-empresas-se-muden-a-eu/" />
-    <id>https://www.eluniversal.com.mx/mundo/trump-presume-arancel-de-25-que-impuso-a-autos-importados-de-mexico-celebra-que-empresas-se-muden-a-eu/</id>
-    <updated>2026-10-28T03:07:19Z</updated>
-    <summary>Trump festejó de nueva cuenta la decisión de la automotriz japonesa Toyota de trasladar de México a San Antonio, Texas, la producción de su camioneta Tacoma</summary>
+    <title>Perfil de Cuauhtémoc Cárdenas, fundador del PRD; fue la cuña que abrió al PRI al final del Siglo XX</title>
+    <link href="https://www.eluniversal.com.mx/nacion/perfil-de-cuauhtemoc-cardenas-fundador-del-prd-fue-la-cuna-que-abrio-al-pri-al-final-del-siglo-xx/" />
+    <id>https://www.eluniversal.com.mx/nacion/perfil-de-cuauhtemoc-cardenas-fundador-del-prd-fue-la-cuna-que-abrio-al-pri-al-final-del-siglo-xx/</id>
+    <updated>2026-10-29T03:08:04Z</updated>
+    <summary>Seis años después del fallecimiento de su padre el presidente Lázaro Cárdenas, Cuauhtémoc inició su trayectoria política, al ser candidato a senador de la República</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Fiscalía CDMX abre investigación por presunto envenenamiento de perros en Parque España; dos lomitos murieron</title>
-    <link href="https://www.eluniversal.com.mx/metropoli/fiscalia-cdmx-abre-investigacion-por-presunto-envenenamiento-de-perros-en-parque-espana-dos-lomitos-murieron/" />
-    <id>https://www.eluniversal.com.mx/metropoli/fiscalia-cdmx-abre-investigacion-por-presunto-envenenamiento-de-perros-en-parque-espana-dos-lomitos-murieron/</id>
-    <updated>2026-10-28T02:52:03Z</updated>
-    <summary>La carpeta fue abierta por el delito de maltrato o crueldad contra animales no humanos</summary>
+    <title>Muere Cuauhtémoc Cárdenas Solórzano a los 92 años; tres veces candidato presidencial</title>
+    <link href="https://www.eluniversal.com.mx/nacion/muere-cuauhtemoc-cardenas-a-los-92-anos-ingeniero-civil-y-fundador-del-prd/" />
+    <id>https://www.eluniversal.com.mx/nacion/muere-cuauhtemoc-cardenas-a-los-92-anos-ingeniero-civil-y-fundador-del-prd/</id>
+    <updated>2026-10-29T02:59:08Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Álvaro Ortiz reveló el momento en que compartió con su hermano la emoción de volver al PGA Tour</title>
-    <link href="https://www.excelsior.com.mx/deportes/alvaro-ortiz-revelo-momento-que-compartio-con-hermano-emocion-volver-pga-tour" />
-    <id>https://www.excelsior.com.mx/deportes/alvaro-ortiz-revelo-momento-que-compartio-con-hermano-emocion-volver-pga-tour</id>
-    <updated>2026-10-28T02:04:07Z</updated>
-    <summary>El mexicano charló con Excélsior y recordó uno de los momentos más especiales de su carrera al recibir la felicitación de su hermano.</summary>
+    <title>Riesgo de estampida revienta festividad; cierran San Hipólito</title>
+    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/san-judas-tadeo-miles-fieles-abarrotan-san-hipolito" />
+    <id>https://www.excelsior.com.mx/ciudad-de-mexico/san-judas-tadeo-miles-fieles-abarrotan-san-hipolito</id>
+    <updated>2026-10-29T02:37:08Z</updated>
+    <summary>Algunos de los asistentes regalaban objetos religiosos a los asistentes para pagar alguna manda por el favor recibido</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Rumbo al Mundial 2030: Juan Brunetta sería el 6º no nacido en México del Tri</title>
-    <link href="https://www.excelsior.com.mx/deportes/rumbo-mundial-2030-juan-brunetta-seria-6o-no-nacido-mexico-tri" />
-    <id>https://www.excelsior.com.mx/deportes/rumbo-mundial-2030-juan-brunetta-seria-6o-no-nacido-mexico-tri</id>
-    <updated>2026-10-28T02:03:25Z</updated>
-    <summary>Juan Brunetta podría convertirse en un nuevo jugador no nacido en México en vestir la playera del Tri de cara al Mundial 2030; estas son las condiciones</summary>
+    <title>Sobrinos de Taddei también dejan el INE; suman 15 renuncias</title>
+    <link href="https://www.excelsior.com.mx/nacional/inician-renuncias-sobrinos-taddei-ine" />
+    <id>https://www.excelsior.com.mx/nacional/inician-renuncias-sobrinos-taddei-ine</id>
+    <updated>2026-10-29T01:27:04Z</updated>
+    <summary>Blanca Cruz, presidenta provisional del INE, informó que recibió 12 renuncias voluntarias de personal adscrito a la oficina de la Presidencia, entre ellas la del jefe de oficina, Carlos Luna</summary>
     <author>
       <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Empresas ligadas a Clan Taddei también recibieron contratos de Talleres Gráficos; suman 278 mdp</title>
-    <link href="https://www.eluniversal.com.mx/nacion/empresas-ligadas-a-clan-taddei-tambien-recibieron-contratos-de-talleres-graficos-suman-278-mdp/" />
-    <id>https://www.eluniversal.com.mx/nacion/empresas-ligadas-a-clan-taddei-tambien-recibieron-contratos-de-talleres-graficos-suman-278-mdp/</id>
-    <updated>2026-10-28T01:00:54Z</updated>
-    <summary>Las empresas investigadas por la UIF realizaron servicios de impresión y suministraron materiales electorales al órgano dependiente de Gobernación</summary>
-    <author>
-      <name>El Universal</name>
     </author>
   </entry>
   <entry>
@@ -205,123 +234,83 @@
     </author>
   </entry>
   <entry>
-    <title>Clausuran los Juegos Centroamericanos 2026: Juan Luis Guerra pone la música</title>
-    <link href="https://www.excelsior.com.mx/deportes/clausuran-juegos-centroamericanos-2026-juan-luis-guerra-pone-musica" />
-    <id>https://www.excelsior.com.mx/deportes/clausuran-juegos-centroamericanos-2026-juan-luis-guerra-pone-musica</id>
-    <updated>2026-08-09T01:22:22Z</updated>
-    <summary>México cerró como líder del medallero con 407 preseas, incluidas 167 de oro en los Juegos Centroamericanos y del Caribe 20266</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Quetzaly Lara: La joya de 15 años que asombra al pentatlón moderno mexicano, nunca se achicó</title>
-    <link href="https://www.excelsior.com.mx/deportes/quetzaly-lara-joya-15-anos-que-asombra-pentatlon-moderno-mexicano-nunca-achico" />
-    <id>https://www.excelsior.com.mx/deportes/quetzaly-lara-joya-15-anos-que-asombra-pentatlon-moderno-mexicano-nunca-achico</id>
-    <updated>2026-08-08T22:26:24Z</updated>
-    <summary>La más jóven en pentatlón moderno para México culminó en el noveno sitió, sin embargo, los Juegos de Santo Domingo le entregaron un aprendizaje mayúsculo para el futuro.</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Doble plata para México: Karim Saadi, subcampeón en Centroamericanos</title>
-    <link href="https://www.excelsior.com.mx/deportes/doble-plata-para-mexico-karim-saadi-subcampeon-centroamericanos" />
-    <id>https://www.excelsior.com.mx/deportes/doble-plata-para-mexico-karim-saadi-subcampeon-centroamericanos</id>
-    <updated>2026-08-08T20:41:17Z</updated>
-    <summary>El yucateco Karim Saadi se colgó las medallas de plata en el Arranque y Envión del Levantamiento de Pesas de los Juegos Centroamericanos y del Caribe Santo Domingo 2026</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Así terminó el medallero de los Juegos Centroamericanos 2026: México en la cima</title>
-    <link href="https://www.excelsior.com.mx/deportes/termino-medallero-juegos-centroamericanos-2026-mexico-cima" />
-    <id>https://www.excelsior.com.mx/deportes/termino-medallero-juegos-centroamericanos-2026-mexico-cima</id>
-    <updated>2026-08-08T20:34:41Z</updated>
-    <summary>Sumando un total de 407 preseas, México terminó en todo lo alto del medallero en los Juegos Centroamericanos y del Caribe 2026; Celia Pulido la que ostenta más metales</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>En CDMX, no hay desapariciones forzadas cometidas por agentes del Estado: Brugada</title>
-    <link href="https://www.proceso.com.mx/nacional/cdmx/2026/10/27/en-cdmx-no-hay-desapariciones-forzadas-cometidas-por-agentes-del-estado-brugada-382681.html" />
-    <id>https://www.proceso.com.mx/nacional/cdmx/2026/10/27/en-cdmx-no-hay-desapariciones-forzadas-cometidas-por-agentes-del-estado-brugada-382681.html</id>
-    <updated>2026-10-28T11:57:41Z</updated>
+    <title>Cuauhtémoc Cárdenas vive por siempre en la historia de México: Sheinbaum</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/10/28/cuauhtemoc-cardenas-vive-por-siempre-en-la-historia-de-mexico-sheinbaum-382756.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/10/28/cuauhtemoc-cardenas-vive-por-siempre-en-la-historia-de-mexico-sheinbaum-382756.html</id>
+    <updated>2026-10-29T12:07:12Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Diputados de la 4T avalan que militares aprueben inversión extranjera</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/10/27/diputados-de-la-4t-avalan-que-militares-aprueben-inversion-extranjera-382678.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/10/27/diputados-de-la-4t-avalan-que-militares-aprueben-inversion-extranjera-382678.html</id>
-    <updated>2026-10-28T11:57:41Z</updated>
+    <title>Con AMLO, “la misma medicina” que acentúa los males: Cuauhtémoc Cárdenas</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/10/28/con-amlo-la-misma-medicina-que-acentua-los-males-cuauhtemoc-cardenas-382754.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/10/28/con-amlo-la-misma-medicina-que-acentua-los-males-cuauhtemoc-cardenas-382754.html</id>
+    <updated>2026-10-29T12:07:12Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Caída de Taddei exhibe a las piezas de Adán Augusto López en el INE</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/10/27/caida-de-taddei-exhibe-a-las-piezas-de-adan-augusto-lopez-en-el-ine-382594.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/10/27/caida-de-taddei-exhibe-a-las-piezas-de-adan-augusto-lopez-en-el-ine-382594.html</id>
-    <updated>2026-10-28T11:57:41Z</updated>
-    <summary>La renuncia de Guadalupe Taddei al INE deja al grupo de Adán Augusto López sin una aliada estratégica. Taddei ubicó a personas del Grupo Tabasco en áreas clave mediante facultades otorgadas en reserva. Voces críticas exigen revisar y remover esos nombramientos.</summary>
+    <title>Murió Cuauhtémoc Cárdenas, figura central de la izquierda mexicana</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/10/28/murio-cuauhtemoc-cardenas-figura-central-de-la-izquierda-mexicana-382752.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/10/28/murio-cuauhtemoc-cardenas-figura-central-de-la-izquierda-mexicana-382752.html</id>
+    <updated>2026-10-29T12:07:12Z</updated>
+    <summary>Ingeniero de profesión, Cárdenas fundó el Partido de la Revolución Democrática (PRD) en 1989 y fue tres veces candidato a la Presidencia de la República.</summary>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Consejera presidenta interina del INE fue acusada de "meter mano" a la elección en Puebla</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/10/27/consejera-presidenta-interina-del-ine-fue-acusada-de-meter-mano-a-la-eleccion-en-puebla-382671.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/10/27/consejera-presidenta-interina-del-ine-fue-acusada-de-meter-mano-a-la-eleccion-en-puebla-382671.html</id>
-    <updated>2026-10-28T11:57:41Z</updated>
+    <title>No habrá huelga en Volkswagen; trabajadores aceptan oferta de incremento salarial</title>
+    <link href="https://www.proceso.com.mx/nacional/estados/2026/10/28/no-habra-huelga-en-volkswagen-trabajadores-aceptan-oferta-de-incremento-salarial-382755.html" />
+    <id>https://www.proceso.com.mx/nacional/estados/2026/10/28/no-habra-huelga-en-volkswagen-trabajadores-aceptan-oferta-de-incremento-salarial-382755.html</id>
+    <updated>2026-10-29T12:07:12Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Detienen en Nueva York a Natalia Rezende, esposa de Cuauhtémoc Blanco</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/10/27/detienen-en-nueva-york-a-natalia-rezende-esposa-de-cuauhtemoc-blanco-382639.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/10/27/detienen-en-nueva-york-a-natalia-rezende-esposa-de-cuauhtemoc-blanco-382639.html</id>
-    <updated>2026-10-28T11:57:41Z</updated>
+    <title>Cerveceros conquistan la Serie Mundial por primera vez en la historia</title>
+    <link href="https://www.proceso.com.mx/deportes/2026/10/28/cerveceros-conquistan-la-serie-mundial-por-primera-vez-en-la-historia-382757.html" />
+    <id>https://www.proceso.com.mx/deportes/2026/10/28/cerveceros-conquistan-la-serie-mundial-por-primera-vez-en-la-historia-382757.html</id>
+    <updated>2026-10-29T12:07:12Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Decenas de muertos por choque de trenes de alta velocidad en Toledo, España</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/10/28/decenas-de-muertos-por-choque-de-trenes-de-alta-velocidad-en-toledo-espana-382692.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/10/28/decenas-de-muertos-por-choque-de-trenes-de-alta-velocidad-en-toledo-espana-382692.html</id>
-    <updated>2026-10-28T11:57:41Z</updated>
+    <title>La retórica de Trump sobre elecciones robadas no es nueva. Su capacidad de actuar al respecto sí</title>
+    <link href="https://www.proceso.com.mx/internacional/2026/10/29/la-retorica-de-trump-sobre-elecciones-robadas-no-es-nueva-su-capacidad-de-actuar-al-respecto-si-382770.html" />
+    <id>https://www.proceso.com.mx/internacional/2026/10/29/la-retorica-de-trump-sobre-elecciones-robadas-no-es-nueva-su-capacidad-de-actuar-al-respecto-si-382770.html</id>
+    <updated>2026-10-29T12:07:12Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>El bloque de Netanyahu toma ventaja en los primeros resultados oficiales</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/10/28/el-bloque-de-netanyahu-toma-ventaja-en-los-primeros-resultados-oficiales-382691.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/10/28/el-bloque-de-netanyahu-toma-ventaja-en-los-primeros-resultados-oficiales-382691.html</id>
-    <updated>2026-10-28T11:57:41Z</updated>
+    <title>Paweł Pawlikowski, maestro del cine de 90 minutos, regresa con “Tierra de mi padre”</title>
+    <link href="https://www.proceso.com.mx/cultura/2026/10/29/pawe-pawlikowski-maestro-del-cine-de-90-minutos-regresa-con-tierra-de-mi-padre-382769.html" />
+    <id>https://www.proceso.com.mx/cultura/2026/10/29/pawe-pawlikowski-maestro-del-cine-de-90-minutos-regresa-con-tierra-de-mi-padre-382769.html</id>
+    <updated>2026-10-29T12:07:12Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Desfallece el imperio de la impunidad: la reciente multa impuesta a Facebook</title>
-    <link href="https://www.proceso.com.mx/opinion/2026/10/25/desfallece-el-imperio-de-la-impunidad-la-reciente-multa-impuesta-a-facebook-382440.html" />
-    <id>https://www.proceso.com.mx/opinion/2026/10/25/desfallece-el-imperio-de-la-impunidad-la-reciente-multa-impuesta-a-facebook-382440.html</id>
-    <updated>2026-10-28T11:57:41Z</updated>
+    <title>EZLN y las familias de desaparecidos</title>
+    <link href="https://www.proceso.com.mx/opinion/2026/10/28/ezln-y-las-familias-de-desaparecidos-382675.html" />
+    <id>https://www.proceso.com.mx/opinion/2026/10/28/ezln-y-las-familias-de-desaparecidos-382675.html</id>
+    <updated>2026-10-29T12:07:12Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Se va Taddei</title>
-    <link href="https://www.proceso.com.mx/opinion/2026/10/26/se-va-taddei-382536.html" />
-    <id>https://www.proceso.com.mx/opinion/2026/10/26/se-va-taddei-382536.html</id>
-    <updated>2026-10-28T11:57:41Z</updated>
+    <title>"La despedida"</title>
+    <link href="https://www.proceso.com.mx/opinion/2026/10/28/la-despedida-382701.html" />
+    <id>https://www.proceso.com.mx/opinion/2026/10/28/la-despedida-382701.html</id>
+    <updated>2026-10-29T12:07:12Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -330,53 +319,63 @@
     <title>Desaparición forzada. La negación del Estado mexicano a examen en la ONU</title>
     <link href="https://www.proceso.com.mx/nacional/2026/10/19/desaparicion-forzada-la-negacion-del-estado-mexicano-a-examen-en-la-onu-382057.html" />
     <id>https://www.proceso.com.mx/nacional/2026/10/19/desaparicion-forzada-la-negacion-del-estado-mexicano-a-examen-en-la-onu-382057.html</id>
-    <updated>2026-10-28T11:57:41Z</updated>
+    <updated>2026-10-29T12:07:12Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Un secretario que habla de todo, pero deja dudas</title>
-    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/un-secretario-que-habla-de-todo-pero-deja-dudas/" />
-    <id>https://www.eluniversal.com.mx/opinion/el-caballito/un-secretario-que-habla-de-todo-pero-deja-dudas/</id>
-    <updated>2026-10-28T11:57:41Z</updated>
+    <title>De ser “adversario político” de AMLO a promover el voto por Sheinbaum; así fue la relación de Cuauhtémoc Cárdenas con la 4T</title>
+    <link href="https://www.eluniversal.com.mx/nacion/de-ser-adversario-politico-de-amlo-a-promover-el-voto-por-sheinbaum-asi-fue-la-relacion-de-cuauhtemoc-cardenas-con-la-4t/" />
+    <id>https://www.eluniversal.com.mx/nacion/de-ser-adversario-politico-de-amlo-a-promover-el-voto-por-sheinbaum-asi-fue-la-relacion-de-cuauhtemoc-cardenas-con-la-4t/</id>
+    <updated>2026-10-29T12:07:12Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Autoridades, “ocupadísimas” para impedir linchamiento</title>
-    <link href="https://www.eluniversal.com.mx/opinion/kiosko/autoridades-ocupadisimas-para-impedir-linchamiento/" />
-    <id>https://www.eluniversal.com.mx/opinion/kiosko/autoridades-ocupadisimas-para-impedir-linchamiento/</id>
-    <updated>2026-10-28T11:57:41Z</updated>
+    <title>Frena Instituto Electoral mexiquense contratos</title>
+    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/frena-instituto-electoral-mexiquense-contratos/" />
+    <id>https://www.eluniversal.com.mx/opinion/el-caballito/frena-instituto-electoral-mexiquense-contratos/</id>
+    <updated>2026-10-29T12:07:12Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Impulsa plataforma digital venta de autos usados</title>
-    <link href="https://www.eluniversal.com.mx/opinion/desbalance/impulsa-plataforma-digital-venta-de-autos-usados/" />
-    <id>https://www.eluniversal.com.mx/opinion/desbalance/impulsa-plataforma-digital-venta-de-autos-usados/</id>
-    <updated>2026-10-28T11:57:41Z</updated>
+    <title>Por andar de chapulín alcalde se queda sin partido</title>
+    <link href="https://www.eluniversal.com.mx/opinion/kiosko/por-andar-de-chapulin-alcalde-se-queda-sin-partido/" />
+    <id>https://www.eluniversal.com.mx/opinion/kiosko/por-andar-de-chapulin-alcalde-se-queda-sin-partido/</id>
+    <updated>2026-10-29T12:07:12Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>La Secretaría de la Ciencia y su lucha de clases</title>
-    <link href="https://www.eluniversal.com.mx/opinion/crimen-castigo/la-secretaria-de-la-ciencia-y-su-lucha-de-clases/" />
-    <id>https://www.eluniversal.com.mx/opinion/crimen-castigo/la-secretaria-de-la-ciencia-y-su-lucha-de-clases/</id>
-    <updated>2026-10-28T11:57:41Z</updated>
+    <title>Ebrard ¿el operador?</title>
+    <link href="https://www.eluniversal.com.mx/opinion/desbalance/ebrard-el-operador/" />
+    <id>https://www.eluniversal.com.mx/opinion/desbalance/ebrard-el-operador/</id>
+    <updated>2026-10-29T12:07:12Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>La suplente de Taddei</title>
-    <link href="https://www.eluniversal.com.mx/carton/kemchs/la-suplente-de-taddei/" />
-    <id>https://www.eluniversal.com.mx/carton/kemchs/la-suplente-de-taddei/</id>
-    <updated>2026-10-28T11:57:41Z</updated>
-    <summary>Cartón de KEMCHS</summary>
+    <title>Modelo Trump se mide en las elecciones intermedias</title>
+    <link href="https://www.eluniversal.com.mx/mundo/modelo-trump-se-mide-en-las-elecciones-intermedias/" />
+    <id>https://www.eluniversal.com.mx/mundo/modelo-trump-se-mide-en-las-elecciones-intermedias/</id>
+    <updated>2026-10-29T12:07:12Z</updated>
+    <summary>Mirada Global</summary>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>¿Por qué un detector de IA no puede aún sustituir una indagatoria humana?</title>
+    <link href="https://www.eluniversal.com.mx/cultura/por-que-un-detector-de-ia-no-puede-aun-sustituir-una-indagatoria-humana/" />
+    <id>https://www.eluniversal.com.mx/cultura/por-que-un-detector-de-ia-no-puede-aun-sustituir-una-indagatoria-humana/</id>
+    <updated>2026-10-29T12:07:12Z</updated>
+    <summary>Especialistas en tecnología explican que incluso el software más avanzado hasta ahora que rastrea IA en un texto no es absolutamente confiable para sustituir la responsabilidad de contrastar pruebas para juicios concluyentes</summary>
     <author>
       <name>El Universal</name>
     </author>
