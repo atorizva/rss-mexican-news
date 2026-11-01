@@ -2,154 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mexican News</title>
   <id>tag:atorizva.github.io,2026:rss-mexican-news</id>
-  <updated>2026-10-31T11:33:12Z</updated>
+  <updated>2026-11-01T12:30:04Z</updated>
   <link href="https://atorizva.github.io/rss-mexican-news/feed.xml" rel="self" />
   <entry>
-    <title>Auditoría halla transas en el INE, UNAM, NL y Sinaloa; Clan Taddei, Territorium y funcionarios, en la mira</title>
-    <link href="https://www.eluniversal.com.mx/nacion/auditoria-halla-transas-en-el-ine-unam-nl-y-sinaloa-clan-taddei-territorium-y-funcionarios-en-la-mira/" />
-    <id>https://www.eluniversal.com.mx/nacion/auditoria-halla-transas-en-el-ine-unam-nl-y-sinaloa-clan-taddei-territorium-y-funcionarios-en-la-mira/</id>
-    <updated>2026-10-31T09:30:00Z</updated>
-    <summary>Identificados como GC y GHC, ambos grupos empresariales concentran adjudicaciones también con organismos electorales locales entre 2014 y 2026; detectan vínculos con funcionarios</summary>
+    <title>Irán declara como organizaciones terroristas a la Fuerza Aérea y Marina británicas</title>
+    <link href="https://www.excelsior.com.mx/internacional/iran-declara-terroristas-marina-fuerza-aerea-britanicas" />
+    <id>https://www.excelsior.com.mx/internacional/iran-declara-terroristas-marina-fuerza-aerea-britanicas</id>
+    <updated>2026-11-01T11:29:08Z</updated>
+    <summary>El Ministerio de Exteriores de la República Islámica invocó el principio de reciprocidad y justificó la medida por las acciones de Londres durante el último año</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Morris Katz: el hombre que escribe candidatos</title>
+    <link href="https://www.excelsior.com.mx/internacional/morris-katz-hombre-que-escribe-candidatos" />
+    <id>https://www.excelsior.com.mx/internacional/morris-katz-hombre-que-escribe-candidatos</id>
+    <updated>2026-11-01T10:45:00Z</updated>
+    <summary>Formado entre guiones y escenarios, trasladó su oficio a las campañas políticas y, a sus 27 años, ha trabajado con el alcalde de Nueva York, Zohran Mamdani, y candidatos de la izquierda en Berlín</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Lenta separación de residuos complica meta de reciclaje para 2030</title>
+    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/lenta-separacion-residuos-complica-meta-reciclaje-para-2030" />
+    <id>https://www.excelsior.com.mx/ciudad-de-mexico/lenta-separacion-residuos-complica-meta-reciclaje-para-2030</id>
+    <updated>2026-11-01T09:44:00Z</updated>
+    <summary>La capital genera 12 mil 500 toneladas diarias de desechos, de las cuales sólo una fracción es tratada y 82% termina en rellenos sanitarios</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Uruapan recuerda a Manzo entre flores, ofrendas y exigencias</title>
+    <link href="https://www.eluniversal.com.mx/estados/uruapan-recuerda-a-manzo-entre-flores-ofrendas-y-exigencias/" />
+    <id>https://www.eluniversal.com.mx/estados/uruapan-recuerda-a-manzo-entre-flores-ofrendas-y-exigencias/</id>
+    <updated>2026-11-01T09:23:49Z</updated>
+    <summary>A un año del asesinato del líder del Movimiento del Sombrero, habitantes de Uruapan reconocen su trabajo político y su relación con la gente</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Gobierno de Trump acusa a miles de inmigrantes de fraude electoral, pero sin pruebas</title>
-    <link href="https://www.excelsior.com.mx/internacional/trump-acusa-inmigrantes-fraude-electoral-eu-sin-pruebas" />
-    <id>https://www.excelsior.com.mx/internacional/trump-acusa-inmigrantes-fraude-electoral-eu-sin-pruebas</id>
-    <updated>2026-10-31T09:08:49Z</updated>
-    <summary>Autoridades presionan a California y a otros estados para verificar la ciudadanía de miles de migrantes que podrían ejercer el voto</summary>
+    <title>Saqueos en tiendas y choques con la policía por protestas, ahora en Alemania</title>
+    <link href="https://www.excelsior.com.mx/internacional/saqueos-tiendas-choques-policia-protestas-ahora-alemania" />
+    <id>https://www.excelsior.com.mx/internacional/saqueos-tiendas-choques-policia-protestas-ahora-alemania</id>
+    <updated>2026-11-01T09:02:06Z</updated>
+    <summary>Jóvenes de la Generación Z se unieron a las protestas contra el costo de vida; en ciudades como Fráncfort tuvo que intervenir la policía por reportes de motines violentos</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>John Turturro revive el Nueva York de los 70 y reflexiona sobre el reconocimiento en el cine</title>
-    <link href="https://www.excelsior.com.mx/espectaculos/john-turturro-revive-nueva-york-70-y-reflexiona-reconocimiento-cine" />
-    <id>https://www.excelsior.com.mx/espectaculos/john-turturro-revive-nueva-york-70-y-reflexiona-reconocimiento-cine</id>
-    <updated>2026-10-31T09:00:00Z</updated>
-    <summary>El legendario actor John Turturro habla en exclusiva sobre el impacto de su nueva película The Only Living Pickpocket in New York, las especulaciones sobre el Oscar y su visión del cine. Además, revive sus vivencias en el Nueva York de los años 70</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Fiscalía confirma que asesinato de Carlos Manzo fue venganza del CJNG; hay 34 detenidos, entre ellos el autor intelectual</title>
-    <link href="https://www.eluniversal.com.mx/estados/fiscalia-confirma-que-asesinato-de-carlos-manzo-fue-venganza-del-cjng-hay-34-detenidos-entre-ellos-el-autor-intelectual/" />
-    <id>https://www.eluniversal.com.mx/estados/fiscalia-confirma-que-asesinato-de-carlos-manzo-fue-venganza-del-cjng-hay-34-detenidos-entre-ellos-el-autor-intelectual/</id>
-    <updated>2026-10-31T08:00:00Z</updated>
-    <summary>La fiscalía indica que con 90% de la investigación falta por aprehender a uno de los involucrados directos; señala que el ataque contra el alcalde no tuvo tintes políticos</summary>
+    <title>Becas de la 4T ahuyentan a estudiantes: Unesco; cae 12% matrícula en varones en bachillerato</title>
+    <link href="https://www.eluniversal.com.mx/nacion/becas-de-la-4t-ahuyentan-a-estudiantes-unesco-cae-12-matricula-en-varones-en-bachillerato/" />
+    <id>https://www.eluniversal.com.mx/nacion/becas-de-la-4t-ahuyentan-a-estudiantes-unesco-cae-12-matricula-en-varones-en-bachillerato/</id>
+    <updated>2026-11-01T08:36:45Z</updated>
+    <summary>Los nuevos apoyos redujeron en 12 puntos porcentuales la inscripción de varones en preparatoria debido a la transición de un pago condicionado a uno incondicional: informe de UNESCO</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Lina Meruane explora en "Avidez" los deseos, la violencia y las transformaciones del cuerpo femenino</title>
-    <link href="https://www.excelsior.com.mx/cultura/lina-meruane-explora-avidez-deseos-violencia-y-transformaciones-cuerpo-femenino" />
-    <id>https://www.excelsior.com.mx/cultura/lina-meruane-explora-avidez-deseos-violencia-y-transformaciones-cuerpo-femenino</id>
-    <updated>2026-10-31T08:00:00Z</updated>
-    <summary>En su nuevo libro de cuentos, la escritora chilena reúne 13 historias de mujeres que atraviesan distintas etapas de la vida para cuestionar las relaciones de poder, las contradicciones del universo femenino y las violencias que se ejercen dentro y fuera de él.</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Georges Didi-Huberman llama a recuperar la luz de la crítica frente a la oscuridad social</title>
-    <link href="https://www.excelsior.com.mx/cultura/georges-didi-huberman-llama-recuperar-luz-critica-frente-oscuridad-social" />
-    <id>https://www.excelsior.com.mx/cultura/georges-didi-huberman-llama-recuperar-luz-critica-frente-oscuridad-social</id>
-    <updated>2026-10-31T08:00:00Z</updated>
-    <summary>El filósofo e historiador del arte francés reflexionó en la UNAM sobre la migración, la memoria y el poder transformador de las imágenes, e invitó a buscar nuevas formas de pensamiento y resistencia frente a la violencia y el capitalismo contemporáneo.</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Remanentes de Vance dejan un muerto y severas inundaciones en Sonora</title>
-    <link href="https://www.excelsior.com.mx/nacional/remanentes-vance-causan-inundaciones-sonora" />
-    <id>https://www.excelsior.com.mx/nacional/remanentes-vance-causan-inundaciones-sonora</id>
-    <updated>2026-10-31T04:05:04Z</updated>
-    <summary>Se reportaron cuantiosos daños materiales por acumulación de agua en diferentes puntos de Empalme y Hermosillo</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Marchan 800 trabajadores del IMSS a Gobernación para pedir mesa de diálogo</title>
-    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/trabajadores-imss-marchan-gobernacion" />
-    <id>https://www.excelsior.com.mx/ciudad-de-mexico/trabajadores-imss-marchan-gobernacion</id>
-    <updated>2026-10-31T03:53:59Z</updated>
-    <summary>Los manifiestes salieron desde dos puntos: el Centro Médico Nacional Siglo XXI y las oficinas centrales del IMSS</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>“Mataría a todos los perros”, reconoce detenido por envenenamiento en la Condesa</title>
-    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/perros-colonia-condesa-detenido-mataria-todos-animales-posibles" />
-    <id>https://www.excelsior.com.mx/ciudad-de-mexico/perros-colonia-condesa-detenido-mataria-todos-animales-posibles</id>
-    <updated>2026-10-31T03:23:10Z</updated>
-    <summary>Salvador “N” dijo que hace uno días su hijo fue mordido por un perro y nadie lo ayudó, por lo que decidió actuar en contra de los canes</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Plan DN-III-E cumple 60 años con más de 87 mil emergencias atendidas: Sheinbaum</title>
-    <link href="https://www.excelsior.com.mx/nacional/plan-dn-iii-e-60-anos-sedena-sheinbaum-santa-lucia-retiro-perro-ahorro" />
-    <id>https://www.excelsior.com.mx/nacional/plan-dn-iii-e-60-anos-sedena-sheinbaum-santa-lucia-retiro-perro-ahorro</id>
-    <updated>2026-10-31T03:07:11Z</updated>
-    <summary>Claudia Sheinbaum y el general Ricardo Trevilla conmemoraron 60 años del Plan DN-III-E: 87 mil emergencias atendidas, desfile aéreo y retiro del can "Ahorro".</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Crueldad animal no para: dejan gatos muertos en puerta de albergue</title>
-    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/albergue-pergatuzoo-amenazas-gatos-muertos" />
-    <id>https://www.excelsior.com.mx/ciudad-de-mexico/albergue-pergatuzoo-amenazas-gatos-muertos</id>
-    <updated>2026-10-31T02:46:27Z</updated>
-    <summary>En las instalaciones del albergue Pergatuzoo, en la alcaldía Venustiano Carranza, dejaron los cadáveres de algunos gatos para intimidar al personal</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>"Frontera entre México y EU no puede modificarse"; Texas declara suyas 9 islas en el Río Bravo y cancillería le responde</title>
-    <link href="https://www.eluniversal.com.mx/nacion/frontera-entre-mexico-y-eu-no-puede-modificarse-texas-declara-suyas-9-islas-en-el-rio-bravo-y-cancilleria-le-responde/" />
-    <id>https://www.eluniversal.com.mx/nacion/frontera-entre-mexico-y-eu-no-puede-modificarse-texas-declara-suyas-9-islas-en-el-rio-bravo-y-cancilleria-le-responde/</id>
-    <updated>2026-10-31T01:13:33Z</updated>
-    <summary>A través de un comunicado, la Cancillería, a cargo de Roberto Velasco, mencionó que los límites se definen por un tratado internacional</summary>
+    <title>“Los ataques no me van a detener”; entrevista con Grecia Quiroz</title>
+    <link href="https://www.eluniversal.com.mx/nacion/los-ataques-no-me-van-a-detener-entrevista-con-grecia-quiroz/" />
+    <id>https://www.eluniversal.com.mx/nacion/los-ataques-no-me-van-a-detener-entrevista-con-grecia-quiroz/</id>
+    <updated>2026-11-01T08:31:00Z</updated>
+    <summary>La alcaldesa no descarta buscar otro cargo en los comicios de 2027, aunque deja en el aire si sería reelección o gubernatura de Michoacán; consultará la decisión con ciudadanos, dice</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>ASF escarbará hasta el fondo de INE y los OPLE; detectan vínculos con funcionarios</title>
-    <link href="https://www.excelsior.com.mx/politica/asf-investiga-ine-32-oples-corrupcion-sobreprecios-contrataciones-2014-2026" />
-    <id>https://www.excelsior.com.mx/politica/asf-investiga-ine-32-oples-corrupcion-sobreprecios-contrataciones-2014-2026</id>
-    <updated>2026-10-31T00:43:52Z</updated>
-    <summary>La ASF indaga al INE y 32 OPLEs por presunto desvío de recursos, sobreprecios y contratos a modo de 2014 a 2026; alistan denuncias para febrero.</summary>
+    <title>El modelador del barro negro que le da vida y fiesta a la muerte</title>
+    <link href="https://www.excelsior.com.mx/cultura/modelador-barro-negro-que-le-da-vida-y-fiesta-muerte" />
+    <id>https://www.excelsior.com.mx/cultura/modelador-barro-negro-que-le-da-vida-y-fiesta-muerte</id>
+    <updated>2026-11-01T08:30:00Z</updated>
+    <summary>Con una trayectoria de 40 años, el escultor oaxaqueño crea tzompantlis y calaveras situadas en escenarios picarescos o apocalípticos</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Caso Inés Gómez Mont: ¿Cómo ha cambiado el rostro de la conductora a través de los años?; foto de su detención desata polémica</title>
-    <link href="https://www.eluniversal.com.mx/tendencias/caso-ines-gomez-mont-como-ha-cambiado-el-rostro-de-la-conductora-a-traves-de-los-anos-foto-de-su-detencion-desata-polemica/" />
-    <id>https://www.eluniversal.com.mx/tendencias/caso-ines-gomez-mont-como-ha-cambiado-el-rostro-de-la-conductora-a-traves-de-los-anos-foto-de-su-detencion-desata-polemica/</id>
-    <updated>2026-10-30T23:30:23Z</updated>
-    <summary>La exconductora de Ventaneando fue detenida en Estados Unidos tras ser señalada en México por lavado de dinero</summary>
+    <title>El INE consumió 77 mil mdp en 4 años con Taddei; gasto electoral, bajo lupa</title>
+    <link href="https://www.excelsior.com.mx/nacional/ine-gasto-con-taddei-77-mil-630-millones-pesos" />
+    <id>https://www.excelsior.com.mx/nacional/ine-gasto-con-taddei-77-mil-630-millones-pesos</id>
+    <updated>2026-11-01T08:30:00Z</updated>
+    <summary>De los casi 125 mil millones de pesos aprobados al INE entre 2023 y 2027, la exconsejera presidenta ejerció 77 mil 630 millones; ya no pudo disponer de los 42 mil 274 millones de 2027</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Premian tecnología que arrebata 36 mdp al huachicol de agua en Irapuato</title>
+    <link href="https://www.excelsior.com.mx/nacional/premian-tecnologia-que-arrebata-36-mdp-huachicol-agua-irapuato" />
+    <id>https://www.excelsior.com.mx/nacional/premian-tecnologia-que-arrebata-36-mdp-huachicol-agua-irapuato</id>
+    <updated>2026-11-01T08:30:00Z</updated>
+    <summary>Satélites a 600 kilómetros de altura emiten señales capaces de atravesar nubes y capas de suelo, las cuales permiten identificar variaciones atípicas de humedad</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Somos se arma con los desilusionados del PAN</title>
+    <link href="https://www.excelsior.com.mx/nacional/somos-arma-con-desilusionados-pan" />
+    <id>https://www.excelsior.com.mx/nacional/somos-arma-con-desilusionados-pan</id>
+    <updated>2026-11-01T08:30:00Z</updated>
+    <summary>Acción Nacional suma unos 70 mil miembros más que el partido político surgido de la Marea Rosa, el cual en los últimos meses ha incorporado a su estructura a varios exlíderes panistas</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Un encuentro en El Colegio Nacional analiza los desafíos de la educación superior</title>
+    <link href="https://www.excelsior.com.mx/cultura/encuentro-colegio-nacional-analiza-desafios-educacion-superior" />
+    <id>https://www.excelsior.com.mx/cultura/encuentro-colegio-nacional-analiza-desafios-educacion-superior</id>
+    <updated>2026-11-01T08:15:00Z</updated>
+    <summary>El antropólogo social Claudio Lomnitz afirma que este sector debe responder al aumento en la longevidad y a la transformación de los mercados laborales</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>El poder lleva apellido: Taddei; extienden su árbol familiar más allá de Sonora</title>
+    <link href="https://www.eluniversal.com.mx/nacion/el-poder-lleva-apellido-taddei-extienden-su-arbol-familiar-mas-alla-de-sonora/" />
+    <id>https://www.eluniversal.com.mx/nacion/el-poder-lleva-apellido-taddei-extienden-su-arbol-familiar-mas-alla-de-sonora/</id>
+    <updated>2026-11-01T08:00:00Z</updated>
+    <summary>En Sonora, el linaje de los primos Guadalupe y Jorge Luis se ha expandido a áreas electorales, programas sociales, infraestructura y administración estatal</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Fiestas electrónicas en cenotes amenazan ecosistemas en Yucatán;  murciélagos y peces ciegos, entre los animales afectados</title>
-    <link href="https://www.eluniversal.com.mx/estados/fiestas-electronicas-en-cenotes-amenazan-ecosistemas-en-yucatan-murcielagos-y-peces-ciegos-entre-los-animales-afectados/" />
-    <id>https://www.eluniversal.com.mx/estados/fiestas-electronicas-en-cenotes-amenazan-ecosistemas-en-yucatan-murcielagos-y-peces-ciegos-entre-los-animales-afectados/</id>
-    <updated>2026-10-30T22:55:21Z</updated>
-    <summary>Especialista advierten que ambién pueden provocar daños a estructuras minerales milenarias</summary>
+    <title>Asesinato de Manzo: venganza del CJNG; tras un año hay 90% de avance en investigación</title>
+    <link href="https://www.excelsior.com.mx/nacional/asesinato-manzo-venganza-cjng-tras-ano-90-investigacion" />
+    <id>https://www.excelsior.com.mx/nacional/asesinato-manzo-venganza-cjng-tras-ano-90-investigacion</id>
+    <updated>2026-11-01T07:58:01Z</updated>
+    <summary>Las indagatorias de la Fiscalía estatal involucran a presuntos autores intelectuales, operadores logísticos y personas cercanas al exalcalde.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Empleados del IMSS suman 8 mil denuncias</title>
+    <link href="https://www.eluniversal.com.mx/nacion/empleados-del-imss-suman-8-mil-denuncias/" />
+    <id>https://www.eluniversal.com.mx/nacion/empleados-del-imss-suman-8-mil-denuncias/</id>
+    <updated>2026-11-01T06:00:00Z</updated>
+    <summary>En dos años, la Secretaría Anticorrupción ha registrado quejas por faltas administrativas y nepotismo cometidas por trabajadores</summary>
     <author>
       <name>El Universal</name>
     </author>
@@ -248,62 +248,62 @@
     <title>Contratista favorito de Taddei libró bloqueo bancario por lavado y terrorismo</title>
     <link href="https://www.proceso.com.mx/nacional/2026/10/30/contratista-favorito-de-taddei-jose-alfredo-hernandez-casillas-libro-bloqueo-bancario-por-lavado-y-t-382882.html" />
     <id>https://www.proceso.com.mx/nacional/2026/10/30/contratista-favorito-de-taddei-jose-alfredo-hernandez-casillas-libro-bloqueo-bancario-por-lavado-y-t-382882.html</id>
-    <updated>2026-10-31T11:33:12Z</updated>
+    <updated>2026-11-01T12:30:04Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Cancillería defiende las nueve islas del Río Bravo que Texas declaró territorio estatal: “la frontera entre México y EU no puede modificarse”</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/10/30/cancilleria-defiende-las-nueve-islas-del-rio-bravo-que-texas-declaro-territorio-estatal-la-frontera-382888.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/10/30/cancilleria-defiende-las-nueve-islas-del-rio-bravo-que-texas-declaro-territorio-estatal-la-frontera-382888.html</id>
-    <updated>2026-10-31T11:33:12Z</updated>
+    <title>“Nuestra casa jamás volvió a ser la misma”: Grecia Quiroz recuerda a Carlos Manzo a un año de su asesinato</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/10/31/nuestra-casa-jamas-volvio-a-ser-la-misma-grecia-quiroz-recuerda-a-carlos-manzo-a-un-ano-de-su-asesin-382924.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/10/31/nuestra-casa-jamas-volvio-a-ser-la-misma-grecia-quiroz-recuerda-a-carlos-manzo-a-un-ano-de-su-asesin-382924.html</id>
+    <updated>2026-11-01T12:30:04Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Auditoría detecta irregularidades por 8 mil 870 millones de pesos en contratos del INE y OPLEs entre 2014 y 2026</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/10/30/auditoria-detecta-irregularidades-por-8-mil-870-millones-de-pesos-en-contratos-del-ine-y-oples-entre-382887.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/10/30/auditoria-detecta-irregularidades-por-8-mil-870-millones-de-pesos-en-contratos-del-ine-y-oples-entre-382887.html</id>
-    <updated>2026-10-31T11:33:12Z</updated>
-    <summary>La ASF inició su investigación a las revelaciones sobre los presuntos casos de corrupción y de conflicto de interés entre la entonces presidenta del INE y el contratista José Alfredo Hernández Casillas, lo que obligó a Guadalupe Taddei Zavala y a al menos 15 integrantes de su grupo a renunciar al INE.</summary>
+    <title>Cárteles, totoaba y redes agalleras: la urdimbre que extingue a la vaquita marina</title>
+    <link href="https://www.proceso.com.mx/reportajes/2026/10/31/carteles-totoaba-y-redes-agalleras-la-urdimbre-que-extingue-a-la-vaquita-marina-382875.html" />
+    <id>https://www.proceso.com.mx/reportajes/2026/10/31/carteles-totoaba-y-redes-agalleras-la-urdimbre-que-extingue-a-la-vaquita-marina-382875.html</id>
+    <updated>2026-11-01T12:30:04Z</updated>
+    <summary>La vaquita marina y la totoaba, especies del norte del Golfo de California, siguen atrapadas en una crisis ambiental y criminal. Grupos como el Cártel de Sinaloa, el CJNG y redes conocidas como los Cárteles de la Totoaba participan en un negocio millonario de tráfico ilegal.</summary>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>IEEH requiere expedientes de contratos por 258 mil 5 mdp asignados a red ligada a proveedor de Taddei, José Alfredo Hernández Casillas</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/10/30/ieeh-requiere-expedientes-de-contratos-por-258-mil-5-mdp-asignados-a-red-ligada-a-proveedor-de-tadde-382889.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/10/30/ieeh-requiere-expedientes-de-contratos-por-258-mil-5-mdp-asignados-a-red-ligada-a-proveedor-de-tadde-382889.html</id>
-    <updated>2026-10-31T11:33:12Z</updated>
+    <title>Chivas golea 4-2 al Atlante y sella pasaje a la liguilla en México</title>
+    <link href="https://www.proceso.com.mx/deportes/2026/10/31/chivas-golea-4-2-al-atlante-y-sella-pasaje-a-la-liguilla-en-mexico-382922.html" />
+    <id>https://www.proceso.com.mx/deportes/2026/10/31/chivas-golea-4-2-al-atlante-y-sella-pasaje-a-la-liguilla-en-mexico-382922.html</id>
+    <updated>2026-11-01T12:30:04Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>La conductora Inés Gómez Mont fue detenida en Florida</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/10/30/la-conductora-ines-gomez-mont-fue-detenida-en-florida-382867.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/10/30/la-conductora-ines-gomez-mont-fue-detenida-en-florida-382867.html</id>
-    <updated>2026-10-31T11:33:12Z</updated>
+    <title>"Canelo" Álvarez recupera el título supermediano del CMB al vencer por decisión unánime a Mbilli</title>
+    <link href="https://www.proceso.com.mx/deportes/2026/10/31/canelo-alvarez-recupera-el-titulo-supermediano-del-cmb-al-vencer-por-decision-unanime-a-mbilli-382918.html" />
+    <id>https://www.proceso.com.mx/deportes/2026/10/31/canelo-alvarez-recupera-el-titulo-supermediano-del-cmb-al-vencer-por-decision-unanime-a-mbilli-382918.html</id>
+    <updated>2026-11-01T12:30:04Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Trump al borde de un ataque de nervios</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/10/31/trump-al-borde-de-un-ataque-de-nervios-382861.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/10/31/trump-al-borde-de-un-ataque-de-nervios-382861.html</id>
-    <updated>2026-10-31T11:33:12Z</updated>
+    <title>América empata 2-2 con Toluca y clasifica a la Liguilla de la Liga MX</title>
+    <link href="https://www.proceso.com.mx/deportes/2026/11/1/america-empata-2-2-con-toluca-y-clasifica-a-la-liguilla-de-la-liga-mx-382925.html" />
+    <id>https://www.proceso.com.mx/deportes/2026/11/1/america-empata-2-2-con-toluca-y-clasifica-a-la-liguilla-de-la-liga-mx-382925.html</id>
+    <updated>2026-11-01T12:30:04Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Escala el conflicto aguacatero en Michoacán con bloqueos y fruta contaminada con gusano barrenador</title>
-    <link href="https://www.proceso.com.mx/nacional/estados/2026/10/31/escala-el-conflicto-aguacatero-en-michoacan-con-bloqueos-y-fruta-contaminada-con-gusano-barrenador-382890.html" />
-    <id>https://www.proceso.com.mx/nacional/estados/2026/10/31/escala-el-conflicto-aguacatero-en-michoacan-con-bloqueos-y-fruta-contaminada-con-gusano-barrenador-382890.html</id>
-    <updated>2026-10-31T11:33:12Z</updated>
+    <title>Heidi Klum revela su disfraz de Halloween mientras su icónica fiesta celebra 25 años</title>
+    <link href="https://www.proceso.com.mx/cultura/2026/10/31/heidi-klum-revela-su-disfraz-de-halloween-mientras-su-iconica-fiesta-celebra-25-anos-382923.html" />
+    <id>https://www.proceso.com.mx/cultura/2026/10/31/heidi-klum-revela-su-disfraz-de-halloween-mientras-su-iconica-fiesta-celebra-25-anos-382923.html</id>
+    <updated>2026-11-01T12:30:04Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -312,7 +312,7 @@
     <title>Jorge Montaño, consejero del INE cercano a Taddei, se salvó de ir a la cárcel en Tabasco</title>
     <link href="https://www.proceso.com.mx/nacional/2026/10/29/arturo-montano-consejero-del-ine-cercano-a-taddei-se-salvo-de-ir-a-la-carcel-en-tabasco-382790.html" />
     <id>https://www.proceso.com.mx/nacional/2026/10/29/arturo-montano-consejero-del-ine-cercano-a-taddei-se-salvo-de-ir-a-la-carcel-en-tabasco-382790.html</id>
-    <updated>2026-10-31T11:33:12Z</updated>
+    <updated>2026-11-01T12:30:04Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -321,7 +321,7 @@
     <title>Cuauhtémoc Cárdenas: el hombre que abrió el camino de la democracia</title>
     <link href="https://www.proceso.com.mx/opinion/2026/10/29/cuauhtemoc-cardenas-el-hombre-que-abrio-el-camino-de-la-democracia-382779.html" />
     <id>https://www.proceso.com.mx/opinion/2026/10/29/cuauhtemoc-cardenas-el-hombre-que-abrio-el-camino-de-la-democracia-382779.html</id>
-    <updated>2026-10-31T11:33:12Z</updated>
+    <updated>2026-11-01T12:30:04Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -330,53 +330,53 @@
     <title>Desaparición forzada. La negación del Estado mexicano a examen en la ONU</title>
     <link href="https://www.proceso.com.mx/nacional/2026/10/19/desaparicion-forzada-la-negacion-del-estado-mexicano-a-examen-en-la-onu-382057.html" />
     <id>https://www.proceso.com.mx/nacional/2026/10/19/desaparicion-forzada-la-negacion-del-estado-mexicano-a-examen-en-la-onu-382057.html</id>
-    <updated>2026-10-31T11:33:12Z</updated>
+    <updated>2026-11-01T12:30:04Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>“Hablar sólo del apocalipsis es muy fácil“: Georges Didi-Huberman</title>
-    <link href="https://www.eluniversal.com.mx/cultura/hablar-solo-del-apocalipsis-es-muy-facil-georges-didi-huberman/" />
-    <id>https://www.eluniversal.com.mx/cultura/hablar-solo-del-apocalipsis-es-muy-facil-georges-didi-huberman/</id>
-    <updated>2026-10-31T11:33:12Z</updated>
+    <title>Voto anticipado exhibe músculo en EU</title>
+    <link href="https://www.eluniversal.com.mx/mundo/voto-anticipado-exhibe-musculo-en-eu/" />
+    <id>https://www.eluniversal.com.mx/mundo/voto-anticipado-exhibe-musculo-en-eu/</id>
+    <updated>2026-11-01T12:30:04Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Levanta polémica iniciativa para uso de IA en Congreso</title>
-    <link href="https://www.eluniversal.com.mx/opinion/kiosko/levanta-polemica-iniciativa-para-uso-de-ia-en-congreso/" />
-    <id>https://www.eluniversal.com.mx/opinion/kiosko/levanta-polemica-iniciativa-para-uso-de-ia-en-congreso/</id>
-    <updated>2026-10-31T11:33:12Z</updated>
+    <title>Exigen más prevención a Víctor Castro para atender emergencias</title>
+    <link href="https://www.eluniversal.com.mx/opinion/kiosko/exigen-mas-prevencion-a-victor-castro-para-atender-emergencias/" />
+    <id>https://www.eluniversal.com.mx/opinion/kiosko/exigen-mas-prevencion-a-victor-castro-para-atender-emergencias/</id>
+    <updated>2026-11-01T12:30:04Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Defiende consejera jurídica la Ley de Cultura Cívica</title>
-    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/defiende-consejera-juridica-la-ley-de-cultura-civica/" />
-    <id>https://www.eluniversal.com.mx/opinion/el-caballito/defiende-consejera-juridica-la-ley-de-cultura-civica/</id>
-    <updated>2026-10-31T11:33:12Z</updated>
+    <title>Fin de semana de prueba para la SSC</title>
+    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/fin-de-semana-de-prueba-para-la-ssc/" />
+    <id>https://www.eluniversal.com.mx/opinion/el-caballito/fin-de-semana-de-prueba-para-la-ssc/</id>
+    <updated>2026-11-01T12:30:04Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Sí son iguales</title>
-    <link href="https://www.eluniversal.com.mx/carton/boligan/si-son-iguales/" />
-    <id>https://www.eluniversal.com.mx/carton/boligan/si-son-iguales/</id>
-    <updated>2026-10-31T11:33:12Z</updated>
+    <title>El cempasúchil de Oaxaca llega a EU</title>
+    <link href="https://www.eluniversal.com.mx/nacion/el-cempasuchil-de-oaxaca-llega-a-eu/" />
+    <id>https://www.eluniversal.com.mx/nacion/el-cempasuchil-de-oaxaca-llega-a-eu/</id>
+    <updated>2026-11-01T12:30:04Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>La urna de Taddei</title>
-    <link href="https://www.eluniversal.com.mx/carton/fernando-de-anda-fer/la-urna-de-taddei/" />
-    <id>https://www.eluniversal.com.mx/carton/fernando-de-anda-fer/la-urna-de-taddei/</id>
-    <updated>2026-10-31T11:33:12Z</updated>
-    <summary>Cartón de FER</summary>
+    <title>El último paseo</title>
+    <link href="https://www.eluniversal.com.mx/carton/boligan/el-ultimo-paseo/" />
+    <id>https://www.eluniversal.com.mx/carton/boligan/el-ultimo-paseo/</id>
+    <updated>2026-11-01T12:30:04Z</updated>
+    <summary>Cartón de BOLIGÁN</summary>
     <author>
       <name>El Universal</name>
     </author>
