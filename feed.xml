@@ -2,154 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mexican News</title>
   <id>tag:atorizva.github.io,2026:rss-mexican-news</id>
-  <updated>2026-11-02T14:30:32Z</updated>
+  <updated>2026-11-03T13:28:11Z</updated>
   <link href="https://atorizva.github.io/rss-mexican-news/feed.xml" rel="self" />
   <entry>
-    <title>SRE reporta muerte de mexicano tras choque de trenes en España; permanecía desaparecido</title>
-    <link href="https://www.eluniversal.com.mx/nacion/sre-reporta-muerte-de-mexicano-tras-choque-de-trenes-en-espana-permanecia-desaparecido/" />
-    <id>https://www.eluniversal.com.mx/nacion/sre-reporta-muerte-de-mexicano-tras-choque-de-trenes-en-espana-permanecia-desaparecido/</id>
-    <updated>2026-11-02T13:45:15Z</updated>
-    <summary>Cancillería informó que la Embajada de México en España realiza los trámites para apoyar con los gastos funerarios</summary>
+    <title>Elecciones EU 2026: Mercados evalúan el impacto en Wall Street ante un cambio en el Congreso</title>
+    <link href="https://www.excelsior.com.mx/internacional/elecciones-eu-2026-mercados-evaluan-impacto-wall-street-cambio-congreso" />
+    <id>https://www.excelsior.com.mx/internacional/elecciones-eu-2026-mercados-evaluan-impacto-wall-street-cambio-congreso</id>
+    <updated>2026-11-03T13:11:26Z</updated>
+    <summary>Wall Street analiza el posible cambio de control del Congreso en Estados Unidos y sus efectos en la inteligencia artificial, el S&amp;P 500 y la volatilidad financiera.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Elecciones EU 2026: Donald Trump enfrenta una prueba decisiva ante un Congreso en juego</title>
+    <link href="https://www.excelsior.com.mx/internacional/elecciones-eu-2026-donald-trump-enfrenta-prueba-decisiva-congreso-juego" />
+    <id>https://www.excelsior.com.mx/internacional/elecciones-eu-2026-donald-trump-enfrenta-prueba-decisiva-congreso-juego</id>
+    <updated>2026-11-03T12:56:59Z</updated>
+    <summary>Los demócratas buscan recuperar el Congreso en medio del descontento económico.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Elecciones EU 2026: Vermont abre los primeros colegios</title>
+    <link href="https://www.excelsior.com.mx/internacional/elecciones-eu-2026-vermont-abre-primeros-colegios" />
+    <id>https://www.excelsior.com.mx/internacional/elecciones-eu-2026-vermont-abre-primeros-colegios</id>
+    <updated>2026-11-03T12:11:19Z</updated>
+    <summary>Las elecciones de medio mandato ponen a prueba a Trump y definirán el control del Congreso.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Cárteles y células locales se disputan el control sobre el puerto de Manzanillo</title>
+    <link href="https://www.excelsior.com.mx/nacional/carteles-y-celulas-locales-disputan-control-sobre-puerto-manzanillo" />
+    <id>https://www.excelsior.com.mx/nacional/carteles-y-celulas-locales-disputan-control-sobre-puerto-manzanillo</id>
+    <updated>2026-11-03T08:30:00Z</updated>
+    <summary>La intervención de la Semar ha limitado espacios de operación a los grupos criminales en Manzanillo, aunque mantienen actividades relacionadas con la venta de drogas para consumo local</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Abusos en anexo de la CDMX: Investigan secuestro y venta de fotos íntimas de internas</title>
+    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/abusos-anexo-cdmx-investigan-secuestro-y-venta-fotos-intimas-internas" />
+    <id>https://www.excelsior.com.mx/ciudad-de-mexico/abusos-anexo-cdmx-investigan-secuestro-y-venta-fotos-intimas-internas</id>
+    <updated>2026-11-03T08:30:00Z</updated>
+    <summary>La fiscalía capitalina abrió carpetas contra la clínica Casa de Vida tras acusaciones de incomunicación, tortura y la difusión no consentida de imágenes en redes sociales; hay una detenida</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Detecta ASF irregularidades dentro de la nómina de IEEPO</title>
+    <link href="https://www.eluniversal.com.mx/estados/detecta-asf-irregularidades-dentro-de-la-nomina-de-ieepo/" />
+    <id>https://www.eluniversal.com.mx/estados/detecta-asf-irregularidades-dentro-de-la-nomina-de-ieepo/</id>
+    <updated>2026-11-03T08:01:00Z</updated>
+    <summary>Reporta pagos a funcionarios con cargo de elección popular, personas con varias plazas en diferentes centros de trabajo y a fallecidos; el monto es cercano a los 100 millones de pesos</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>La mexicana María Montserrat Alvarado asumió la Dirección de Comunicación del Vaticano</title>
-    <link href="https://www.excelsior.com.mx/internacional/mexicana-maria-montserrat-alvarado-asume-direccion-comunicacion-vaticano" />
-    <id>https://www.excelsior.com.mx/internacional/mexicana-maria-montserrat-alvarado-asume-direccion-comunicacion-vaticano</id>
-    <updated>2026-11-02T13:44:39Z</updated>
-    <summary>Desde su nuevo cargo, tendrá bajo su responsabilidad la coordinación de los principales medios y servicios informativos de la Santa Sede.</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Calaveritas literarias de Excélsior: Ni los funcionarios se escapan de la Guadaña</title>
-    <link href="https://www.excelsior.com.mx/nacional/calaveritas-excelsior-dia-muertos-politica" />
-    <id>https://www.excelsior.com.mx/nacional/calaveritas-excelsior-dia-muertos-politica</id>
-    <updated>2026-11-02T09:23:53Z</updated>
-    <summary>Vuelven las calaveritas literarias de Excélsior, pues La Parca no perdona ni respeta cargos. El el poder no salvó a los políticos de la tradicional irreverencia de Día de Muertos</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Detectan pagos a muertos y cesados; revisión al Fone</title>
-    <link href="https://www.excelsior.com.mx/nacional/detectan-pagos-muertos-y-cesados" />
-    <id>https://www.excelsior.com.mx/nacional/detectan-pagos-muertos-y-cesados</id>
-    <updated>2026-11-02T09:09:33Z</updated>
-    <summary>La ASF halló en Veracruz irregularidades por 48.6 millones de pesos</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Hacer papel picado, un oficio que perdura en Puebla pese al desinterés de los jóvenes</title>
-    <link href="https://www.excelsior.com.mx/nacional/hacer-papel-picado-oficio-que-perdura-puebla-pese-desinteres-jovenes" />
-    <id>https://www.excelsior.com.mx/nacional/hacer-papel-picado-oficio-que-perdura-puebla-pese-desinteres-jovenes</id>
-    <updated>2026-11-02T08:58:00Z</updated>
-    <summary>Artesanos de San Salvador Huixcolotla, Puebla, advierten sobre el poco interés de las nuevas generaciones por preservar el oficio, ante la pérdida de ingresos; pese a todo, se conserva la tradición para Día de Muertos y otras festividades</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>En CDMX, crecen hogares de una sola persona; fenómeno social responde a cambios en dinámicas: especialistas</title>
-    <link href="https://www.eluniversal.com.mx/metropoli/en-cdmx-crecen-hogares-de-una-sola-persona-fenomeno-social-responde-a-cambios-en-dinamicas-especialistas/" />
-    <id>https://www.eluniversal.com.mx/metropoli/en-cdmx-crecen-hogares-de-una-sola-persona-fenomeno-social-responde-a-cambios-en-dinamicas-especialistas/</id>
-    <updated>2026-11-02T08:35:28Z</updated>
-    <summary>Mientras las viviendas unipersonales subieron 3% en cinco años, el modelo nuclear bajó .7%: encuesta del Inegi; el fenómeno social responde a cambios en dinámicas estructurales: especialistas</summary>
+    <title>Entregan a diputados de Morena monederos por 63 mdp; evocan caso Monex</title>
+    <link href="https://www.eluniversal.com.mx/nacion/diputados-de-morena-replican-el-plan-monex/" />
+    <id>https://www.eluniversal.com.mx/nacion/diputados-de-morena-replican-el-plan-monex/</id>
+    <updated>2026-11-03T08:00:00Z</updated>
+    <summary>A unos meses del arranque de las precampañas para las elecciones de 2027, los legisladores guindas reciben monederos electrónicos con 10 mil pesos cada uno</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Rinoceronte celebra el Día de Muertos con máscara de Catrina</title>
-    <link href="https://www.excelsior.com.mx/nacional/rinoceronte-celebra-dia-muertos-con-mascara-catrina" />
-    <id>https://www.excelsior.com.mx/nacional/rinoceronte-celebra-dia-muertos-con-mascara-catrina</id>
-    <updated>2026-11-02T08:30:00Z</updated>
-    <summary>Maite, un rinoceronte nacido en el Zoológico Guadalajara, usa un aditamento decorado como Catrina para cuidarla de la conjuntivitis</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>“El INE perdió contrapesos internos”; impulsan saneamiento</title>
-    <link href="https://www.excelsior.com.mx/nacional/escandalo-ine-por-falta-contrapesos" />
-    <id>https://www.excelsior.com.mx/nacional/escandalo-ine-por-falta-contrapesos</id>
-    <updated>2026-11-02T08:30:00Z</updated>
-    <summary>El Sistema Nacional Anticorrupción ofreció sumarse al saneamiento del instituto mediante la revisión de licitaciones y contrataciones, para garantizar imparcialidad</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Colima sufre secuelas a cuatro años de ruptura de alianza criminal</title>
-    <link href="https://www.excelsior.com.mx/nacional/colima-sufre-secuelas-cuatro-anos-ruptura-alianza-criminal" />
-    <id>https://www.excelsior.com.mx/nacional/colima-sufre-secuelas-cuatro-anos-ruptura-alianza-criminal</id>
-    <updated>2026-11-02T08:30:00Z</updated>
-    <summary>Comerciantes y familias en Colima sufren enfrentamientos, extorsiones y cierres de negocios tras la fractura entre el CJNG y Los Mezcales</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Partido Paz competirá en solitario en elecciones de 2027</title>
-    <link href="https://www.excelsior.com.mx/nacional/partido-paz-competira-solitario-elecciones-2027" />
-    <id>https://www.excelsior.com.mx/nacional/partido-paz-competira-solitario-elecciones-2027</id>
-    <updated>2026-11-02T08:30:00Z</updated>
-    <summary>XALAPA.— El Partido Paz competirá sin coaliciones en las elecciones de 2027, tanto en los comicios federales como en Veracruz, anunció su dirigente...</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>"No daré ni un paso atrás, honraré tu memoria": Grecia Quiroz; miles protestan a un año del asesinato de Carlos Manzo</title>
-    <link href="https://www.eluniversal.com.mx/estados/no-dare-ni-un-paso-atras-honrare-tu-memoria-grecia-quiroz-miles-protestan-a-un-ano-del-asesinato-de-carlos-manzo/" />
-    <id>https://www.eluniversal.com.mx/estados/no-dare-ni-un-paso-atras-honrare-tu-memoria-grecia-quiroz-miles-protestan-a-un-ano-del-asesinato-de-carlos-manzo/</id>
-    <updated>2026-11-02T08:05:00Z</updated>
-    <summary>A un año del asesinato de Carlos Manzo, miles de personas protestan en Uruapan; la alcaldesa pide a la Presidenta justicia y que no sea a medias ni de discursos</summary>
+    <title>Elecciones en EU, bajo la sombra del ICE; latinos temen  operativos</title>
+    <link href="https://www.eluniversal.com.mx/mundo/votantes-en-eu-temen-al-ice-no-nos-vamos-a-amedrentar-dicen/" />
+    <id>https://www.eluniversal.com.mx/mundo/votantes-en-eu-temen-al-ice-no-nos-vamos-a-amedrentar-dicen/</id>
+    <updated>2026-11-03T08:00:00Z</updated>
+    <summary>El gobierno señala que no se tienen planeados operativos en los puntos donde hay casillas; algunos casos de arrestos han provocado miedo entre los ciudadanos, pero afirman que eso no los disuadirá</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Clan Taddei también se despachó con 123 mdp en la elección judicial; benefició a empresas en compra de material electoral</title>
-    <link href="https://www.eluniversal.com.mx/nacion/clan-taddei-tambien-se-despacho-con-123-mdp-en-la-eleccion-judicial-beneficio-a-empresas-en-compra-de-material-electoral/" />
-    <id>https://www.eluniversal.com.mx/nacion/clan-taddei-tambien-se-despacho-con-123-mdp-en-la-eleccion-judicial-beneficio-a-empresas-en-compra-de-material-electoral/</id>
-    <updated>2026-11-02T08:00:00Z</updated>
-    <summary>Los OPLE de Coahuila, Sonora, San Luis Potosí, Nayarit y Quintana Roo beneficiaron con contratos millonarios a Cajas Graf y Litho Formas en compra de material electoral</summary>
-    <author>
-      <name>El Universal</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Alertan de más inflación por alza en tarifas marítimas; conflicto en Medio Oriente triplica costos</title>
-    <link href="https://www.eluniversal.com.mx/cartera/alertan-de-mas-inflacion-por-alza-en-tarifas-maritimas-conflicto-en-medio-oriente-triplica-costos/" />
-    <id>https://www.eluniversal.com.mx/cartera/alertan-de-mas-inflacion-por-alza-en-tarifas-maritimas-conflicto-en-medio-oriente-triplica-costos/</id>
-    <updated>2026-11-02T08:00:00Z</updated>
-    <summary>El conflicto en Medio Oriente triplica los costos para mover productos, de acuerdo con navieros; transportistas dicen que sus gastos también aumentan por la inseguridad y regulación federal</summary>
-    <author>
-      <name>El Universal</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Cempasúchil, la flor dorada que enlaza el Día de Muertos mexicano con India</title>
-    <link href="https://www.excelsior.com.mx/nacional/cempasuchil-flor-dorada-que-enlaza-dia-muertos-mexicano-con-india" />
-    <id>https://www.excelsior.com.mx/nacional/cempasuchil-flor-dorada-que-enlaza-dia-muertos-mexicano-con-india</id>
-    <updated>2026-11-02T07:33:32Z</updated>
-    <summary>Originaria de México, la flor de cempasúchil, que viste ofrendas y hogares en Día de Muertos, trascendió fronteras en el siglo XVI y forma parte de los rituales sagrados del hinduismo</summary>
+    <title>Red de Taddei, con brazos en 17 estados; proveedores de material electoral</title>
+    <link href="https://www.excelsior.com.mx/politica/red-taddei-con-tentaculos-17-estados-suma-1-803-millones-pesos" />
+    <id>https://www.excelsior.com.mx/politica/red-taddei-con-tentaculos-17-estados-suma-1-803-millones-pesos</id>
+    <updated>2026-11-03T08:00:00Z</updated>
+    <summary>La red de empresas indagada por la ASF, la UIF y el OIC por presunta simulación de competencia y corrupción en el INE —caso que provocó la dimisión de Guadalupe Taddei Zavala— extendió sus contratos a por lo menos 17 Organismos Públicos Locales Electorales por un monto acumulado de 1,803 millones 80 mil pesos, figurando firmas como Formas Finas y Materiales y Cajas Graf</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Sheinbaum llama a preservar las tradiciones del Día de Muertos</title>
-    <link href="https://www.excelsior.com.mx/nacional/sheinbaum-llama-preservar-tradiciones-dia-muertos" />
-    <id>https://www.excelsior.com.mx/nacional/sheinbaum-llama-preservar-tradiciones-dia-muertos</id>
-    <updated>2026-11-01T15:46:46Z</updated>
-    <summary>La presidenta pidió preservar la conmemoración del Día de Muertos y reconocer la importancia de las tradiciones que forman parte de la identidad cultural de México.</summary>
+    <title>Propuesta de fortalecer Talleres Gráficos, inviable; expertos ven ejemplo en Megafarmacia</title>
+    <link href="https://www.eluniversal.com.mx/nacion/propuesta-de-fortalecer-talleres-graficos-inviable-expertos-ven-ejemplo-en-megafarmacia/" />
+    <id>https://www.eluniversal.com.mx/nacion/propuesta-de-fortalecer-talleres-graficos-inviable-expertos-ven-ejemplo-en-megafarmacia/</id>
+    <updated>2026-11-03T07:30:00Z</updated>
+    <summary>Señalan que la proposición de la Presidenta es desproporcionada, invasiva de funciones y que puede servir para cometer un gran fraude electoral; se debe aprender de errores como la Megafarmacia, dicen</summary>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Emergencia ambiental por quema de basura; zonas rurales son perjudicadas</title>
+    <link href="https://www.excelsior.com.mx/nacional/emergencia-ambiental-por-quema-basura-zonas-rurales-son-perjudicadas" />
+    <id>https://www.excelsior.com.mx/nacional/emergencia-ambiental-por-quema-basura-zonas-rurales-son-perjudicadas</id>
+    <updated>2026-11-03T06:33:18Z</updated>
+    <summary>Esta práctica se registra en 8.6 por ciento de las viviendas del país, lo que refleja una grave insuficiencia en la recolección y tratamiento de residuos</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Gobierno de Nahle desvió recursos para pagar nóminas de manera ilegal</title>
+    <link href="https://www.excelsior.com.mx/nacional/gobierno-nahle-desvio-recursos-para-pagar-nominas-manera-ilegal" />
+    <id>https://www.excelsior.com.mx/nacional/gobierno-nahle-desvio-recursos-para-pagar-nominas-manera-ilegal</id>
+    <updated>2026-11-03T06:13:54Z</updated>
+    <summary>La Auditoría Superior de la Federación emitió un dictamen negativo contra el gobierno local tras detectar un presunto daño en los Servicios de Salud del estado</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Loret presenta video donde Taddei y Casillas se reparten contratos; "yo me llevo 1,300 y tú dos millones", le dice el empresario</title>
+    <link href="https://www.eluniversal.com.mx/nacion/loret-presenta-video-donde-taddei-y-contratista-negocian-reparticion-yo-llevo-uno-300-y-tu-dos-millones-le-dice-el-empresario/" />
+    <id>https://www.eluniversal.com.mx/nacion/loret-presenta-video-donde-taddei-y-contratista-negocian-reparticion-yo-llevo-uno-300-y-tu-dos-millones-le-dice-el-empresario/</id>
+    <updated>2026-11-03T03:40:06Z</updated>
+    <summary>En la grabación, se observa como es que ambos se encuentran sentados hablando sobre montos que les corresponderían por distintos contratos</summary>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Escuelas y recreos sin celular: arranca este martes regulación de la SEP para 34 millones de alumnos</title>
+    <link href="https://www.excelsior.com.mx/nacional/sep-restriccion-celulares-escuelas-educacion-basica-acuerdo-090926-mario-delgado" />
+    <id>https://www.excelsior.com.mx/nacional/sep-restriccion-celulares-escuelas-educacion-basica-acuerdo-090926-mario-delgado</id>
+    <updated>2026-11-03T03:11:22Z</updated>
+    <summary>A partir de este martes entra en vigor la restricción de celulares en primarias y secundarias de la SEP. Conoce las reglas, excepciones y alcances.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Dejan en libertad a agente de ICE acusado de atropellar deliberadamente a mexicano</title>
+    <link href="https://www.excelsior.com.mx/internacional/dejan-libertad-agente-ice-acusado-atropellar-deliberadamente-mexicano" />
+    <id>https://www.excelsior.com.mx/internacional/dejan-libertad-agente-ice-acusado-atropellar-deliberadamente-mexicano</id>
+    <updated>2026-11-02T21:46:27Z</updated>
+    <summary>Mario Alberto Morales, oficial del ICE acusado de atropellar deliberadamente al mexicano Miguel Parra Hernández, se entregó a un tribunal de Texas, en Houston</summary>
     <author>
       <name>Excélsior</name>
     </author>
@@ -245,74 +245,74 @@
     </author>
   </entry>
   <entry>
-    <title>Primer ministro de Bélgica dimite tras fracasar las negociaciones presupuestarias</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/11/2/primer-ministro-de-belgica-dimite-tras-fracasar-las-negociaciones-presupuestarias-382971.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/11/2/primer-ministro-de-belgica-dimite-tras-fracasar-las-negociaciones-presupuestarias-382971.html</id>
-    <updated>2026-11-02T14:30:32Z</updated>
+    <title>Presidencia de la República: 345 mdp para propagandistas privados y 84 mdp a una producción de los amigos de Ramírez Cuevas</title>
+    <link href="https://www.proceso.com.mx/reportajes/2026/11/2/presidencia-de-la-republica-345-mdp-para-propagandistas-privados-y-84-mdp-a-una-produccion-de-los-amigos-de-ramirez-cuevas-382988.html" />
+    <id>https://www.proceso.com.mx/reportajes/2026/11/2/presidencia-de-la-republica-345-mdp-para-propagandistas-privados-y-84-mdp-a-una-produccion-de-los-amigos-de-ramirez-cuevas-382988.html</id>
+    <updated>2026-11-03T13:28:11Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Ramírez Cuéllar exige investigar “estafa regia” en el gobierno de Samuel García</title>
-    <link href="https://www.proceso.com.mx/nacional/politica/2026/11/1/ramirez-cuellar-exige-investigar-estafa-regia-en-el-gobierno-de-samuel-garcia-382957.html" />
-    <id>https://www.proceso.com.mx/nacional/politica/2026/11/1/ramirez-cuellar-exige-investigar-estafa-regia-en-el-gobierno-de-samuel-garcia-382957.html</id>
-    <updated>2026-11-02T14:30:32Z</updated>
+    <title>Sindicalizados del IMSS anuncian nueva “megamarcha nacional”</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/2/sindicalizados-del-imss-anuncian-nueva-megamarcha-nacional-382995.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/2/sindicalizados-del-imss-anuncian-nueva-megamarcha-nacional-382995.html</id>
+    <updated>2026-11-03T13:28:11Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Pescadores mayo-yoreme llevan a la CIDH su lucha contra la planta de amoniaco en la bahía de Ohuira</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/2/pescadores-mayo-yoreme-llevan-a-la-cidh-su-lucha-contra-la-planta-de-amoniaco-en-la-bahia-de-ohuira-382881.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/2/pescadores-mayo-yoreme-llevan-a-la-cidh-su-lucha-contra-la-planta-de-amoniaco-en-la-bahia-de-ohuira-382881.html</id>
-    <updated>2026-11-02T14:30:32Z</updated>
-    <summary>Pescadores mayo-yoreme litigan ante la CIDH contra la planta de amoniaco de GPO en Ohuira, mientras el gobierno federal mantiene su respaldo al proyecto.</summary>
+    <title>La serie del vocero (VIDEO)</title>
+    <link href="https://www.proceso.com.mx/reportajes/2026/11/3/la-serie-del-vocero-video-383011.html" />
+    <id>https://www.proceso.com.mx/reportajes/2026/11/3/la-serie-del-vocero-video-383011.html</id>
+    <updated>2026-11-03T13:28:11Z</updated>
+    <summary>En 2020, desde Palacio Nacional, Jesús Ramírez Cuevas leyó en voz alta cuánto habían cobrado del Estado las revistas de sus “adversarios”. Seis años después su nombre encabeza los créditos de Los años heridos, una serie sobre la represión que costó 84 millones de pesos públicos sin una sola licitación. Detrás de la pantalla, Proceso encontró a tres funcionarios del mismo gobierno: el vocero que presentó el libro y hoy figura como asesor general; el director del centro que transmitía la mañanera, socio fundador de la productora, que firmó un pedido para ella; y el autor, que negoció los derechos mientras dirigía las librerías del Estado.</summary>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Morena se alinea con Sheinbaum en caso Taddei para salpicar a Lorenzo Córdova</title>
-    <link href="https://www.proceso.com.mx/nacional/politica/2026/11/1/morena-se-alinea-con-sheinbaum-en-caso-taddei-para-salpicar-a-lorenzo-cordova-382964.html" />
-    <id>https://www.proceso.com.mx/nacional/politica/2026/11/1/morena-se-alinea-con-sheinbaum-en-caso-taddei-para-salpicar-a-lorenzo-cordova-382964.html</id>
-    <updated>2026-11-02T14:30:32Z</updated>
+    <title>Los “magos” de Palacio: la red privada de propaganda y estrategia que opera con dinero público desde la Presidencia (Video)</title>
+    <link href="https://www.proceso.com.mx/reportajes/2026/11/3/los-magos-de-palacio-la-red-privada-de-propaganda-y-estrategia-que-opera-con-dinero-publico-desde-la-presidencia-video-382978.html" />
+    <id>https://www.proceso.com.mx/reportajes/2026/11/3/los-magos-de-palacio-la-red-privada-de-propaganda-y-estrategia-que-opera-con-dinero-publico-desde-la-presidencia-video-382978.html</id>
+    <updated>2026-11-03T13:28:11Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Kimi Antonelli se convierte en el campeón más joven en la historia de la F1 en México</title>
-    <link href="https://www.proceso.com.mx/deportes/2026/11/1/kimi-antonelli-se-convierte-en-el-campeon-mas-joven-en-la-historia-de-la-f1-en-mexico-382953.html" />
-    <id>https://www.proceso.com.mx/deportes/2026/11/1/kimi-antonelli-se-convierte-en-el-campeon-mas-joven-en-la-historia-de-la-f1-en-mexico-382953.html</id>
-    <updated>2026-11-02T14:30:32Z</updated>
+    <title>Trump enfrenta el juicio de las urnas; demócratas buscan arrebatarle el control del Congreso</title>
+    <link href="https://www.proceso.com.mx/internacional/2026/11/3/trump-enfrenta-el-juicio-de-las-urnas-democratas-buscan-arrebatarle-el-control-del-congreso-383030.html" />
+    <id>https://www.proceso.com.mx/internacional/2026/11/3/trump-enfrenta-el-juicio-de-las-urnas-democratas-buscan-arrebatarle-el-control-del-congreso-383030.html</id>
+    <updated>2026-11-03T13:28:11Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Suspensión definitiva otorgada a Ernesto Ruffo no supone el fin del proceso penal: FGR</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/2/suspension-definitiva-otorgada-a-ernesto-ruffo-no-supone-el-fin-del-proceso-penal-fgr-382970.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/2/suspension-definitiva-otorgada-a-ernesto-ruffo-no-supone-el-fin-del-proceso-penal-fgr-382970.html</id>
-    <updated>2026-11-02T14:30:32Z</updated>
+    <title>México intensifica controles sanitarios ante casos de barrenador en aguacate</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/3/mexico-intensifica-controles-sanitarios-ante-casos-de-barrenador-en-aguacate-383029.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/3/mexico-intensifica-controles-sanitarios-ante-casos-de-barrenador-en-aguacate-383029.html</id>
+    <updated>2026-11-03T13:28:11Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Bulgaria: Iliana Yotova gana la segunda vuelta y se convierte en la primera presidenta electa</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/11/2/bulgaria-iliana-yotova-gana-la-segunda-vuelta-y-se-convierte-en-la-primera-presidenta-electa-382969.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/11/2/bulgaria-iliana-yotova-gana-la-segunda-vuelta-y-se-convierte-en-la-primera-presidenta-electa-382969.html</id>
-    <updated>2026-11-02T14:30:32Z</updated>
+    <title>Norcorea niega cualquier vínculo con hackeo a Binance y arremete contra pesquisa del FBI</title>
+    <link href="https://www.proceso.com.mx/internacional/2026/11/3/norcorea-niega-cualquier-vinculo-con-hackeo-a-binance-y-arremete-contra-pesquisa-del-fbi-383026.html" />
+    <id>https://www.proceso.com.mx/internacional/2026/11/3/norcorea-niega-cualquier-vinculo-con-hackeo-a-binance-y-arremete-contra-pesquisa-del-fbi-383026.html</id>
+    <updated>2026-11-03T13:28:11Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Sentencian a “El Pozoles” de La Unión Tepito a cinco años de prisión</title>
-    <link href="https://www.proceso.com.mx/nacional/cdmx/2026/11/1/sentencian-a-el-pozoles-de-la-union-tepito-a-cinco-anos-de-prision-382968.html" />
-    <id>https://www.proceso.com.mx/nacional/cdmx/2026/11/1/sentencian-a-el-pozoles-de-la-union-tepito-a-cinco-anos-de-prision-382968.html</id>
-    <updated>2026-11-02T14:30:32Z</updated>
+    <title>EU lanza ataques defensivos contra objetivos iraníes en el estrecho de Ormuz, dice funcionario</title>
+    <link href="https://www.proceso.com.mx/internacional/2026/11/3/eu-lanza-ataques-defensivos-contra-objetivos-iranies-en-el-estrecho-de-ormuz-dice-funcionario-383027.html" />
+    <id>https://www.proceso.com.mx/internacional/2026/11/3/eu-lanza-ataques-defensivos-contra-objetivos-iranies-en-el-estrecho-de-ormuz-dice-funcionario-383027.html</id>
+    <updated>2026-11-03T13:28:11Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -321,7 +321,7 @@
     <title>Proceso 50 años. Periodismo sin concesiones</title>
     <link href="https://www.proceso.com.mx/opinion/2026/11/2/proceso-50-anos-periodismo-sin-concesiones-382883.html" />
     <id>https://www.proceso.com.mx/opinion/2026/11/2/proceso-50-anos-periodismo-sin-concesiones-382883.html</id>
-    <updated>2026-11-02T14:30:32Z</updated>
+    <updated>2026-11-03T13:28:11Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -330,53 +330,53 @@
     <title>Desaparición forzada. La negación del Estado mexicano a examen en la ONU</title>
     <link href="https://www.proceso.com.mx/nacional/2026/10/19/desaparicion-forzada-la-negacion-del-estado-mexicano-a-examen-en-la-onu-382057.html" />
     <id>https://www.proceso.com.mx/nacional/2026/10/19/desaparicion-forzada-la-negacion-del-estado-mexicano-a-examen-en-la-onu-382057.html</id>
-    <updated>2026-11-02T14:30:32Z</updated>
+    <updated>2026-11-03T13:28:11Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Jóvenes latinos se movilizan en Carolina del Sur; pueden definir los escaños en el senado</title>
-    <link href="https://www.eluniversal.com.mx/mundo/jovenes-latinos-se-movilizan-en-carolina-del-sur-pueden-definir-los-escanos-en-el-senado/" />
-    <id>https://www.eluniversal.com.mx/mundo/jovenes-latinos-se-movilizan-en-carolina-del-sur-pueden-definir-los-escanos-en-el-senado/</id>
-    <updated>2026-11-02T14:30:32Z</updated>
+    <title>Aspirante panista se da a notar en Chihuahua “mentando madres”</title>
+    <link href="https://www.eluniversal.com.mx/opinion/kiosko/aspirante-panista-se-da-a-notar-en-chihuahua-mentando-madres/" />
+    <id>https://www.eluniversal.com.mx/opinion/kiosko/aspirante-panista-se-da-a-notar-en-chihuahua-mentando-madres/</id>
+    <updated>2026-11-03T13:28:11Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Gobierno de Jalisco culpa a “alfaristas” por el agua</title>
-    <link href="https://www.eluniversal.com.mx/opinion/kiosko/gobierno-de-jalisco-culpa-a-alfaristas-por-el-agua/" />
-    <id>https://www.eluniversal.com.mx/opinion/kiosko/gobierno-de-jalisco-culpa-a-alfaristas-por-el-agua/</id>
-    <updated>2026-11-02T14:30:32Z</updated>
+    <title>Ambulantes hacen su agosto en Día de Muertos</title>
+    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/ambulantes-hacen-su-agosto-en-dia-de-muertos/" />
+    <id>https://www.eluniversal.com.mx/opinion/el-caballito/ambulantes-hacen-su-agosto-en-dia-de-muertos/</id>
+    <updated>2026-11-03T13:28:11Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Morena empuja el Parlamento Abierto por Ley de Rentas Justas</title>
-    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/morena-empuja-el-parlamento-abierto-por-ley-de-rentas-justas/" />
-    <id>https://www.eluniversal.com.mx/opinion/el-caballito/morena-empuja-el-parlamento-abierto-por-ley-de-rentas-justas/</id>
-    <updated>2026-11-02T14:30:32Z</updated>
+    <title>ISR, último trámite y al DOF</title>
+    <link href="https://www.eluniversal.com.mx/opinion/desbalance/isr-ultimo-tramite-y-al-dof/" />
+    <id>https://www.eluniversal.com.mx/opinion/desbalance/isr-ultimo-tramite-y-al-dof/</id>
+    <updated>2026-11-03T13:28:11Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Diesel, jaqueca para finanzas</title>
-    <link href="https://www.eluniversal.com.mx/opinion/desbalance/diesel-jaqueca-para-finanzas/" />
-    <id>https://www.eluniversal.com.mx/opinion/desbalance/diesel-jaqueca-para-finanzas/</id>
-    <updated>2026-11-02T14:30:32Z</updated>
+    <title>Preparan demanda colectiva contra Gustavo Adolfo Infante</title>
+    <link href="https://www.eluniversal.com.mx/espectaculos/preparan-demanda-colectiva-contra-gustavo-adolfo-infante/" />
+    <id>https://www.eluniversal.com.mx/espectaculos/preparan-demanda-colectiva-contra-gustavo-adolfo-infante/</id>
+    <updated>2026-11-03T13:28:11Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Día de Muertos</title>
-    <link href="https://www.eluniversal.com.mx/carton/kemchs/dia-de-muertos/" />
-    <id>https://www.eluniversal.com.mx/carton/kemchs/dia-de-muertos/</id>
-    <updated>2026-11-02T14:30:32Z</updated>
-    <summary>Cartón de KEMCHS</summary>
+    <title>Carolina del Sur, el estado que Trump puso en riesgo</title>
+    <link href="https://www.eluniversal.com.mx/mundo/carolina-del-sur-el-estado-que-trump-puso-en-riesgo/" />
+    <id>https://www.eluniversal.com.mx/mundo/carolina-del-sur-el-estado-que-trump-puso-en-riesgo/</id>
+    <updated>2026-11-03T13:28:11Z</updated>
+    <summary>La decisión de imponer a una candidata sin experiencia al Senado cambió el panorama en un territorio rojo hasta los huesos; hoy, las encuestas marcan empate técnico con los demócratas</summary>
     <author>
       <name>El Universal</name>
     </author>
