@@ -2,154 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mexican News</title>
   <id>tag:atorizva.github.io,2026:rss-mexican-news</id>
-  <updated>2026-11-13T13:46:49Z</updated>
+  <updated>2026-11-14T12:50:26Z</updated>
   <link href="https://atorizva.github.io/rss-mexican-news/feed.xml" rel="self" />
   <entry>
-    <title>La mañanera de Sheinbaum, 13 de noviembre, transmisión en vivo</title>
-    <link href="https://www.eluniversal.com.mx/nacion/la-mananera-de-sheinbaum-13-de-noviembre-transmision-en-vivo/" />
-    <id>https://www.eluniversal.com.mx/nacion/la-mananera-de-sheinbaum-13-de-noviembre-transmision-en-vivo/</id>
-    <updated>2026-11-13T13:26:30Z</updated>
-    <summary>Sigue lo más relevante de la conferencia matutina de la Presidenta de México</summary>
+    <title>La cocaína llega a Europa vía África occidental ante mínimos controles aduaneros</title>
+    <link href="https://www.excelsior.com.mx/internacional/cocaina-europa-via-africa-occidental-minimos-controles-aduaneros" />
+    <id>https://www.excelsior.com.mx/internacional/cocaina-europa-via-africa-occidental-minimos-controles-aduaneros</id>
+    <updated>2026-11-14T10:55:02Z</updated>
+    <summary>Alrededor del 30% de esta droga consumida en el Viejo Continente transitó por la región en 2025, en parte por mejoras en infraestructuras marítimas</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Madres Buscadoras ofrecen $200 mil por sus familiares</title>
+    <link href="https://www.excelsior.com.mx/nacional/madres-buscadoras-ofrecen-200-mil-familiares" />
+    <id>https://www.excelsior.com.mx/nacional/madres-buscadoras-ofrecen-200-mil-familiares</id>
+    <updated>2026-11-14T10:43:27Z</updated>
+    <summary>El colectivo 10 de Octubre instaló fichas en las áreas de descanso de las carreteras Jiménez-Camargo y Jiménez-Zavalza para llegar a cientos de viajeros</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Pescadores evitan decomiso de redes en Sonora</title>
+    <link href="https://www.excelsior.com.mx/nacional/pescadores-evitan-decomiso-redes-sonora" />
+    <id>https://www.excelsior.com.mx/nacional/pescadores-evitan-decomiso-redes-sonora</id>
+    <updated>2026-11-14T10:33:32Z</updated>
+    <summary>Trabajadores de Guaymas rodearon un buque de la Semar y denuncian que las autoridades los hostigan para regular sus actividades</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>¡Tropicoqueta, Bichota y chilanga!</title>
+    <link href="https://www.eluniversal.com.mx/espectaculos/tropicoqueta-bichota-y-chilanga/" />
+    <id>https://www.eluniversal.com.mx/espectaculos/tropicoqueta-bichota-y-chilanga/</id>
+    <updated>2026-11-14T10:30:40Z</updated>
+    <summary>Karol G mezcló ritmos latinos, sensualidad y despecho en su primer show, con Thalía como invitada</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Aviación Naval cumple 100 años de operaciones al servicio de México</title>
-    <link href="https://www.excelsior.com.mx/nacional/aviacion-naval-cumple-100-anos-operaciones-servicio-mexico" />
-    <id>https://www.excelsior.com.mx/nacional/aviacion-naval-cumple-100-anos-operaciones-servicio-mexico</id>
-    <updated>2026-11-13T13:18:31Z</updated>
-    <summary>Con helicópteros, aviones y diez bases aeronavales, la Armada de México fortalece las tareas de vigilancia, rescate y atención de emergencias</summary>
+    <title>Migrante amenaza a periodista en Chiapas; forma parte de caravana</title>
+    <link href="https://www.excelsior.com.mx/nacional/migrante-amenaza-periodista-chiapas-caravana" />
+    <id>https://www.excelsior.com.mx/nacional/migrante-amenaza-periodista-chiapas-caravana</id>
+    <updated>2026-11-14T10:19:23Z</updated>
+    <summary>Registran en video los ataques de tres hondureños de los que el resto de extranjeros se deslindaron. “Mejor trae comida”, le exigieron al comunicador</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Marchas y manifestaciones 'ahorcarán' a la CDMX hoy viernes 13</title>
-    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/marchas-y-manifestaciones-ahorcaran-cdmx-hoy-viernes-13" />
-    <id>https://www.excelsior.com.mx/ciudad-de-mexico/marchas-y-manifestaciones-ahorcaran-cdmx-hoy-viernes-13</id>
-    <updated>2026-11-13T12:58:17Z</updated>
-    <summary>Algunas de las zonas más afectadas serán Tlalpan, Ciudad Universitaria, Reforma, el Centro Histórico y la carretera México-Toluca.</summary>
+    <title>Fallas en EU dejan en tierra miles de vuelos; anomalías coinciden con implementación de IA</title>
+    <link href="https://www.excelsior.com.mx/internacional/fallas-eu-dejan-n-tierra-miles-vuelos-anomalias-por-implementacion-ia" />
+    <id>https://www.excelsior.com.mx/internacional/fallas-eu-dejan-n-tierra-miles-vuelos-anomalias-por-implementacion-ia</id>
+    <updated>2026-11-14T10:02:15Z</updated>
+    <summary>El secretario de seguridad nacional, Markwayne Mullin, negó que la afectación se derivara de un ciberataque; registran más de 6 mil viajes cancelados</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Amoríos tumban a CEO de Nvidia y arrastran a acciones; polémica se da en medio de disputa entre EU y China por control de IA</title>
-    <link href="https://www.eluniversal.com.mx/mundo/amorios-tumban-a-ceo-de-nvidia-y-arrastran-a-acciones-polemica-se-da-en-medio-de-disputa-entre-eu-y-china-por-control-de-ia/" />
-    <id>https://www.eluniversal.com.mx/mundo/amorios-tumban-a-ceo-de-nvidia-y-arrastran-a-acciones-polemica-se-da-en-medio-de-disputa-entre-eu-y-china-por-control-de-ia/</id>
-    <updated>2026-11-13T10:57:43Z</updated>
-    <summary>El escándalo de Jensen Huang que implica a una mujer señalada como presunta espía se da en medio de la guerra entre Estados Unidos y China por el control de la IA</summary>
+    <title>Endurecen control de bolsas plásticas: etiquetado visible y 50% reciclado</title>
+    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/endurecen-control-bolsas-plasticas-etiquetado-visible-y-50-reciclado" />
+    <id>https://www.excelsior.com.mx/ciudad-de-mexico/endurecen-control-bolsas-plasticas-etiquetado-visible-y-50-reciclado</id>
+    <updated>2026-11-14T09:06:00Z</updated>
+    <summary>Un proyecto de norma ambiental fija reglas para bolsas compostables, reutilizables y de manejo de residuos, con aplicación prevista hacia 2027</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Propone Cota Hiriart a la naturaleza como protagonista literaria</title>
+    <link href="https://www.excelsior.com.mx/cultura/propone-cota-hiriart-naturaleza-protagonista-literaria" />
+    <id>https://www.excelsior.com.mx/cultura/propone-cota-hiriart-naturaleza-protagonista-literaria</id>
+    <updated>2026-11-14T08:15:00Z</updated>
+    <summary>El biólogo y escritor reúne en “Memento natura” relatos protagonizados por animales, plantas y su entorno, con la idea de quitar al ser humano del centro de la narrativa</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>La crisis de vivienda ha expulsado a 1.6 millones de capitalinos en dos décadas</title>
+    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/crisis-vivienda-ha-expulsado-1-6-millones-capitalinos-dos-decadas" />
+    <id>https://www.excelsior.com.mx/ciudad-de-mexico/crisis-vivienda-ha-expulsado-1-6-millones-capitalinos-dos-decadas</id>
+    <updated>2026-11-14T08:15:00Z</updated>
+    <summary>El proyecto del PGD advierte que el costo promedio de 3.9 millones de pesos por inmueble orilla a 30 mil familias al año hacia la periferia metropolitana</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ryan Wedding, narco canadiense, con gustos excéntricos; Ducati 1971 y Honda 1987, entre su colección de 62 motocicletas</title>
+    <link href="https://www.eluniversal.com.mx/nacion/ryan-weddding-narco-canadiense-con-gustos-excentricos-ducati-1971-y-honda-1987-entre-su-coleccion-de-62-motocicletas/" />
+    <id>https://www.eluniversal.com.mx/nacion/ryan-weddding-narco-canadiense-con-gustos-excentricos-ducati-1971-y-honda-1987-entre-su-coleccion-de-62-motocicletas/</id>
+    <updated>2026-11-14T07:30:00Z</updated>
+    <summary>Todas fueron decomisadas por la FGR y 57 de ellas, subastadas durante la semana por el Instituto para Devolver al Pueblo lo Robado</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Congreso de EU cita a ex CEO de Nvidia por relación con presunta espía china</title>
-    <link href="https://www.excelsior.com.mx/internacional/congreso-eu-cita-ex-ceo-nvidia-por-relacion-espia-china" />
-    <id>https://www.excelsior.com.mx/internacional/congreso-eu-cita-ex-ceo-nvidia-por-relacion-espia-china</id>
-    <updated>2026-11-13T09:41:45Z</updated>
-    <summary>El caso abrió dudas sobre la seguridad tecnológica de EU y provocó inquietud en la industria de inteligencia artificial.</summary>
+    <title>Karol G no se arrepiente de sentir tanto</title>
+    <link href="https://www.excelsior.com.mx/espectaculos/karol-g-no-arrepiente-sentir" />
+    <id>https://www.excelsior.com.mx/espectaculos/karol-g-no-arrepiente-sentir</id>
+    <updated>2026-11-14T07:30:00Z</updated>
+    <summary>La Bichota regresó a ka Ciudad de México con su gira Viajando por el Mundo Tropitour, cargando un equipaje lleno de sensualidad y música que enloqueció a 65 mil fans</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Auditoría halla pagos en exceso a empresas de Landsmanas; señala irregularidades en contratos</title>
-    <link href="https://www.eluniversal.com.mx/nacion/auditoria-halla-pagos-en-exceso-a-empresas-de-landsmanas-senala-irregularidades-en-contratos/" />
-    <id>https://www.eluniversal.com.mx/nacion/auditoria-halla-pagos-en-exceso-a-empresas-de-landsmanas-senala-irregularidades-en-contratos/</id>
-    <updated>2026-11-13T08:53:07Z</updated>
-    <summary>Al revisar cuentas públicas encontró irregularidades como pagos extraordinarios, sin justificación, incumplimiento, entre otras, en contratos celebrados entre dependencias y Corporativo Kosmos</summary>
+    <title>Suspenden vuelos en EU por cuatro horas; secretario de Transporte culpa a “hardware viejo”</title>
+    <link href="https://www.eluniversal.com.mx/mundo/suspenden-vuelos-en-eu-por-cuatro-horas-secretario-de-transporte-culpa-a-hardware-viejo/" />
+    <id>https://www.eluniversal.com.mx/mundo/suspenden-vuelos-en-eu-por-cuatro-horas-secretario-de-transporte-culpa-a-hardware-viejo/</id>
+    <updated>2026-11-14T06:56:19Z</updated>
+    <summary>Secretario de Transporte, Sean Duffy, culpa a un “hardware viejo” y urge al Congreso a aprobar 50 mmdd para modernizar el sistema de control de tráfico aéreo; descartan ciberataque</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Muertos cobran en gobiernos estatales; Cuenta Pública 2025</title>
-    <link href="https://www.excelsior.com.mx/nacional/cobran-hasta-muertos-nominas-estatales" />
-    <id>https://www.excelsior.com.mx/nacional/cobran-hasta-muertos-nominas-estatales</id>
-    <updated>2026-11-13T08:30:00Z</updated>
-    <summary>La ASF observó pagos a personas dadas de baja, proveedores que no pudieron acreditarse y padrones con inconsistencias</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Aseguran que Pemex protege al país de tarifazos</title>
-    <link href="https://www.excelsior.com.mx/nacional/aseguran-que-pemex-protege-pais-tarifazos" />
-    <id>https://www.excelsior.com.mx/nacional/aseguran-que-pemex-protege-pais-tarifazos</id>
-    <updated>2026-11-13T08:30:00Z</updated>
-    <summary>Durante la comparecencia en en el Senado, la secretaria de Energía afirmó que la inflación en México se controla porque producen más combustibles y que dejará de quemar 500 millones de pies cúbicos de gas al día</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Broxel, el monedero de diputados, en la mira del gobierno; ven posible conflicto de interés entre compañía y funcionario de Hacienda</title>
-    <link href="https://www.eluniversal.com.mx/nacion/broxel-el-monedero-de-diputados-en-la-mira-del-gobierno-ven-posible-conflicto-de-interes-entre-compania-y-funcionario-de-hacienda/" />
-    <id>https://www.eluniversal.com.mx/nacion/broxel-el-monedero-de-diputados-en-la-mira-del-gobierno-ven-posible-conflicto-de-interes-entre-compania-y-funcionario-de-hacienda/</id>
-    <updated>2026-11-13T08:15:42Z</updated>
-    <summary>Norma Julieta del Río, excomisionada del Inai, señala que "con Broxel podría haber una red similar a la del INE”, por el modus operandi de la empresa, que es investigada por Anticorrupción</summary>
+    <title>Se les pierden 5 mil homicidios; llega subregistro a 17%</title>
+    <link href="https://www.eluniversal.com.mx/nacion/se-les-pierden-5-mil-homicidios-llega-subregistro-a-17/" />
+    <id>https://www.eluniversal.com.mx/nacion/se-les-pierden-5-mil-homicidios-llega-subregistro-a-17/</id>
+    <updated>2026-11-14T06:30:00Z</updated>
+    <summary>En 2025, el SESNSP no contabilizó 5 mil 140 crímenes dolosos (17%) que están en la estadística de defunciones</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>El arte del movimiento llega al Palacio de Bellas Artes</title>
-    <link href="https://www.excelsior.com.mx/cultura/arte-movimiento-llega-palacio-bellas-artes" />
-    <id>https://www.excelsior.com.mx/cultura/arte-movimiento-llega-palacio-bellas-artes</id>
-    <updated>2026-11-13T08:05:00Z</updated>
-    <summary>La exposición Las formas de la energía. Obras emblemáticas del Centre Pompidou reúne 41 piezas de artistas europeos y latinoamericanos que transformaron el arte del siglo XX a través del cinetismo, la abstracción y los juegos ópticos.</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>"¡Uno ya no está para bisutería!", fueron las palabras de Rosalía en la entrega de los Latin Grammy</title>
-    <link href="https://www.excelsior.com.mx/espectaculos/no-para-bisuteria-fueron-palabras-rosalia-entrega-latin-grammy" />
-    <id>https://www.excelsior.com.mx/espectaculos/no-para-bisuteria-fueron-palabras-rosalia-entrega-latin-grammy</id>
-    <updated>2026-11-13T07:17:24Z</updated>
-    <summary>La española fue la máxima ganadora de la noche en donde consiguió llevarse a casa cinco gramófonos, entre ellos Álbum y Canción del año</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Cuenta Pública 2025 de Chapingo revela inconsistencias financieras y deficiencias en sus controles internos</title>
-    <link href="https://www.excelsior.com.mx/nacional/cuenta-publica-2025-chapingo-revela-inconsistencias-financieras-y-deficiencias-controles-internos" />
-    <id>https://www.excelsior.com.mx/nacional/cuenta-publica-2025-chapingo-revela-inconsistencias-financieras-y-deficiencias-controles-internos</id>
-    <updated>2026-11-13T06:57:56Z</updated>
-    <summary>Auditor externo emitió opiniones con salvedades sobre los estados financieros y presupuestarios de la Universidad Autónoma Chapingo</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>UNAM realiza 408 procesos electorales para renovar sus órganos colegiados</title>
-    <link href="https://www.excelsior.com.mx/nacional/unam-realiza-408-procesos-electorales-para-renovar-organos-colegiados-1" />
-    <id>https://www.excelsior.com.mx/nacional/unam-realiza-408-procesos-electorales-para-renovar-organos-colegiados-1</id>
-    <updated>2026-11-13T06:16:45Z</updated>
-    <summary>Se renovará 80% de las 339 consejerías del Consejo Universitario; quedan pendientes elecciones en tres representaciones</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>"La izquierda entendió tarde el algoritmo de las redes": Camila Vallejo, exportavoz de Boric; resalta liderazgo de Sheinbaum</title>
-    <link href="https://www.eluniversal.com.mx/nacion/la-izquierda-llego-tarde-a-entender-los-algoritmos-camila-vallejo-exportavoz-de-boric/" />
-    <id>https://www.eluniversal.com.mx/nacion/la-izquierda-llego-tarde-a-entender-los-algoritmos-camila-vallejo-exportavoz-de-boric/</id>
-    <updated>2026-11-13T06:01:00Z</updated>
-    <summary>La exministra secretaria general de Gobierno de Chile resaltó en entrevista con EL UNIVERSAL el liderazgo de la presidenta Claudia Sheinbaum, a quien reconoció como “una gran referente” y “un ejemplo de resistencia y futuro”</summary>
+    <title>“El piloto fue el que nos avisó y ya íbamos avanzando”; Ana Paula Ordorica narra pausa aérea en EU desde Washington DC</title>
+    <link href="https://www.eluniversal.com.mx/mundo/el-piloto-fue-el-que-nos-aviso-y-ya-ibamos-avanzando-ana-paula-ordorica-narra-pausa-aerea-en-eu-desde-washington-dc/" />
+    <id>https://www.eluniversal.com.mx/mundo/el-piloto-fue-el-que-nos-aviso-y-ya-ibamos-avanzando-ana-paula-ordorica-narra-pausa-aerea-en-eu-desde-washington-dc/</id>
+    <updated>2026-11-14T01:10:12Z</updated>
+    <summary>En entrevista con EL UNIVERSAL, la periodista y analista cuenta cómo se vive el "grounding"</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Más renuncias del clan Taddei; nuera de expresidenta del INE deja cargo en Sonora</title>
-    <link href="https://www.excelsior.com.mx/politica/renuncian-familiares-guadalupe-taddei-gobierno-sonora-contratos" />
-    <id>https://www.excelsior.com.mx/politica/renuncian-familiares-guadalupe-taddei-gobierno-sonora-contratos</id>
-    <updated>2026-11-13T04:49:04Z</updated>
-    <summary>El hijo y la nuera de Guadalupe Taddei renunciaron a sus cargos en el gobierno de Sonora; además, documentos señalan contratos por 210 mil pesos a Celeste Taddei.</summary>
+    <title>Sigue la limpia en el INE: piden la renuncia a tres altos directivos, uno de ellos cercado a Taddei</title>
+    <link href="https://www.excelsior.com.mx/politica/ine-pide-renuncia-tres-altos-directivos-cercano-guadalupe-taddei" />
+    <id>https://www.excelsior.com.mx/politica/ine-pide-renuncia-tres-altos-directivos-cercano-guadalupe-taddei</id>
+    <updated>2026-11-13T22:34:42Z</updated>
+    <summary>Blanca Cruz García confirmó que el INE pidió la renuncia a tres altos directivos del SPEN, DERFE y UTCE; además, consejeros y partidos analizan recorte de 6 mil mdp.</summary>
     <author>
       <name>Excélsior</name>
     </author>
@@ -245,19 +245,19 @@
     </author>
   </entry>
   <entry>
-    <title>EN VIVO: Conferencia mañanera de Sheinbaum (131126)</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/13/en-vivo-conferencia-mananera-de-sheinbaum-131126-383644.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/13/en-vivo-conferencia-mananera-de-sheinbaum-131126-383644.html</id>
-    <updated>2026-11-13T13:46:49Z</updated>
+    <title>México suspende despegues hacia EU; Aeroméxico y Volaris reportan afectaciones</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/13/mexico-suspende-despegues-hacia-eu-por-crisis-aerea-aeromexico-y-volaris-reportan-afectaciones-383697.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/13/mexico-suspende-despegues-hacia-eu-por-crisis-aerea-aeromexico-y-volaris-reportan-afectaciones-383697.html</id>
+    <updated>2026-11-14T12:50:26Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Alerta ahora por el frente frío 5: lluvias fuertes de viernes a lunes en los siguientes estados</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/12/alerta-ahora-por-el-frente-frio-5-lluvias-fuertes-de-viernes-a-lunes-en-los-siguientes-estados-383637.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/12/alerta-ahora-por-el-frente-frio-5-lluvias-fuertes-de-viernes-a-lunes-en-los-siguientes-estados-383637.html</id>
-    <updated>2026-11-13T13:46:49Z</updated>
+    <title>Morena designa a Carlos Castillo, cercano a Montiel, como representante ante el INE</title>
+    <link href="https://www.proceso.com.mx/nacional/politica/2026/11/13/morena-designa-a-carlos-castillo-cercano-a-montiel-como-representante-ante-el-ine-383683.html" />
+    <id>https://www.proceso.com.mx/nacional/politica/2026/11/13/morena-designa-a-carlos-castillo-cercano-a-montiel-como-representante-ante-el-ine-383683.html</id>
+    <updated>2026-11-14T12:50:26Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -266,44 +266,44 @@
     <title>Javier Sicilia responde al Capitán Marcos: “Concéntrese en las víctimas y no difame”</title>
     <link href="https://www.proceso.com.mx/nacional/2026/11/13/javier-sicilia-responde-al-capitan-marcos-concentrese-en-las-victimas-y-no-difame-383643.html" />
     <id>https://www.proceso.com.mx/nacional/2026/11/13/javier-sicilia-responde-al-capitan-marcos-concentrese-en-las-victimas-y-no-difame-383643.html</id>
-    <updated>2026-11-13T13:46:49Z</updated>
+    <updated>2026-11-14T12:50:26Z</updated>
     <summary>Javier Sicilia, fundador del Movimiento por la Paz con Justicia y Dignidad, responde al Capitán Marcos luego de la polémica suscitada entre el exsubcomandante y los colectivos de familias de desaparecidos.</summary>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>IMSS: Robledo, sin necesidad de marchar, ganará más que la presidenta Sheinbaum</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/13/imss-robledo-sin-necesidad-de-marchar-ganara-mas-que-la-presidenta-sheinbaum-383634.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/13/imss-robledo-sin-necesidad-de-marchar-ganara-mas-que-la-presidenta-sheinbaum-383634.html</id>
-    <updated>2026-11-13T13:46:49Z</updated>
+    <title>"Una cosa no puede ser juzgada por segunda ocasión", dice Higinio Martínez sobre fraude de 2006</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/13/una-cosa-no-puede-ser-juzgada-por-segunda-ocasion-dice-higinio-martinez-sobre-fraude-de-2006-383696.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/13/una-cosa-no-puede-ser-juzgada-por-segunda-ocasion-dice-higinio-martinez-sobre-fraude-de-2006-383696.html</id>
+    <updated>2026-11-14T12:50:26Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Legisladores sin fronteras: en dos años gastan 6 millones de pesos en viáticos</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/13/legisladores-sin-fronteras-en-dos-anos-gastan-6-millones-de-pesos-en-viaticos-383621.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/13/legisladores-sin-fronteras-en-dos-anos-gastan-6-millones-de-pesos-en-viaticos-383621.html</id>
-    <updated>2026-11-13T13:46:49Z</updated>
+    <title>Citlalli Hernández desmiente al PT: no hay acuerdo para repetir medición en Michoacán</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/13/citlalli-hernandez-desmiente-al-pt-no-hay-acuerdo-para-repetir-medicion-en-michoacan-383680.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/13/citlalli-hernandez-desmiente-al-pt-no-hay-acuerdo-para-repetir-medicion-en-michoacan-383680.html</id>
+    <updated>2026-11-14T12:50:26Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Bolivia pide explicaciones a México sobre el posible asilo concedido al exvicepresidente García Linera</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/11/13/bolivia-pide-explicaciones-a-mexico-sobre-el-posible-asilo-concedido-al-exvicepresidente-garcia-linera-383648.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/11/13/bolivia-pide-explicaciones-a-mexico-sobre-el-posible-asilo-concedido-al-exvicepresidente-garcia-linera-383648.html</id>
-    <updated>2026-11-13T13:46:49Z</updated>
+    <title>Lisa María Cerati: del dolor de sus primeras canciones a su debut como cantante en México</title>
+    <link href="https://www.proceso.com.mx/cultura/2026/11/14/lisa-maria-cerati-del-dolor-de-sus-primeras-canciones-a-su-debut-como-cantante-en-mexico-383688.html" />
+    <id>https://www.proceso.com.mx/cultura/2026/11/14/lisa-maria-cerati-del-dolor-de-sus-primeras-canciones-a-su-debut-como-cantante-en-mexico-383688.html</id>
+    <updated>2026-11-14T12:50:26Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Microsoft trata de restaurar sus servicios tras falla global que afecta a empresas y gobiernos</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/11/13/microsoft-trata-de-restaurar-sus-servicios-tras-falla-global-que-afecta-a-empresas-y-gobiernos-383647.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/11/13/microsoft-trata-de-restaurar-sus-servicios-tras-falla-global-que-afecta-a-empresas-y-gobiernos-383647.html</id>
-    <updated>2026-11-13T13:46:49Z</updated>
+    <title>Johnny Depp interpreta a Ebenezer Scrooge en la película de fantasía de Ti West</title>
+    <link href="https://www.proceso.com.mx/cultura/2026/11/13/johnny-depp-interpreta-a-ebenezer-scrooge-en-la-pelicula-de-fantasia-de-ti-west-383714.html" />
+    <id>https://www.proceso.com.mx/cultura/2026/11/13/johnny-depp-interpreta-a-ebenezer-scrooge-en-la-pelicula-de-fantasia-de-ti-west-383714.html</id>
+    <updated>2026-11-14T12:50:26Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -312,7 +312,7 @@
     <title>Jesús Ramírez Cuevas denunció la prensa comprada. Ahora la fabrican</title>
     <link href="https://www.proceso.com.mx/opinion/2026/11/12/jesus-ramirez-cuevas-denuncio-la-prensa-comprada-ahora-la-fabrican-383531.html" />
     <id>https://www.proceso.com.mx/opinion/2026/11/12/jesus-ramirez-cuevas-denuncio-la-prensa-comprada-ahora-la-fabrican-383531.html</id>
-    <updated>2026-11-13T13:46:49Z</updated>
+    <updated>2026-11-14T12:50:26Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -321,62 +321,63 @@
     <title>Israel: triunfo y derrota en las elecciones</title>
     <link href="https://www.proceso.com.mx/opinion/2026/11/13/israel-triunfo-y-derrota-en-las-elecciones-383607.html" />
     <id>https://www.proceso.com.mx/opinion/2026/11/13/israel-triunfo-y-derrota-en-las-elecciones-383607.html</id>
-    <updated>2026-11-13T13:46:49Z</updated>
+    <updated>2026-11-14T12:50:26Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Desaparición forzada. La negación del Estado mexicano a examen en la ONU</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/10/19/desaparicion-forzada-la-negacion-del-estado-mexicano-a-examen-en-la-onu-382057.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/10/19/desaparicion-forzada-la-negacion-del-estado-mexicano-a-examen-en-la-onu-382057.html</id>
-    <updated>2026-11-13T13:46:49Z</updated>
+    <title>Asesinan a dos mujeres en un día en Oaxaca; suman cuatro feminicidios en lo que va del mes</title>
+    <link href="https://www.proceso.com.mx/nacional/estados/2026/11/13/asesinan-a-dos-mujeres-en-un-dia-en-oaxaca-suman-cuatro-feminicidios-en-lo-que-va-del-mes-383712.html" />
+    <id>https://www.proceso.com.mx/nacional/estados/2026/11/13/asesinan-a-dos-mujeres-en-un-dia-en-oaxaca-suman-cuatro-feminicidios-en-lo-que-va-del-mes-383712.html</id>
+    <updated>2026-11-14T12:50:26Z</updated>
+    <summary>En el caso más reciente, una mujer fue baleada cuando se encontraba en un vehículo en Santa María Atzompa, municipio conurbado de Oaxaca capital.</summary>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Exhiben obra no realizada y con tufo a vínculos oscuros en Oaxaca</title>
-    <link href="https://www.eluniversal.com.mx/opinion/kiosko/exhiben-obra-no-realizada-y-con-tufo-a-vinculos-oscuros-en-oaxaca/" />
-    <id>https://www.eluniversal.com.mx/opinion/kiosko/exhiben-obra-no-realizada-y-con-tufo-a-vinculos-oscuros-en-oaxaca/</id>
-    <updated>2026-11-13T13:46:49Z</updated>
+    <title>Otro revés para la Secretaría de Movilidad</title>
+    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/otro-reves-para-la-secretaria-de-movilidad/" />
+    <id>https://www.eluniversal.com.mx/opinion/el-caballito/otro-reves-para-la-secretaria-de-movilidad/</id>
+    <updated>2026-11-14T12:50:26Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Primer ajuste al Programa de Ordenación de la ZMVM</title>
-    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/primer-ajuste-al-programa-de-ordenacion-de-la-zmvm/" />
-    <id>https://www.eluniversal.com.mx/opinion/el-caballito/primer-ajuste-al-programa-de-ordenacion-de-la-zmvm/</id>
-    <updated>2026-11-13T13:46:49Z</updated>
+    <title>El rapto de la honestidad</title>
+    <link href="https://www.eluniversal.com.mx/carton/boligan/el-rapto-de-la-honestidad/" />
+    <id>https://www.eluniversal.com.mx/carton/boligan/el-rapto-de-la-honestidad/</id>
+    <updated>2026-11-14T12:50:26Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Aranceles en suspenso</title>
-    <link href="https://www.eluniversal.com.mx/opinion/desbalance/aranceles-en-suspenso/" />
-    <id>https://www.eluniversal.com.mx/opinion/desbalance/aranceles-en-suspenso/</id>
-    <updated>2026-11-13T13:46:49Z</updated>
+    <title>El exorcista</title>
+    <link href="https://www.eluniversal.com.mx/carton/fernando-de-anda-fer/el-exorcista/" />
+    <id>https://www.eluniversal.com.mx/carton/fernando-de-anda-fer/el-exorcista/</id>
+    <updated>2026-11-14T12:50:26Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Triunfan en Frankfurt editores independientes</title>
-    <link href="https://www.eluniversal.com.mx/opinion/crimen-castigo/triunfan-en-frankfurt-editores-independientes/" />
-    <id>https://www.eluniversal.com.mx/opinion/crimen-castigo/triunfan-en-frankfurt-editores-independientes/</id>
-    <updated>2026-11-13T13:46:49Z</updated>
+    <title>Vadhir Derbez conserva proyectos pese a denuncia por presunta violación</title>
+    <link href="https://www.eluniversal.com.mx/espectaculos/vadhir-derbez-conserva-proyectos-pese-a-denuncia-por-presunta-violacion/" />
+    <id>https://www.eluniversal.com.mx/espectaculos/vadhir-derbez-conserva-proyectos-pese-a-denuncia-por-presunta-violacion/</id>
+    <updated>2026-11-14T12:50:26Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Orden de ataque</title>
-    <link href="https://www.eluniversal.com.mx/carton/kemchs/orden-de-ataque/" />
-    <id>https://www.eluniversal.com.mx/carton/kemchs/orden-de-ataque/</id>
-    <updated>2026-11-13T13:46:49Z</updated>
-    <summary>Cartón de KEMCHS</summary>
+    <title>José Joaquín Fernández de Lizardi: 250 años del primer novelista de México</title>
+    <link href="https://www.eluniversal.com.mx/cultura/jose-joaquin-fernandez-de-lizardi-250-anos-del-primer-novelista-de-mexico/" />
+    <id>https://www.eluniversal.com.mx/cultura/jose-joaquin-fernandez-de-lizardi-250-anos-del-primer-novelista-de-mexico/</id>
+    <updated>2026-11-14T12:50:26Z</updated>
+    <summary>Por publicar El Periquillo Sarniento y por sus ideas críticas fue censurado. Estudiosos hablan de su aportación a las letras y al periodismo, en el aniversario de su nacimiento</summary>
     <author>
       <name>El Universal</name>
     </author>
