@@ -2,154 +2,164 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mexican News</title>
   <id>tag:atorizva.github.io,2026:rss-mexican-news</id>
-  <updated>2026-11-15T13:18:10Z</updated>
+  <updated>2026-11-16T14:30:53Z</updated>
   <link href="https://atorizva.github.io/rss-mexican-news/feed.xml" rel="self" />
   <entry>
-    <title>Jensen Huang: los affaires le costaron el PIB de México</title>
-    <link href="https://www.excelsior.com.mx/nacional/jensen-huang-affaires-le-costaron-pib-mexico" />
-    <id>https://www.excelsior.com.mx/nacional/jensen-huang-affaires-le-costaron-pib-mexico</id>
-    <updated>2026-11-15T12:00:00Z</updated>
-    <summary>Considerado como el nuevo rostro de la nueva era de la inteligencia artificial, el ingeniero de origen taiwanés perdió parte de su legado al ser despedido por tres supuestos engaños a su esposa</summary>
+    <title>SCJN ordena resolver municipalización de Alpuyeca; Morena plantea que entre en vigor hasta 2030</title>
+    <link href="https://www.proceso.com.mx/nacional/estados/2026/11/15/scjn-ordena-resolver-municipalizacion-de-alpuyeca-morena-plantea-que-entre-en-vigor-hasta-2030-383772.html" />
+    <id>https://www.proceso.com.mx/nacional/estados/2026/11/15/scjn-ordena-resolver-municipalizacion-de-alpuyeca-morena-plantea-que-entre-en-vigor-hasta-2030-383772.html</id>
+    <updated>2027-02-01T00:00:00Z</updated>
+    <summary>El Congreso deberá pronunciarse durante el periodo ordinario que inicia el 1 de febrero de 2027. La sentencia no obliga a crear el municipio, mientras Morena advierte que una eventual aprobación podría tener efectos hasta 2030.</summary>
+    <author>
+      <name>Proceso</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Destaca Sheinbaum a connacionales en China; los llama a mantener el vínculo con México</title>
+    <link href="https://www.excelsior.com.mx/nacional/destaca-sheinbaum-connacionales-china-llama-mantener-vinculo-con-mexico" />
+    <id>https://www.excelsior.com.mx/nacional/destaca-sheinbaum-connacionales-china-llama-mantener-vinculo-con-mexico</id>
+    <updated>2026-11-16T14:01:26Z</updated>
+    <summary>La presidenta destacó el talento y las aportaciones de los mexicanos que radican en China, a quienes calificó como “mexicanas y mexicanos extraordinarios”.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Localizan 4 cuerpos calcinados en Oaxaca; serían de empresario y escoltas desaparecidos</title>
-    <link href="https://www.excelsior.com.mx/nacional/localizan-4-cuerpos-calcinados-oaxaca-serian-empresario-escoltas" />
-    <id>https://www.excelsior.com.mx/nacional/localizan-4-cuerpos-calcinados-oaxaca-serian-empresario-escoltas</id>
-    <updated>2026-11-15T10:07:15Z</updated>
-    <summary>La Fiscalía realiza dictámenes forenses para establecer legalmente la identidad de las cuatro personas encontradas.</summary>
+    <title>135 homicidios ensombrecen el último puente de 2026</title>
+    <link href="https://www.excelsior.com.mx/nacional/135-homicidios-ensombrecen-ultimo-puente-2026" />
+    <id>https://www.excelsior.com.mx/nacional/135-homicidios-ensombrecen-ultimo-puente-2026</id>
+    <updated>2026-11-16T13:45:42Z</updated>
+    <summary>Durante el último fin de semana de “Puente” de 2026, con motivo del 116 Aniversario de la Revolución Mexicana, se cometieron 135 homicidios dolosos en el país.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Historia de China, plasmada en un árbol</title>
-    <link href="https://www.eluniversal.com.mx/nacion/historia-de-china-plasmada-en-un-arbol/" />
-    <id>https://www.eluniversal.com.mx/nacion/historia-de-china-plasmada-en-un-arbol/</id>
-    <updated>2026-11-15T09:00:22Z</updated>
-    <summary>En 120 metros de troncos de alcanfor, 40 artistas tallan la vida rural y marítima, así como los rascacielos de la zona del Gran Canal, con el que buscan el Récord Guinness</summary>
+    <title>La 'Mañanera' de Sheinbaum EN VIVO: Temas de la conferencia hoy 16 de noviembre de 2026</title>
+    <link href="https://www.excelsior.com.mx/nacional/mananera-sheinbaum-hoy-temas-conferencia-16-noviembre-2026" />
+    <id>https://www.excelsior.com.mx/nacional/mananera-sheinbaum-hoy-temas-conferencia-16-noviembre-2026</id>
+    <updated>2026-11-16T13:36:50Z</updated>
+    <summary>La titular de Segob, Rosa Icela Rodríguez, encabeza la conferencia desde Palacio Nacional; conoce aquí el resumen de su 'mañanera'.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Cumbre APEC: reunión Trump-Xi-Putin centra atención; ¿Quién sale ganando?</title>
+    <link href="https://www.eluniversal.com.mx/mundo/cumbre-apec-reunion-trump-xi-putin-centra-atencion-quien-sale-ganando/" />
+    <id>https://www.eluniversal.com.mx/mundo/cumbre-apec-reunion-trump-xi-putin-centra-atencion-quien-sale-ganando/</id>
+    <updated>2026-11-16T10:35:05Z</updated>
+    <summary>Los tres mandatarios llegan a la cumbre con objetivos distintos; para el Kremlin, que haya reunión trilateral ya es, en sí, una ganancia</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Así evoluciona la Muestra Internacional de Cine en su edición 80</title>
-    <link href="https://www.excelsior.com.mx/espectaculos/evoluciona-muestra-internacional-cine-edicion-80" />
-    <id>https://www.excelsior.com.mx/espectaculos/evoluciona-muestra-internacional-cine-edicion-80</id>
-    <updated>2026-11-15T09:00:00Z</updated>
-    <summary>La Muestra Internacional de Cine de la Cineteca Nacional celebra acercando lo mejor del cine mundial y clásicos restaurados al público mexicano. Su curador Nelson Carro explica que aunque el evento dejó de ser un acontecimiento social para muchos, sigue siendo una tradición</summary>
+    <title>Gérard Depardieu pide perdón y acepta condena firme por agresiones sexuales</title>
+    <link href="https://www.excelsior.com.mx/espectaculos/gerard-depardieu-pide-perdon-y-acepta-condena-firme-por-agresiones-sexuales" />
+    <id>https://www.excelsior.com.mx/espectaculos/gerard-depardieu-pide-perdon-y-acepta-condena-firme-por-agresiones-sexuales</id>
+    <updated>2026-11-16T10:04:56Z</updated>
+    <summary>Gérard Depardieu pide perdón y acepta condena firme por agresiones sexuales</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Persiste caos en aeropuertos de EU; exigen fondos para modernizar sistema aéreo</title>
-    <link href="https://www.excelsior.com.mx/internacional/persiste-caos-aeropuertos-eu-exigen-modernizar-sistema-aereo" />
-    <id>https://www.excelsior.com.mx/internacional/persiste-caos-aeropuertos-eu-exigen-modernizar-sistema-aereo</id>
-    <updated>2026-11-15T08:52:52Z</updated>
-    <summary>Miles de vuelos volvieron a ser cancelados o retrasados en EU por una falla técnica atribuida al cambio de un cable de las líneas de comunicación</summary>
+    <title>INE tiene 57 contrataciones en riesgo rumbo a las elecciones de 2027</title>
+    <link href="https://www.excelsior.com.mx/politica/ine-tiene-57-contrataciones-riesgo-rumbo-elecciones-2027" />
+    <id>https://www.excelsior.com.mx/politica/ine-tiene-57-contrataciones-riesgo-rumbo-elecciones-2027</id>
+    <updated>2026-11-16T09:20:59Z</updated>
+    <summary>El INE reporta 57 contrataciones en riesgo rumbo a las elecciones de 2027, incluidos insumos para el PREP, tras retrasos en la aprobación de documentos electorales.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Plantean a INE vacuna contra supermayoría para 2027</title>
-    <link href="https://www.eluniversal.com.mx/nacion/plantean-a-ine-vacuna-contra-supermayoria-para-2027/" />
-    <id>https://www.eluniversal.com.mx/nacion/plantean-a-ine-vacuna-contra-supermayoria-para-2027/</id>
-    <updated>2026-11-15T08:46:14Z</updated>
-    <summary>La Alianza Democrática para la Observación Electoral propondrá que las coaliciones sean tratadas, desde su registro, como partido</summary>
+    <title>Candidatean a latina para la presidencia de Estados Unidos</title>
+    <link href="https://www.excelsior.com.mx/internacional/ocasio-cortez-presidencia-2028" />
+    <id>https://www.excelsior.com.mx/internacional/ocasio-cortez-presidencia-2028</id>
+    <updated>2026-11-16T08:48:02Z</updated>
+    <summary>Los socialistas demócratas instaron oficialmente a Alexandria Ocasio-Cortez a postularse en EU para 2028</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Reparten culpas por la parálisis en aeropuertos</title>
+    <link href="https://www.excelsior.com.mx/internacional/crisis-aeropuertos-eu" />
+    <id>https://www.excelsior.com.mx/internacional/crisis-aeropuertos-eu</id>
+    <updated>2026-11-16T08:34:51Z</updated>
+    <summary>La administración de Trump pidió al Congreso fondos extra para la aviación en EU, pero demócratas exigieron explicaciones del presupuesto asignado</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Once años le bastaron a Miguel Ángel Félix Gallardo para ser Jefe de Jefes</title>
+    <link href="https://www.excelsior.com.mx/nacional/once-anos-le-bastaron-miguel-angel-felix-gallardo-para-ser-jefe-jefes" />
+    <id>https://www.excelsior.com.mx/nacional/once-anos-le-bastaron-miguel-angel-felix-gallardo-para-ser-jefe-jefes</id>
+    <updated>2026-11-16T08:30:00Z</updated>
+    <summary>Miguel Ángel Félix Gallardo fue cofundador de cártel de Guadalajara, que transformó el narcotráfico mexicano de un negocio local a una empresa trasnacional</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Asesinan a otro periodista en Acapulco; exigen justicia</title>
+    <link href="https://www.eluniversal.com.mx/estados/asesinan-a-otro-periodista-en-acapulco-exigen-justicia/" />
+    <id>https://www.eluniversal.com.mx/estados/asesinan-a-otro-periodista-en-acapulco-exigen-justicia/</id>
+    <updated>2026-11-16T08:00:00Z</updated>
+    <summary>El reportero de Enfoque Informativo fue hallado sin vida la noche del sábado</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Ocultan en Veracruz pensión de profesor</title>
-    <link href="https://www.excelsior.com.mx/nacional/ocultan-veracruz-pension-profesor" />
-    <id>https://www.excelsior.com.mx/nacional/ocultan-veracruz-pension-profesor</id>
-    <updated>2026-11-15T08:31:00Z</updated>
-    <summary>La familia del maestro, que murió esperando su pensión, pidió a la Secretaría de Educación de Veracruz aclarar qué pasó con sus dos plazas, vigentes hasta 2024, aunque el IPE dejó de registrar aportaciones</summary>
+    <title>Exigen frenar subasta de óleo de Frida Kahlo en la casa Christie’s, en Nueva York</title>
+    <link href="https://www.excelsior.com.mx/cultura/exigen-frenar-subasta-oleo-frida-kahlo-casa-christie-s-nueva-york" />
+    <id>https://www.excelsior.com.mx/cultura/exigen-frenar-subasta-oleo-frida-kahlo-casa-christie-s-nueva-york</id>
+    <updated>2026-11-16T08:00:00Z</updated>
+    <summary>Colectivo Defendamos la Colección Gelman pide que autoridades culturales de México intervengan en la venta de la obra 'Congreso de los pueblos por la paz', que habría salido ilegalmente de México</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Retraso en San Lázaro tambalea sucesión en INE; el proceso requiere de varias etapas</title>
-    <link href="https://www.excelsior.com.mx/nacional/eleccion-nueva-presidenta-ine-podria-irse-periodo-extraordinario-san-lazaro" />
-    <id>https://www.excelsior.com.mx/nacional/eleccion-nueva-presidenta-ine-podria-irse-periodo-extraordinario-san-lazaro</id>
-    <updated>2026-11-15T08:30:00Z</updated>
-    <summary>La falta de acuerdo sobre el procedimiento para elegir a la sucesora de Guadalupe Taddei podría llevar este trámite hasta principios de 2027, advirtió el legislador del PAN Marcelo Torres Cofiño</summary>
+    <title>Senado incorpora a su patrimonio muebles del fallido salón de belleza; costaron $133 mil</title>
+    <link href="https://www.excelsior.com.mx/politica/senado-incorpora-patrimonio-muebles-fallido-salon-belleza-costaron-133-mil" />
+    <id>https://www.excelsior.com.mx/politica/senado-incorpora-patrimonio-muebles-fallido-salon-belleza-costaron-133-mil</id>
+    <updated>2026-11-16T08:00:00Z</updated>
+    <summary>Pese a la polémica por contradecir la austeridad republicana, las sillas, el lavacabezas y los tocadores adquiridos en 2024 ya cuentan con clave oficial de inventario y permanecen resguardados en el espacio cerrado desde febrero</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Ocho de cada 10 pesos del gasto 2027 están comprometidos</title>
-    <link href="https://www.excelsior.com.mx/nacional/ocho-cada-10-pesos-gasto-2027-estan-comprometidos" />
-    <id>https://www.excelsior.com.mx/nacional/ocho-cada-10-pesos-gasto-2027-estan-comprometidos</id>
-    <updated>2026-11-15T08:30:00Z</updated>
-    <summary>Alrededor de 8 billones 534 mil millones de pesos, poco más de 80% de los 10 billones 636 mil 488.1 millones del Presupuesto 2027, están destinados a obligaciones del gobierno</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Cárteles montan cibervigilancia en la frontera con EU; guían a migrante con drones y por teléfono</title>
-    <link href="https://www.eluniversal.com.mx/nacion/carteles-montan-cibervigilancia-en-la-frontera-con-eu-guian-a-migrante-con-drones-y-por-telefono/" />
-    <id>https://www.eluniversal.com.mx/nacion/carteles-montan-cibervigilancia-en-la-frontera-con-eu-guian-a-migrante-con-drones-y-por-telefono/</id>
-    <updated>2026-11-15T08:21:18Z</updated>
-    <summary>En los límites entre México y EU, la Patrulla Fronteriza libra una batalla contra estos nuevos halcones cibernéticos de los cárteles; a diario surca los cielos para detectarlos y neutralizarlos</summary>
+    <title>Cuervo, alfil de los Hernández en el INE; así fue su polémico paso en el organismo</title>
+    <link href="https://www.eluniversal.com.mx/nacion/cuervo-alfil-de-los-hernandez-en-el-ine-asi-fue-su-polemico-paso-en-el-organismo/" />
+    <id>https://www.eluniversal.com.mx/nacion/cuervo-alfil-de-los-hernandez-en-el-ine-asi-fue-su-polemico-paso-en-el-organismo/</id>
+    <updated>2026-11-16T07:01:00Z</updated>
+    <summary>Antes de que Guadalupe Taddei llegara a la presidencia del instituto, los empresarios “trabajaban” con Juan Carlos Cuervo Escalona</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Asesinan a regidora y dirigente del PRI de San Juan Texhuacan, Veracruz</title>
-    <link href="https://www.excelsior.com.mx/nacional/asesinan-regidora-dirigente-pri-san-juan-texhuacan-veracruz" />
-    <id>https://www.excelsior.com.mx/nacional/asesinan-regidora-dirigente-pri-san-juan-texhuacan-veracruz</id>
-    <updated>2026-11-15T08:01:56Z</updated>
-    <summary>El crimen reaviva las alertas por la violencia política en la entidad, donde se han registrado otros ataques contra figuras públicas; exigen seguridad para los aspirantes.</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Gioconda Belli concibe la poesía como "la vibración del alma"</title>
-    <link href="https://www.excelsior.com.mx/cultura/gioconda-belli-concibe-poesia-como-vibracion-alma" />
-    <id>https://www.excelsior.com.mx/cultura/gioconda-belli-concibe-poesia-como-vibracion-alma</id>
-    <updated>2026-11-15T08:00:00Z</updated>
-    <summary>La escritora nicaragüense afirma que este género literario surgió primero en ella y que le sigue llegando con espontaneidad; sobre esto versará su discurso de recepción del Premio FIL de Literatura en Lenguas Romances</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Caravana Dios con Nosotros: Ofrecen empleo a migrantes en Chiapas</title>
-    <link href="https://www.excelsior.com.mx/nacional/caravana-dios-ofrecen-empleo-migrantes-chiapas" />
-    <id>https://www.excelsior.com.mx/nacional/caravana-dios-ofrecen-empleo-migrantes-chiapas</id>
-    <updated>2026-11-15T07:44:50Z</updated>
-    <summary>El gobernador Eduardo Ramírez Aguilar instruyó a la Secretaría de la Frontera Sur informar a las 2 mil personas que continúan en la ruta hacia EU</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Tras enfrentamiento, cae el "Mike", integrante "Los R's" del CJNG; célula delictiva está ligada al asesinato de Carlos Manzo</title>
-    <link href="https://www.eluniversal.com.mx/nacion/tras-enfrentamiento-cae-el-mike-integrante-los-rs-del-cjng-celula-delictiva-esta-ligada-al-asesinato-de-carlos-manzo/" />
-    <id>https://www.eluniversal.com.mx/nacion/tras-enfrentamiento-cae-el-mike-integrante-los-rs-del-cjng-celula-delictiva-esta-ligada-al-asesinato-de-carlos-manzo/</id>
-    <updated>2026-11-15T00:52:22Z</updated>
-    <summary>En X, Omar García Harfuch detalló que durante recorridos de prevención, elementos repelieron una agresión y un presunto delincuente fue abatido</summary>
+    <title>Consejeros del INE piden reembolsos por 955 mil pesos; tres de ellos concentran el 73.7% del total de recursos</title>
+    <link href="https://www.eluniversal.com.mx/nacion/consejeros-del-ine-piden-reembolsos-por-955-mil-pesos-tres-de-ellos-concentran-el-737-del-total-de-recursos/" />
+    <id>https://www.eluniversal.com.mx/nacion/consejeros-del-ine-piden-reembolsos-por-955-mil-pesos-tres-de-ellos-concentran-el-737-del-total-de-recursos/</id>
+    <updated>2026-11-16T07:00:00Z</updated>
+    <summary>Uuc-kib Espadas, Jorge Montaño y Norma Irene de la Cruz pidieron al INE el reembolso de $704 mil 27 por gastos de representación, 73.7% del total de recursos de esta prestación</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Gabito Ballesteros, bajo investigación de la FGR; hallan arma de fuego, cartuchos y cargadores en su camioneta</title>
-    <link href="https://www.eluniversal.com.mx/estados/caso-gabito-ballesteros-aseguran-dos-armas-y-detienen-a-seis-personas-tras-concierto-en-queretaro-fgr-abre-carpeta-de-investigacion/" />
-    <id>https://www.eluniversal.com.mx/estados/caso-gabito-ballesteros-aseguran-dos-armas-y-detienen-a-seis-personas-tras-concierto-en-queretaro-fgr-abre-carpeta-de-investigacion/</id>
-    <updated>2026-11-14T22:57:56Z</updated>
-    <summary>La Fiscalía General de la República realiza una indagatoria por portación de arma de fuego de uso exclusivo de las Fuerzas Armadas, así como desobediencia y resistencia de particulares</summary>
+    <title>Sheinbaum llega a China para su primera cumbre de la APEC; sostendrá reunión con Xi Jinping</title>
+    <link href="https://www.eluniversal.com.mx/nacion/sheinbaum-llega-a-china-para-su-primera-cumbre-de-la-apec-sostendra-reunion-con-xi-jinping/" />
+    <id>https://www.eluniversal.com.mx/nacion/sheinbaum-llega-a-china-para-su-primera-cumbre-de-la-apec-sostendra-reunion-con-xi-jinping/</id>
+    <updated>2026-11-16T04:09:18Z</updated>
+    <summary>El vuelo que transportaba a la Mandataria aterrizó en Shenzhen, según la plataforma de seguimiento de vuelos FlightAware</summary>
     <author>
       <name>El Universal</name>
     </author>
@@ -245,65 +255,65 @@
     </author>
   </entry>
   <entry>
-    <title>Representante de Gabito Ballesteros se disculpa con autoridades de Querétaro tras detención</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/14/representante-de-gabito-ballesteros-se-disculpa-con-autoridades-de-queretaro-tras-detencion-383743.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/14/representante-de-gabito-ballesteros-se-disculpa-con-autoridades-de-queretaro-tras-detencion-383743.html</id>
-    <updated>2026-11-15T13:18:10Z</updated>
+    <title>EN VIVO: Conferencia mañanera de Sheinbaum (161126)</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/16/en-vivo-conferencia-mananera-de-sheinbaum-161126-383777.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/16/en-vivo-conferencia-mananera-de-sheinbaum-161126-383777.html</id>
+    <updated>2026-11-16T14:30:53Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Pedro Salmerón acusa a Morena de proteger a expriistas</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/14/pedro-salmeron-acusa-a-morena-de-proteger-a-expriistas-383737.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/14/pedro-salmeron-acusa-a-morena-de-proteger-a-expriistas-383737.html</id>
-    <updated>2026-11-15T13:18:10Z</updated>
+    <title>Trump busca acuerdos económicos en Manila y Shenzhen, tras cumbre nuclear con Xi y Putin</title>
+    <link href="https://www.proceso.com.mx/internacional/2026/11/16/trump-busca-acuerdos-economicos-en-manila-y-shenzhen-383776.html" />
+    <id>https://www.proceso.com.mx/internacional/2026/11/16/trump-busca-acuerdos-economicos-en-manila-y-shenzhen-383776.html</id>
+    <updated>2026-11-16T14:30:53Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Sheinbaum ha gastado 5 mil 233 mdp en comunicación social; la mayor parte para medios afines</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/15/sheinbaum-ha-gastado-5-mil-233-mdp-en-comunicacion-social-la-mayor-parte-para-medios-afines-383690.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/15/sheinbaum-ha-gastado-5-mil-233-mdp-en-comunicacion-social-la-mayor-parte-para-medios-afines-383690.html</id>
-    <updated>2026-11-15T13:18:10Z</updated>
-    <summary>El gobierno de Sheinbaum gasta menos que el de Peña Nieto, pero más que López Obrador en sus primeros cinco años. Las viejas prácticas persisten: unos cuantos medios acaparan los contratos y consultoras cercanas al poder también reciben millones.</summary>
+    <title>Magistrado denuncia red de corrupción en el TFJA y afirma ser víctima de persecución</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/16/magistrado-denuncia-red-de-corrupcion-en-el-tfja-y-afirma-ser-victima-de-persecucion-383745.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/16/magistrado-denuncia-red-de-corrupcion-en-el-tfja-y-afirma-ser-victima-de-persecucion-383745.html</id>
+    <updated>2026-11-16T14:30:53Z</updated>
+    <summary>El magistrado Ricardo León Caraveo denunció ante la FGR una red de corrupción judicial en el TFJA, con más de 100 sentencias presuntamente falsificadas en la Sala Regional de Jalisco. Afirma que, tras reportar las irregularidades, fue cambiado de adscripción a Tabasco y enfrenta represalias, acoso laboral y el retiro de su protección oficial.</summary>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Presión a moneros en ambos lados del Atlántico, dice el fundador de World Press Cartoon</title>
-    <link href="https://www.proceso.com.mx/cultura/2026/11/15/presion-a-moneros-en-ambos-lados-del-atlantico-dice-el-fundador-de-world-press-cartoon-383706.html" />
-    <id>https://www.proceso.com.mx/cultura/2026/11/15/presion-a-moneros-en-ambos-lados-del-atlantico-dice-el-fundador-de-world-press-cartoon-383706.html</id>
-    <updated>2026-11-15T13:18:10Z</updated>
+    <title>Mantienen asegurado predio de Juan Gabriel en zona revalorizada por el Tren Maya</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/16/mantienen-asegurado-predio-de-juan-gabriel-en-zona-revalorizada-por-el-tren-maya-383613.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/16/mantienen-asegurado-predio-de-juan-gabriel-en-zona-revalorizada-por-el-tren-maya-383613.html</id>
+    <updated>2026-11-16T14:30:53Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Vicente Fox recula: rechaza "adjudicarse" triunfo presidencial de Calderón</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/14/vicente-fox-recula-rechaza-adjudicarse-triunfo-presidencial-de-calderon-383734.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/14/vicente-fox-recula-rechaza-adjudicarse-triunfo-presidencial-de-calderon-383734.html</id>
-    <updated>2026-11-15T13:18:10Z</updated>
+    <title>Cablebús de Puebla: denuncian gasto de 3 mil mdp con apenas 2.7 por ciento de avance en obras</title>
+    <link href="https://www.proceso.com.mx/nacional/estados/2026/11/15/cablebus-de-puebla-denuncian-gasto-de-3-mil-mdp-con-apenas-27-por-ciento-de-avance-en-obras-383773.html" />
+    <id>https://www.proceso.com.mx/nacional/estados/2026/11/15/cablebus-de-puebla-denuncian-gasto-de-3-mil-mdp-con-apenas-27-por-ciento-de-avance-en-obras-383773.html</id>
+    <updated>2026-11-16T14:30:53Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>“No fue penal”: dos amigos frente a las cuentas pendientes del pasado</title>
-    <link href="https://www.proceso.com.mx/cultura/2026/11/15/no-fue-penal-dos-amigos-frente-a-las-cuentas-pendientes-del-pasado-383686.html" />
-    <id>https://www.proceso.com.mx/cultura/2026/11/15/no-fue-penal-dos-amigos-frente-a-las-cuentas-pendientes-del-pasado-383686.html</id>
-    <updated>2026-11-15T13:18:10Z</updated>
+    <title>Generación Z, madres buscadoras y Movimiento del Sombrero marchan en la CDMX</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/15/generacion-z-madres-buscadoras-y-movimiento-del-sombrero-marchan-en-la-cdmx-383775.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/15/generacion-z-madres-buscadoras-y-movimiento-del-sombrero-marchan-en-la-cdmx-383775.html</id>
+    <updated>2026-11-16T14:30:53Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Rafael Márquez considera que los errores de México son fáciles de corregir pese a tercera derrota</title>
-    <link href="https://www.proceso.com.mx/deportes/2026/11/14/rafael-marquez-considera-que-los-errores-de-mexico-son-faciles-de-corregir-pese-a-tercera-derrota-383746.html" />
-    <id>https://www.proceso.com.mx/deportes/2026/11/14/rafael-marquez-considera-que-los-errores-de-mexico-son-faciles-de-corregir-pese-a-tercera-derrota-383746.html</id>
-    <updated>2026-11-15T13:18:10Z</updated>
+    <title>Karol G pospone su concierto al martes 17 de noviembre; ¿cómo solicitar un reembolso?</title>
+    <link href="https://www.proceso.com.mx/cultura/2026/11/15/karol-g-pospone-su-concierto-al-martes-17-de-noviembre-como-solicitar-un-reembolso-383774.html" />
+    <id>https://www.proceso.com.mx/cultura/2026/11/15/karol-g-pospone-su-concierto-al-martes-17-de-noviembre-como-solicitar-un-reembolso-383774.html</id>
+    <updated>2026-11-16T14:30:53Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -312,62 +322,52 @@
     <title>1988: la decisión que cambió a la izquierda mexicana</title>
     <link href="https://www.proceso.com.mx/opinion/2026/11/15/1988-la-decision-que-cambio-a-la-izquierda-mexicana-383692.html" />
     <id>https://www.proceso.com.mx/opinion/2026/11/15/1988-la-decision-que-cambio-a-la-izquierda-mexicana-383692.html</id>
-    <updated>2026-11-15T13:18:10Z</updated>
+    <updated>2026-11-16T14:30:53Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Turbulencia y fragilidad. De la crisis en Nvidia al apagón de Microsoft</title>
-    <link href="https://www.proceso.com.mx/opinion/2026/11/15/turbulencia-y-fragilidad-de-la-crisis-en-nvidia-al-apagon-de-microsoft-383691.html" />
-    <id>https://www.proceso.com.mx/opinion/2026/11/15/turbulencia-y-fragilidad-de-la-crisis-en-nvidia-al-apagon-de-microsoft-383691.html</id>
-    <updated>2026-11-15T13:18:10Z</updated>
+    <title>Abrazo tardío</title>
+    <link href="https://www.proceso.com.mx/opinion/2026/11/16/abrazo-tardio-383694.html" />
+    <id>https://www.proceso.com.mx/opinion/2026/11/16/abrazo-tardio-383694.html</id>
+    <updated>2026-11-16T14:30:53Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>EZLN llevará regalos hechos por insurgentas a familias buscadoras durante su visita a CDMX</title>
-    <link href="https://www.proceso.com.mx/nacional/estados/2026/11/14/ezln-llevara-regalos-hechos-por-insurgentas-a-familias-buscadoras-durante-su-visita-a-cdmx-383741.html" />
-    <id>https://www.proceso.com.mx/nacional/estados/2026/11/14/ezln-llevara-regalos-hechos-por-insurgentas-a-familias-buscadoras-durante-su-visita-a-cdmx-383741.html</id>
-    <updated>2026-11-15T13:18:10Z</updated>
-    <summary>Como parte de la Gira por la Vida-Capítulo México, las comunidades zapatistas preparan obsequios para expresar su solidaridad con quienes buscan a sus familiares desaparecidos.</summary>
-    <author>
-      <name>Proceso</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Falla “operación cicatriz” de Ariadna Montiel en Chihuahua</title>
-    <link href="https://www.eluniversal.com.mx/opinion/kiosko/falla-operacion-cicatriz-de-ariadna-montiel-en-chihuahua/" />
-    <id>https://www.eluniversal.com.mx/opinion/kiosko/falla-operacion-cicatriz-de-ariadna-montiel-en-chihuahua/</id>
-    <updated>2026-11-15T13:18:10Z</updated>
+    <title>Exalcalde busca “hueso” a base de porras</title>
+    <link href="https://www.eluniversal.com.mx/opinion/kiosko/exalcalde-busca-hueso-a-base-de-porras/" />
+    <id>https://www.eluniversal.com.mx/opinion/kiosko/exalcalde-busca-hueso-a-base-de-porras/</id>
+    <updated>2026-11-16T14:30:53Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Ahora sí, viene la discusión del presupuesto en CDMX</title>
-    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/ahora-si-viene-la-discusion-del-presupuesto-en-cdmx/" />
-    <id>https://www.eluniversal.com.mx/opinion/el-caballito/ahora-si-viene-la-discusion-del-presupuesto-en-cdmx/</id>
-    <updated>2026-11-15T13:18:10Z</updated>
+    <title>Llevan a territorio la ley de rentas justas</title>
+    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/llevan-a-territorio-la-ley-de-rentas-justas/" />
+    <id>https://www.eluniversal.com.mx/opinion/el-caballito/llevan-a-territorio-la-ley-de-rentas-justas/</id>
+    <updated>2026-11-16T14:30:53Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>La buena inflación</title>
-    <link href="https://www.eluniversal.com.mx/carton/boligan/la-buena-inflacion-2/" />
-    <id>https://www.eluniversal.com.mx/carton/boligan/la-buena-inflacion-2/</id>
-    <updated>2026-11-15T13:18:10Z</updated>
+    <title>Utilizado</title>
+    <link href="https://www.eluniversal.com.mx/carton/kemchs/utilizado/" />
+    <id>https://www.eluniversal.com.mx/carton/kemchs/utilizado/</id>
+    <updated>2026-11-16T14:30:53Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Teatro y Buen Fin</title>
-    <link href="https://www.eluniversal.com.mx/carton/luy/teatro-y-buen-fin/" />
-    <id>https://www.eluniversal.com.mx/carton/luy/teatro-y-buen-fin/</id>
-    <updated>2026-11-15T13:18:10Z</updated>
+    <title>El elefante en la habitación</title>
+    <link href="https://www.eluniversal.com.mx/carton/galindo/el-elefante-en-la-habitacion/" />
+    <id>https://www.eluniversal.com.mx/carton/galindo/el-elefante-en-la-habitacion/</id>
+    <updated>2026-11-16T14:30:53Z</updated>
     <author>
       <name>El Universal</name>
     </author>
@@ -376,7 +376,7 @@
     <title>Circo Volador, la investigación universitaria que rockeó al DF (Primera parte)</title>
     <link href="https://www.eluniversal.com.mx/opinion/mochilazo-en-el-tiempo/circo-volador-la-investigacion-universitaria-que-rockeo-al-df-primera-parte/" />
     <id>https://www.eluniversal.com.mx/opinion/mochilazo-en-el-tiempo/circo-volador-la-investigacion-universitaria-que-rockeo-al-df-primera-parte/</id>
-    <updated>2026-11-15T13:18:10Z</updated>
+    <updated>2026-11-16T14:30:53Z</updated>
     <summary>En nuestra primera entrega sobre este proyecto cultural autosostenible, conoceremos dos de sus propuestas iniciales: un programa radiofónico abierto a toda la "banda" y un concurso de rock para quienes no tenían un escenario donde tocar</summary>
     <author>
       <name>El Universal</name>
