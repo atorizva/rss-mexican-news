@@ -2,155 +2,156 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mexican News</title>
   <id>tag:atorizva.github.io,2026:rss-mexican-news</id>
-  <updated>2026-11-17T15:21:40Z</updated>
+  <updated>2026-11-18T14:56:32Z</updated>
   <link href="https://atorizva.github.io/rss-mexican-news/feed.xml" rel="self" />
   <entry>
-    <title>"Llegaré, llegaré", dice el papa León XIV sobre posible visita a México; afirma que los mexicanos "pueden soñar" con su viaje al país</title>
-    <link href="https://www.eluniversal.com.mx/mundo/llegare-llegare-dice-el-papa-leon-xiv-sobre-posible-visita-a-mexico-afirma-que-los-mexicanos-pueden-sonar-con-su-viaje-al-pais/" />
-    <id>https://www.eluniversal.com.mx/mundo/llegare-llegare-dice-el-papa-leon-xiv-sobre-posible-visita-a-mexico-afirma-que-los-mexicanos-pueden-sonar-con-su-viaje-al-pais/</id>
-    <updated>2026-11-17T14:54:03Z</updated>
-    <summary>Dice que no tiene en estudio algún viaje para 2027 excepto el de Corea del Sur para participar en la Jornada Mundial de la Juventud</summary>
+    <title>Talleres Gráficos de México tendrá nueva etapa; decreto será publicado hoy en el DOF</title>
+    <link href="https://www.excelsior.com.mx/nacional/talleres-graficos-mexico-tendra-nueva-etapa-decreto-sera-publicado-hoy-dof" />
+    <id>https://www.excelsior.com.mx/nacional/talleres-graficos-mexico-tendra-nueva-etapa-decreto-sera-publicado-hoy-dof</id>
+    <updated>2026-11-18T14:42:24Z</updated>
+    <summary>La reforma busca fortalecer la supervisión del organismo, transparentar sus procesos de contratación y convertirlo en una empresa nacional especializada.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Sheinbaum pacta con Trump reunión bilateral en el G20; negociaciones con EU "van muy bien", afirma</title>
+    <link href="https://www.excelsior.com.mx/nacional/sheinbaum-trump-nueva-reunion-g20-florida" />
+    <id>https://www.excelsior.com.mx/nacional/sheinbaum-trump-nueva-reunion-g20-florida</id>
+    <updated>2026-11-18T14:34:46Z</updated>
+    <summary>Claudia Sheinbaum confirma nueva reunión con Donald Trump para diciembre en el G20 de Florida. Conoce los avances comerciales y acuerdos bilaterales.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Will Smith enfrenta demanda por presunta agresión sexual; revelan detalles de la acusación</title>
+    <link href="https://www.excelsior.com.mx/espectaculos/will-smith-enfrenta-demanda-por-presunta-agresion-sexual-revelan-detalles-acusacion" />
+    <id>https://www.excelsior.com.mx/espectaculos/will-smith-enfrenta-demanda-por-presunta-agresion-sexual-revelan-detalles-acusacion</id>
+    <updated>2026-11-18T14:19:08Z</updated>
+    <summary>Will Smith fue demandado por Bilaal Salaam, quien lo acusa de presunta agresión sexual durante una fiesta en Hollywood.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Pago Bienestar hoy 18 de noviembre: ¿quiénes reciben su depósito?</title>
+    <link href="https://www.excelsior.com.mx/nacional/pago-bienestar-hoy-18-noviembre-quienes-reciben-deposito" />
+    <id>https://www.excelsior.com.mx/nacional/pago-bienestar-hoy-18-noviembre-quienes-reciben-deposito</id>
+    <updated>2026-11-18T14:11:55Z</updated>
+    <summary>Este miércoles continúa la dispersión de los apoyos económicos del bimestre noviembre-diciembre de 2026.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Sheinbaum califica como "excelente" el encuentro con Trump en China; asegura que están cerca de un acuerdo sobre el T-MEC</title>
+    <link href="https://www.eluniversal.com.mx/nacion/sheinbaum-califica-como-excelente-el-encuentro-con-trump-en-china-asegura-que-estan-cerca-de-un-acuerdo-sobre-el-t-mec/" />
+    <id>https://www.eluniversal.com.mx/nacion/sheinbaum-califica-como-excelente-el-encuentro-con-trump-en-china-asegura-que-estan-cerca-de-un-acuerdo-sobre-el-t-mec/</id>
+    <updated>2026-11-18T14:03:04Z</updated>
+    <summary>La Presidenta de México se reunió con el mandatario estadounidense en el marco de la cumbre de la APEC</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Sarampión a la baja: buscan cerrar el brote en 2027 y en 2028 quedar libres de la enfermdad</title>
-    <link href="https://www.excelsior.com.mx/nacional/sarampion-va-baja-mexico-reportan-14-casos-activos-y-buscan-cerrar-brote-2027" />
-    <id>https://www.excelsior.com.mx/nacional/sarampion-va-baja-mexico-reportan-14-casos-activos-y-buscan-cerrar-brote-2027</id>
-    <updated>2026-11-17T14:41:42Z</updated>
-    <summary>El subsecretario de Políticas en Salud y Bienestar Poblacional, Rafael Ricardo Valdez Vázquez, informó que los contagios han disminuido más de 90%</summary>
+    <title>Kozo Tashima desafía a Infantino: El japonés formaliza su candidatura a la presidencia de la FIFA</title>
+    <link href="https://www.excelsior.com.mx/deportes/kozo-tashima-candidatura-presidencia-fifa-gianni-infantino" />
+    <id>https://www.excelsior.com.mx/deportes/kozo-tashima-candidatura-presidencia-fifa-gianni-infantino</id>
+    <updated>2026-11-18T13:54:08Z</updated>
+    <summary>Kozo Tashima registró su candidatura a la presidencia de la FIFA con el respaldo de cinco federaciones. Las elecciones serán en marzo de 2027.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Semar exhibe destreza de binomios caninos en la CDMX</title>
-    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/semar-exhibe-destreza-binomios-caninos-cdmx" />
-    <id>https://www.excelsior.com.mx/ciudad-de-mexico/semar-exhibe-destreza-binomios-caninos-cdmx</id>
-    <updated>2026-11-17T14:32:29Z</updated>
-    <summary>Con ejercicios de obediencia avanzada, detección de objetos y maniobras de búsqueda, elementos de la Secretaría de Marina-Armada de México (Semar) mostraron a la ciudadanía las habilidades de sus binomios caninos durante dos jornadas realizadas en distintos puntos de la capital del país.</summary>
+    <title>La 'Mañanera' de Sheinbaum EN VIVO: Temas de la conferencia hoy 18 de noviembre de 2026</title>
+    <link href="https://www.excelsior.com.mx/nacional/mananera-sheinbaum-hoy-temas-conferencia-18-noviembre-2026" />
+    <id>https://www.excelsior.com.mx/nacional/mananera-sheinbaum-hoy-temas-conferencia-18-noviembre-2026</id>
+    <updated>2026-11-18T13:37:22Z</updated>
+    <summary>Conoce los temas clave de la conferencia matutina de Claudia Sheinbaum de este 9 de octubre. Resumen, anuncios principales y preguntas de la prensa.Conoce los temas clave de la conferencia matutina de Claudia Sheinbaum de este 18 de noviembre. Resumen, anuncios principales y preguntas de la prensa.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Semar desmantela tres narcolaboratorios en Sinaloa y Michoacán</title>
-    <link href="https://www.excelsior.com.mx/nacional/semar-desmantela-tres-narcolaboratorios-sinaloa-y-michoacan" />
-    <id>https://www.excelsior.com.mx/nacional/semar-desmantela-tres-narcolaboratorios-sinaloa-y-michoacan</id>
-    <updated>2026-11-17T14:27:12Z</updated>
-    <summary>Autoridades federales aseguraron metanfetamina, precursores químicos y equipo especializado. El golpe económico al crimen organizado supera los mil 419 millones de pesos.</summary>
+    <title>Una marcha y siete manifestaciones se esperan hoy en CDMX; opciones viales</title>
+    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/marcha-y-siete-manifestaciones-esperan-hoy-cdmx-opciones-viales" />
+    <id>https://www.excelsior.com.mx/ciudad-de-mexico/marcha-y-siete-manifestaciones-esperan-hoy-cdmx-opciones-viales</id>
+    <updated>2026-11-18T13:30:27Z</updated>
+    <summary>Esta mitad de semana se espera una marcha y varias manifestaciones que afectarían zonas como Marina Nacional, el Reclusorio Oriente y el Centro Histórico.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Sheinbaum tendrá encuentro con Trump en China; en enlace, destaca reducción de la pobreza en México</title>
-    <link href="https://www.excelsior.com.mx/nacional/sheinbaum-tendra-encuentro-con-trump-china-enlace-destaca-reduccion-pobreza-mexico" />
-    <id>https://www.excelsior.com.mx/nacional/sheinbaum-tendra-encuentro-con-trump-china-enlace-destaca-reduccion-pobreza-mexico</id>
-    <updated>2026-11-17T14:21:04Z</updated>
-    <summary>Desde Shenzhen, la presidenta informó que sostendrá una breve reunión con su homólogo estadunidense, en el marco de su participación en el Foro APEC.</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Marchas y manifestaciones en CDMX; hoy será día de caos vial</title>
-    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/marchas-y-manifestaciones-cdmx-hoy-sera-dia-caos-vial" />
-    <id>https://www.excelsior.com.mx/ciudad-de-mexico/marchas-y-manifestaciones-cdmx-hoy-sera-dia-caos-vial</id>
-    <updated>2026-11-17T13:42:46Z</updated>
-    <summary>Para este 17 de noviembre se esperan al menos 3 marchas y 13 manifestaciones a lo largo y ancho de la capital</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Sheinbaum y Mark Carney acuerdan fortalecer relación comercial México-Canadá</title>
-    <link href="https://www.excelsior.com.mx/nacional/sheinbaum-carney-comercio-mexico-canada" />
-    <id>https://www.excelsior.com.mx/nacional/sheinbaum-carney-comercio-mexico-canada</id>
-    <updated>2026-11-17T12:37:17Z</updated>
-    <summary>Claudia Sheinbaum y Mark Carney acordaron ampliar la relación comercial entre México y Canadá y avanzar en compromisos bilaterales durante la cumbre APEC.</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Propone Sheinbaum relación más estrecha con China y pide panda para México</title>
-    <link href="https://www.excelsior.com.mx/nacional/sheinbaum-panda-chapultepec" />
-    <id>https://www.excelsior.com.mx/nacional/sheinbaum-panda-chapultepec</id>
-    <updated>2026-11-17T11:21:56Z</updated>
-    <summary>TClaudia Sheinbaum solicitó a Xi Jinping un panda para Chapultepec y propuso ampliar la cooperación entre México y China rumbo a 55 años de relaciones diplomáticas.</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Sheinbaum y Xi abordan una "nueva era" entre México y China ante las tensiones mundiales</title>
-    <link href="https://www.excelsior.com.mx/nacional/sheinbaum-xi-relacion-mexico-china" />
-    <id>https://www.excelsior.com.mx/nacional/sheinbaum-xi-relacion-mexico-china</id>
-    <updated>2026-11-17T10:28:19Z</updated>
-    <summary>Claudia Sheinbaum y Xi Jinping plantearon fortalecer la relación México-China durante la cumbre APEC, en medio de tensiones comerciales y presiones de Estados Unidos.</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Sheinbaum sostiene primera reunión bilateral con Xi Jinping; plantean intercambio en sectores estratégicos</title>
-    <link href="https://www.eluniversal.com.mx/nacion/sheinbaum-sostiene-primera-reunion-bilateral-con-xi-jinping-encuentro-se-realizo-en-el-marco-de-la-cumbre-apec-2026/" />
-    <id>https://www.eluniversal.com.mx/nacion/sheinbaum-sostiene-primera-reunion-bilateral-con-xi-jinping-encuentro-se-realizo-en-el-marco-de-la-cumbre-apec-2026/</id>
-    <updated>2026-11-17T08:39:35Z</updated>
-    <summary>Durante el encuentro, la mandataria invitó a su homólogo Chino a la APEC 2028 que será celebrada en México</summary>
+    <title>La Mañanera del Pueblo, 18 de noviembre, minuto a minuto</title>
+    <link href="https://www.eluniversal.com.mx/nacion/la-mananera-del-pueblo-18-de-noviembre-minuto-a-minuto/" />
+    <id>https://www.eluniversal.com.mx/nacion/la-mananera-del-pueblo-18-de-noviembre-minuto-a-minuto/</id>
+    <updated>2026-11-18T13:29:59Z</updated>
+    <summary>Sigue lo más relevante de la conferencia matutina</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Cada capitalino cuenta con apenas 2.03 m² de árboles; MH y Coyoacán concentran cobertura vegetal</title>
-    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/capitalino-cuenta-apenas-2-03-m2-arboles-mh-y-coyoacan-concentran-cobertura-vegetal" />
-    <id>https://www.excelsior.com.mx/ciudad-de-mexico/capitalino-cuenta-apenas-2-03-m2-arboles-mh-y-coyoacan-concentran-cobertura-vegetal</id>
-    <updated>2026-11-17T08:30:00Z</updated>
-    <summary>El proyecto del Plan General de Desarrollo 2027-2047 propone aplicar la regla urbana 3-30-300 y crear nuevos bosques urbanos para combatir las islas de calor y el rezago ambiental en el oriente y sur de la capital; especialistas advierten sobre retos técnicos y riesgo de desplazamiento</summary>
+    <title>Sheinbaum busca replicar en México tecnología de hospital chino que visitó</title>
+    <link href="https://www.excelsior.com.mx/nacional/sheinbaum-busca-replicar-mexico-tecnologia-hospital-chino" />
+    <id>https://www.excelsior.com.mx/nacional/sheinbaum-busca-replicar-mexico-tecnologia-hospital-chino</id>
+    <updated>2026-11-18T09:10:19Z</updated>
+    <summary>La mandataria conoció el funcionamiento de un hospital que utiliza robots e IA para realizar diagnósticos; los claificó de “muy impresionante”</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Taddei desmanteló en tres años al 71% de mandos del INE y al 80% del Servicio Profesional</title>
-    <link href="https://www.excelsior.com.mx/politica/taddei-desmantelo-tres-anos-71-mandos-ine-y-80-servicio-profesional" />
-    <id>https://www.excelsior.com.mx/politica/taddei-desmantelo-tres-anos-71-mandos-ine-y-80-servicio-profesional</id>
-    <updated>2026-11-17T08:00:00Z</updated>
-    <summary>Un cotejo de reportes laborales de 2023 a 2026 realizado por Excélsior revela que, durante la gestión de la exconsejera presidenta Guadalupe Taddei, fueron sustituidos 653 de 914 mandos medios y altos en oficinas centrales y 697 plazas del Servicio Profesional Electoral Nacional sin vocalía, en medio de retiros voluntarios récord, denuncias de acoso y el ingreso de personal ligado a una presunta red de corrupción</summary>
+    <title>Tren Maya gasta 16 veces más de lo que ingresa</title>
+    <link href="https://www.eluniversal.com.mx/cartera/tren-maya-gasta-16-veces-mas-de-lo-que-ingresa/" />
+    <id>https://www.eluniversal.com.mx/cartera/tren-maya-gasta-16-veces-mas-de-lo-que-ingresa/</id>
+    <updated>2026-11-18T09:05:52Z</updated>
+    <summary>Entre julio y septiembre vendió boletos por 119 mdp, pero sus costos llegaron a 1,893 mdp; faltan controles técnicos y financieros, opinan</summary>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Deutsche Bank negoció inmunidad en México</title>
+    <link href="https://www.eluniversal.com.mx/grafico/periodismo-de-investigacion/calculos-millonarios-pago-minimo-el-saldo-de-deutsche-bank/" />
+    <id>https://www.eluniversal.com.mx/grafico/periodismo-de-investigacion/calculos-millonarios-pago-minimo-el-saldo-de-deutsche-bank/</id>
+    <updated>2026-11-18T08:00:00Z</updated>
+    <summary>En 2021, la COFECE sancionó a siete bancos por manipular deuda pública. Documentos internos revelan que Deutsche Bank reservó 20 mdd ante el riesgo, pero al acogerse al programa de inmunidad redujo la multa a 430 mil dólares (2.2% de lo estimado).</summary>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ciberataques y fallas de servicios: EU en alerta</title>
+    <link href="https://www.eluniversal.com.mx/mundo/ciberataques-y-fallas-de-servicios-eu-en-alerta/" />
+    <id>https://www.eluniversal.com.mx/mundo/ciberataques-y-fallas-de-servicios-eu-en-alerta/</id>
+    <updated>2026-11-18T08:00:00Z</updated>
+    <summary>Se cae la red interna de la NSA, ciberataques afectan a casi 200 sitios web, actualización provoca interrupción en los servicios de Apple; Rubio asegura que el país “no está bajo ataque”</summary>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>PGD de la CDMX se hizo detrás de escritorio: vecinos; piden reponer proceso</title>
+    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/pgd-cdmx-hizo-detras-escritorio-vecinos-reponer-proceso" />
+    <id>https://www.excelsior.com.mx/ciudad-de-mexico/pgd-cdmx-hizo-detras-escritorio-vecinos-reponer-proceso</id>
+    <updated>2026-11-18T07:34:40Z</updated>
+    <summary>Habitantes de diversas alcaldías entregaron un oficio al Congreso capitalino, denunciando simulación en las consultas indígenas</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>INE detecta anomalías por 43 mdp en juntas estatales; halla irregularidades en licitaciones y pagos por aclarar</title>
-    <link href="https://www.eluniversal.com.mx/nacion/hallan-en-organos-locales-del-ine-irregularidades-por-43-mdp/" />
-    <id>https://www.eluniversal.com.mx/nacion/hallan-en-organos-locales-del-ine-irregularidades-por-43-mdp/</id>
-    <updated>2026-11-17T07:44:25Z</updated>
-    <summary>Auditorías internas descubren inconsistencias en las Juntas Distritales Ejecutivas en Tabasco, Nuevo León, Guerrero y Tlaxcala en la entrega de contratos y pagos por aclarar</summary>
+    <title>México y Vietnam buscan estrechar lazos comerciales con encuentro entre Sheinbaum y Tô Lâm</title>
+    <link href="https://www.excelsior.com.mx/nacional/claudia-sheinbaum-reunion-bilateral-presidente-vietnam-to-lam-apec" />
+    <id>https://www.excelsior.com.mx/nacional/claudia-sheinbaum-reunion-bilateral-presidente-vietnam-to-lam-apec</id>
+    <updated>2026-11-18T03:46:48Z</updated>
+    <summary>La presidenta Claudia Sheinbaum sostuvo una reunión bilateral con Tô Lâm, presidente de Vietnam, en Shenzhen, China, para estrechar las relaciones comerciales.</summary>
     <author>
-      <name>El Universal</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Inside Deutsche Bank: Filtración de 15 millones de archivos revela secretos, escándalos y dobles estándares del gigante financiero mundial</title>
-    <link href="https://www.eluniversal.com.mx/grafico/periodismo-de-investigacion/inside-deutsche-bank-filtracion-de-15-millones-de-archivos-revela-secretos-escandalos-y-dobles-estandares-del-gigante-financiero-mundial/" />
-    <id>https://www.eluniversal.com.mx/grafico/periodismo-de-investigacion/inside-deutsche-bank-filtracion-de-15-millones-de-archivos-revela-secretos-escandalos-y-dobles-estandares-del-gigante-financiero-mundial/</id>
-    <updated>2026-11-17T06:30:00Z</updated>
-    <author>
-      <name>El Universal</name>
-    </author>
-  </entry>
-  <entry>
-    <title>UIF congela cuentas de Juan Carlos Cuervo Escalona, cercano a los hermanos Hernández Casillas; indagan contratos del INE</title>
-    <link href="https://www.eluniversal.com.mx/nacion/uif-congela-cuentas-de-juan-carlos-cuervo-escalona-cercano-a-los-hermanos-hernandez-casillas-indagan-contratos-del-ine/" />
-    <id>https://www.eluniversal.com.mx/nacion/uif-congela-cuentas-de-juan-carlos-cuervo-escalona-cercano-a-los-hermanos-hernandez-casillas-indagan-contratos-del-ine/</id>
-    <updated>2026-11-16T22:08:00Z</updated>
-    <summary>EL UNIVERSAL dio a conocer este lunes que los hermanos Hernández Casillas tenían de alfil a Cuervo Escalona dentro del INE, antes de Guadalupe Taddei</summary>
-    <author>
-      <name>El Universal</name>
+      <name>Excélsior</name>
     </author>
   </entry>
   <entry>
@@ -244,65 +245,65 @@
     </author>
   </entry>
   <entry>
-    <title>La corrupción en México alimenta a los cárteles del narcotráfico: DEA</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/17/la-corrupcion-en-mexico-alimenta-a-los-carteles-del-narcotrafico-dea-383835.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/17/la-corrupcion-en-mexico-alimenta-a-los-carteles-del-narcotrafico-dea-383835.html</id>
-    <updated>2026-11-17T15:21:40Z</updated>
+    <title>Sheinbaum presume que tuvo “muy buena” reunión con Trump en China</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/18/sheinbaum-presume-que-tuvo-muy-buena-reunion-con-trump-en-china-383912.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/18/sheinbaum-presume-que-tuvo-muy-buena-reunion-con-trump-en-china-383912.html</id>
+    <updated>2026-11-18T14:56:32Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Sheinbaum se reunirá con Trump en China durante la APEC</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/17/sheinbaum-se-reunira-con-trump-en-china-durante-la-apec-383836.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/17/sheinbaum-se-reunira-con-trump-en-china-durante-la-apec-383836.html</id>
-    <updated>2026-11-17T15:21:40Z</updated>
+    <title>China señala que Xi, Trump y Putin tratarán "cuestiones que afectan a la paz mundial"</title>
+    <link href="https://www.proceso.com.mx/internacional/2026/11/18/china-senala-que-xi-trump-y-putin-trataran-cuestiones-que-afectan-a-la-paz-mundial-383911.html" />
+    <id>https://www.proceso.com.mx/internacional/2026/11/18/china-senala-que-xi-trump-y-putin-trataran-cuestiones-que-afectan-a-la-paz-mundial-383911.html</id>
+    <updated>2026-11-18T14:56:32Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Una década perdida: el fracaso económico de la 4T</title>
-    <link href="https://www.proceso.com.mx/reportajes/2026/11/17/una-decada-perdida-el-fracaso-economico-de-la-4t-383798.html" />
-    <id>https://www.proceso.com.mx/reportajes/2026/11/17/una-decada-perdida-el-fracaso-economico-de-la-4t-383798.html</id>
-    <updated>2026-11-17T15:21:40Z</updated>
-    <summary>Durante los gobiernos de Morena el gasto público se ha concentrado en programas sociales. Muchos críticos los ven como un mecanismo para crear clientelas políticas. Para sostenerlos, el gobierno ha recortado otras áreas sensibles como salud y Estado de derecho. Además, el aumento del gasto no ha ido acompañado de mayores ingresos fiscales, por lo que el déficit se financia con deuda.</summary>
+    <title>El Plan México:  Las promesas doradas de Altagracia Gómez y los resultados de oropel</title>
+    <link href="https://www.proceso.com.mx/reportajes/2026/11/18/el-plan-mexico-las-promesas-doradas-de-altagracia-gomez-y-los-resultados-de-oropel-383853.html" />
+    <id>https://www.proceso.com.mx/reportajes/2026/11/18/el-plan-mexico-las-promesas-doradas-de-altagracia-gomez-y-los-resultados-de-oropel-383853.html</id>
+    <updated>2026-11-18T14:56:32Z</updated>
+    <summary>Asesora económica de Claudia Sheinbaum, Altagracia Gómez es la principal interlocutora con los empresarios y rostro del Plan México. El proyecto –que la mandataria defendió ayer ante empresarios del APEC 2026– ofreció atraer inversiones y reactivar el crecimiento, pero los resultados no convencen. La inversión extranjera que llega al país depende sobre todo de utilidades reinvertidas por empresas ya instaladas, no de capital nuevo.</summary>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Bienestar con cargo al futuro. Programas sociales y deuda presionan el grado de inversión de México</title>
-    <link href="https://www.proceso.com.mx/reportajes/2026/11/17/bienestar-con-cargo-al-futuro-programas-sociales-y-deuda-presionan-el-grado-de-inversion-de-mexico-383695.html" />
-    <id>https://www.proceso.com.mx/reportajes/2026/11/17/bienestar-con-cargo-al-futuro-programas-sociales-y-deuda-presionan-el-grado-de-inversion-de-mexico-383695.html</id>
-    <updated>2026-11-17T15:21:40Z</updated>
+    <title>Quitan dinero al INE para dárselo a La Escuela es Nuestra, otro riesgo de corrupción como el de Guadalupe Taddei</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/18/quitan-dinero-al-ine-para-darselo-a-la-escuela-es-nuestra-otro-riesgo-de-corrupcion-como-el-de-guadalupe-taddei-383850.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/18/quitan-dinero-al-ine-para-darselo-a-la-escuela-es-nuestra-otro-riesgo-de-corrupcion-como-el-de-guadalupe-taddei-383850.html</id>
+    <updated>2026-11-18T14:56:32Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Nacer antes de tiempo, la principal causa de muerte en menores de cinco años</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/17/nacer-antes-de-tiempo-la-principal-causa-de-muerte-en-menores-de-cinco-anos-383806.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/17/nacer-antes-de-tiempo-la-principal-causa-de-muerte-en-menores-de-cinco-anos-383806.html</id>
-    <updated>2026-11-17T15:21:40Z</updated>
+    <title>Alumbrado, agua y oficinas: los adeudos de estados y municipios con la CFE suman 42 mil 600 mdp</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/18/alumbrado-agua-y-oficinas-los-adeudos-de-estados-y-municipios-con-la-cfe-suman-42-mil-600-mdp-383805.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/18/alumbrado-agua-y-oficinas-los-adeudos-de-estados-y-municipios-con-la-cfe-suman-42-mil-600-mdp-383805.html</id>
+    <updated>2026-11-18T14:56:32Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Sheinbaum pide a Xi Jinping una relación comercial más equilibrada entre México y China</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/17/sheinbaum-pide-a-xi-jinping-una-relacion-comercial-mas-equilibrada-entre-mexico-y-china-383834.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/17/sheinbaum-pide-a-xi-jinping-una-relacion-comercial-mas-equilibrada-entre-mexico-y-china-383834.html</id>
-    <updated>2026-11-17T15:21:40Z</updated>
+    <title>EN VIVO: Conferencia mañanera de Sheinbaum (181126)</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/18/en-vivo-conferencia-mananera-de-sheinbaum-181126-383910.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/18/en-vivo-conferencia-mananera-de-sheinbaum-181126-383910.html</id>
+    <updated>2026-11-18T14:56:32Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Trump llega a Filipinas para una gira por Asia con acuerdos económicos y aliados Asia-Pacífico</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/11/17/trump-llega-a-filipinas-para-una-gira-por-asia-con-acuerdos-economicos-y-aliados-asia-pacifico-383833.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/11/17/trump-llega-a-filipinas-para-una-gira-por-asia-con-acuerdos-economicos-y-aliados-asia-pacifico-383833.html</id>
-    <updated>2026-11-17T15:21:40Z</updated>
+    <title>Miles en Haití apoyan a Bukele y tropas de El Salvador que combaten a pandillas</title>
+    <link href="https://www.proceso.com.mx/internacional/2026/11/18/miles-en-haiti-apoyan-a-bukele-y-tropas-antipandillas-de-el-salvador-383908.html" />
+    <id>https://www.proceso.com.mx/internacional/2026/11/18/miles-en-haiti-apoyan-a-bukele-y-tropas-antipandillas-de-el-salvador-383908.html</id>
+    <updated>2026-11-18T14:56:32Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -311,71 +312,72 @@
     <title>La otra memoria del antifranquismo</title>
     <link href="https://www.proceso.com.mx/opinion/2026/11/17/la-otra-memoria-del-antifranquismo-383819.html" />
     <id>https://www.proceso.com.mx/opinion/2026/11/17/la-otra-memoria-del-antifranquismo-383819.html</id>
-    <updated>2026-11-17T15:21:40Z</updated>
+    <updated>2026-11-18T14:56:32Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Sin intención de hacer historia</title>
-    <link href="https://www.proceso.com.mx/opinion/2026/11/17/sin-intencion-de-hacer-historia-383812.html" />
-    <id>https://www.proceso.com.mx/opinion/2026/11/17/sin-intencion-de-hacer-historia-383812.html</id>
-    <updated>2026-11-17T15:21:40Z</updated>
+    <title>Seamos realistas: forjemos lo imposible</title>
+    <link href="https://www.proceso.com.mx/opinion/2026/11/18/seamos-realistas-forjemos-lo-imposible-383892.html" />
+    <id>https://www.proceso.com.mx/opinion/2026/11/18/seamos-realistas-forjemos-lo-imposible-383892.html</id>
+    <updated>2026-11-18T14:56:32Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>EN VIVO: Conferencia mañanera de Sheinbaum (171126)</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/17/en-vivo-conferencia-mananera-de-sheinbaum-171126-383832.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/17/en-vivo-conferencia-mananera-de-sheinbaum-171126-383832.html</id>
-    <updated>2026-11-17T15:21:40Z</updated>
+    <title>México recolecta basura espacial de SpaceX que llegó a las costas del estado de Tamaulipas</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/18/mexico-recolecta-basura-espacial-de-spacex-que-llego-a-tamaulipas-383907.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/18/mexico-recolecta-basura-espacial-de-spacex-que-llego-a-tamaulipas-383907.html</id>
+    <updated>2026-11-18T14:56:32Z</updated>
+    <summary>La Profepa dijo que solicitará a la empresa de Elon Musk que “se haga responsable” de los desechos.</summary>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>FCE y Planeta, editoriales de Taibo II,  “con la tajada más grande” en compra de libros para bibliotecas</title>
-    <link href="https://www.eluniversal.com.mx/cultura/fce-y-planeta-editoriales-de-taibo-ii-con-la-tajada-mas-grande-en-compra-de-libros-para-bibliotecas/" />
-    <id>https://www.eluniversal.com.mx/cultura/fce-y-planeta-editoriales-de-taibo-ii-con-la-tajada-mas-grande-en-compra-de-libros-para-bibliotecas/</id>
-    <updated>2026-11-17T15:21:40Z</updated>
+    <title>Madrazo, Andrade y Granier, juntos vs. Morena ¿en MC?</title>
+    <link href="https://www.eluniversal.com.mx/opinion/kiosko/madrazo-andrade-y-granier-juntos-vs-morena-en-mc/" />
+    <id>https://www.eluniversal.com.mx/opinion/kiosko/madrazo-andrade-y-granier-juntos-vs-morena-en-mc/</id>
+    <updated>2026-11-18T14:56:32Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Alcalde de Elota niega déficit millonario</title>
-    <link href="https://www.eluniversal.com.mx/opinion/kiosko/alcalde-de-elota-niega-deficit-millonario/" />
-    <id>https://www.eluniversal.com.mx/opinion/kiosko/alcalde-de-elota-niega-deficit-millonario/</id>
-    <updated>2026-11-17T15:21:40Z</updated>
+    <title>Cuenta regresiva para opiniones sobre Ley de Rentas</title>
+    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/cuenta-regresiva-para-opiniones-sobre-ley-de-rentas/" />
+    <id>https://www.eluniversal.com.mx/opinion/el-caballito/cuenta-regresiva-para-opiniones-sobre-ley-de-rentas/</id>
+    <updated>2026-11-18T14:56:32Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Acuerdan liquidación para personal del Instituto de Transparencia</title>
-    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/acuerdan-liquidacion-para-personal-del-instituto-de-transparencia/" />
-    <id>https://www.eluniversal.com.mx/opinion/el-caballito/acuerdan-liquidacion-para-personal-del-instituto-de-transparencia/</id>
-    <updated>2026-11-17T15:21:40Z</updated>
+    <title>Contadores en Seúl</title>
+    <link href="https://www.eluniversal.com.mx/opinion/desbalance/contadores-en-seul/" />
+    <id>https://www.eluniversal.com.mx/opinion/desbalance/contadores-en-seul/</id>
+    <updated>2026-11-18T14:56:32Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Automotrices chinas salen ganando</title>
-    <link href="https://www.eluniversal.com.mx/opinion/desbalance/automotrices-chinas-salen-ganando/" />
-    <id>https://www.eluniversal.com.mx/opinion/desbalance/automotrices-chinas-salen-ganando/</id>
-    <updated>2026-11-17T15:21:40Z</updated>
+    <title>Alejandro Gou le baja el drama a Mentiras en la UNAM</title>
+    <link href="https://www.eluniversal.com.mx/espectaculos/alejandro-gou-le-baja-el-drama-a-mentiras-en-la-unam/" />
+    <id>https://www.eluniversal.com.mx/espectaculos/alejandro-gou-le-baja-el-drama-a-mentiras-en-la-unam/</id>
+    <updated>2026-11-18T14:56:32Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Paseo mañanero</title>
-    <link href="https://www.eluniversal.com.mx/opinion/guillermo-sheridan/paseo-mananero/" />
-    <id>https://www.eluniversal.com.mx/opinion/guillermo-sheridan/paseo-mananero/</id>
-    <updated>2026-11-17T15:21:40Z</updated>
-    <summary>—Preguntarle: ¿Cómo ve la gloria de México a la larga? —Que es tan larga como su pasado de grandeza. A ver, a ver, a ver...</summary>
+    <title>El INBAL de nuevo anuncia la próxima inauguración de la Bodega Nacional</title>
+    <link href="https://www.eluniversal.com.mx/opinion/crimen-castigo/el-inbal-de-nuevo-anuncia-la-proxima-inauguracion-de-la-bodega-nacional/" />
+    <id>https://www.eluniversal.com.mx/opinion/crimen-castigo/el-inbal-de-nuevo-anuncia-la-proxima-inauguracion-de-la-bodega-nacional/</id>
+    <updated>2026-11-18T14:56:32Z</updated>
+    <summary>Crimen y Castigo</summary>
     <author>
       <name>El Universal</name>
     </author>
