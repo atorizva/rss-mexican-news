@@ -2,154 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mexican News</title>
   <id>tag:atorizva.github.io,2026:rss-mexican-news</id>
-  <updated>2026-11-19T15:02:41Z</updated>
+  <updated>2026-11-20T14:45:02Z</updated>
   <link href="https://atorizva.github.io/rss-mexican-news/feed.xml" rel="self" />
   <entry>
-    <title>Sheinbaum concluye su participación en la APEC 2026; ¿a qué acuerdos llegó México en China?</title>
-    <link href="https://www.eluniversal.com.mx/nacion/sheinbaum-concluye-su-participacion-en-la-apec-2026-a-que-acuerdos-llego-mexico-en-china/" />
-    <id>https://www.eluniversal.com.mx/nacion/sheinbaum-concluye-su-participacion-en-la-apec-2026-a-que-acuerdos-llego-mexico-en-china/</id>
-    <updated>2026-11-19T14:31:05Z</updated>
-    <summary>El Gobierno de México firmó memorándums de entendimiento con el gobierno chino para fortalecer la cooperación bilateral</summary>
+    <title>Manifestaciones y eventos en el Día de la Revolución, HOY 20 de noviembre en CDMX</title>
+    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/manifestaciones-y-eventos-dia-revolucion-hoy-20-noviembre-cdmx" />
+    <id>https://www.excelsior.com.mx/ciudad-de-mexico/manifestaciones-y-eventos-dia-revolucion-hoy-20-noviembre-cdmx</id>
+    <updated>2026-11-20T14:09:49Z</updated>
+    <summary>A las 10:00 de la mañana comienza el Desfile Cívico-Militar por el aniversario de la Revolución Mexicana, desde el Zócalo hasta el Monumento a la Revolución.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Tres mexicanos se declaran culpables en Estados Unidos por lavado de dinero mediante criptomonedas</title>
+    <link href="https://www.excelsior.com.mx/internacional/tres-mexicanos-declaran-culpables-estados-unidos-por-lavado-dinero-mediante-criptomonedas" />
+    <id>https://www.excelsior.com.mx/internacional/tres-mexicanos-declaran-culpables-estados-unidos-por-lavado-dinero-mediante-criptomonedas</id>
+    <updated>2026-11-20T13:45:08Z</updated>
+    <summary>Tres mexicanos se declararon culpables en Estados Unidos de participar en una conspiración de lavado de dinero mediante criptomonedas vinculada a ganancias del narcotráfico.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Semar traslada a CDMX a "El Chendo" y "El Pagador", mandos de Fuerzas Especiales Avendaño</title>
+    <link href="https://www.excelsior.com.mx/nacional/semar-traslada-cdmx-chendo-y-pagador-mandos-fuerzas-especiales-avendano" />
+    <id>https://www.excelsior.com.mx/nacional/semar-traslada-cdmx-chendo-y-pagador-mandos-fuerzas-especiales-avendano</id>
+    <updated>2026-11-20T12:43:14Z</updated>
+    <summary>Jesús Miguel Jiménez Avendaño e Irving Eduardo Avendaño Zazueta fueron detenidos en Sinaloa. El primero había recuperado su libertad en septiembre de 2025, pese a ser capturado con otras tres personas durante un operativo en el que se decomisaron armas de alto poder.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Aerolíneas despiden a personal; costo de la turbosina y posible fusión Viva-Volaris, entre las causas</title>
+    <link href="https://www.eluniversal.com.mx/cartera/las-aerolineas-llevan-dos-meses-con-despidos/" />
+    <id>https://www.eluniversal.com.mx/cartera/las-aerolineas-llevan-dos-meses-con-despidos/</id>
+    <updated>2026-11-20T09:38:00Z</updated>
+    <summary>La turbosina, la revisión de motores, la contratación de aviones con tripulación en otros países y la eventual fusión Viva-Volaris, entre las causas, dicen líderes del sector</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>La 'Mañanera' de Sheinbaum EN VIVO: Temas de la conferencia hoy 19 de noviembre de 2026</title>
-    <link href="https://www.excelsior.com.mx/nacional/mananera-sheinbaum-hoy-temas-conferencia-19-noviembre-2026" />
-    <id>https://www.excelsior.com.mx/nacional/mananera-sheinbaum-hoy-temas-conferencia-19-noviembre-2026</id>
-    <updated>2026-11-19T13:42:40Z</updated>
-    <summary>Conoce los temas clave de la conferencia matutina de Claudia Sheinbaum de este 19 de noviembre. Resumen, anuncios principales y preguntas de la prensa.</summary>
+    <title>Abre nueva era en relación con China; concluye participación en APEC</title>
+    <link href="https://www.excelsior.com.mx/nacional/abre-nueva-era-relacion-china-concluye-participacion-apec" />
+    <id>https://www.excelsior.com.mx/nacional/abre-nueva-era-relacion-china-concluye-participacion-apec</id>
+    <updated>2026-11-20T09:19:07Z</updated>
+    <summary>La presidenta Claudia Sheinbaum destacó la firma de memorándums de entendimiento con la nación asiática; descarta conflicto con Estados Unidos</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Estas son las manifestaciones en CDMX hoy jueves 19 de noviembre</title>
-    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/son-manifestaciones-cdmx-hoy-jueves-19-noviembre" />
-    <id>https://www.excelsior.com.mx/ciudad-de-mexico/son-manifestaciones-cdmx-hoy-jueves-19-noviembre</id>
-    <updated>2026-11-19T13:33:43Z</updated>
-    <summary>El cruce más afectado será Insurgentes y Reforma, además habrá movilizaciones en la Doctores, el Centro Histórico y en Santa María la Ribera.</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>La Mañanera del Pueblo, 19 de noviembre, minuto a minuto</title>
-    <link href="https://www.eluniversal.com.mx/nacion/la-mananera-del-pueblo-19-de-noviembre-minuto-a-minuto/" />
-    <id>https://www.eluniversal.com.mx/nacion/la-mananera-del-pueblo-19-de-noviembre-minuto-a-minuto/</id>
-    <updated>2026-11-19T13:30:49Z</updated>
-    <summary>Sigue lo más relevante de la conferencia matutina</summary>
+    <title>La CDMX se pone en “modo NFL”; “será el juego del año para los 49ers”: Alfredo Gutiérrez</title>
+    <link href="https://www.eluniversal.com.mx/deportes/la-cdmx-se-pone-en-modo-nfl-sera-el-juego-del-ano-para-los-49ers-alfredo-gutierrez/" />
+    <id>https://www.eluniversal.com.mx/deportes/la-cdmx-se-pone-en-modo-nfl-sera-el-juego-del-ano-para-los-49ers-alfredo-gutierrez/</id>
+    <updated>2026-11-20T09:04:20Z</updated>
+    <summary>El exjugador mexicano de los gambusinos dice a EL UNIVERSAL que el del domingo es el juego de la temporada para los 49ers</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Sheinbaum califica de exitosa su gira por China; prevé acuerdo comercial con Trump en Mar-a-Lago</title>
-    <link href="https://www.excelsior.com.mx/nacional/sheinbaum-califica-exitosa-gira-por-china-preve-acuerdo-comercial-con-trump-mar-lago" />
-    <id>https://www.excelsior.com.mx/nacional/sheinbaum-califica-exitosa-gira-por-china-preve-acuerdo-comercial-con-trump-mar-lago</id>
-    <updated>2026-11-19T12:13:58Z</updated>
-    <summary>La mandataria explicó los alcances de su encuentro con Xi Jinping y descartó que la cooperación con Pekín afecte el vínculo con Washington.</summary>
+    <title>EU vincula a chinos con el Cártel de Sinaloa; Pekín rechaza acusaciones</title>
+    <link href="https://www.excelsior.com.mx/nacional/eu-vincula-chinos-con-cartel-sinaloa-pekin-rechaza" />
+    <id>https://www.excelsior.com.mx/nacional/eu-vincula-chinos-con-cartel-sinaloa-pekin-rechaza</id>
+    <updated>2026-11-20T08:07:55Z</updated>
+    <summary>La embajada de EU en México afirma que su país decomisó el año pasado más de 300 toneladas de precursores químicos chinos destinados para fabricar metanfetamina</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Reunión histórica: Xi, Trump y Putin hablan sobre paz y desarme nuclear</title>
-    <link href="https://www.excelsior.com.mx/internacional/reunion-historica-xi-trump-putin-hablan-paz-desarme-nuclear" />
-    <id>https://www.excelsior.com.mx/internacional/reunion-historica-xi-trump-putin-hablan-paz-desarme-nuclear</id>
-    <updated>2026-11-19T11:02:26Z</updated>
-    <summary>El presidente de EU planteó reducir los arsenales atómicos, mientras Pekín exigió a Washington y Moscú disminuir sus existencias.</summary>
+    <title>Senado desmanteló su servicio médico para darle empleo a los amigos de funcionario</title>
+    <link href="https://www.excelsior.com.mx/politica/senado-desmantelo-servicio-medico-darle-empleo-amigos-funcionario" />
+    <id>https://www.excelsior.com.mx/politica/senado-desmantelo-servicio-medico-darle-empleo-amigos-funcionario</id>
+    <updated>2026-11-20T08:00:00Z</updated>
+    <summary>Una auditoría del propio Senado reconoció que el trabajo en Servicios Médicos era óptimo y con buena administración</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>En el Senado justifican que no cobran completo el aguinaldazo</title>
-    <link href="https://www.excelsior.com.mx/nacional/justifican-que-no-cobran-completo-aguinaldazo" />
-    <id>https://www.excelsior.com.mx/nacional/justifican-que-no-cobran-completo-aguinaldazo</id>
-    <updated>2026-11-19T08:30:00Z</updated>
-    <summary>Higinio Martínez explica que recibirán 257 mil 597.56 pesos netos, ya que de impuestos les quitan sólo 129 mil 539.17 pesos; asegura que perciben 40 días de dieta</summary>
+    <title>Armas que deciden</title>
+    <link href="https://www.excelsior.com.mx/nacional/armas-deciden" />
+    <id>https://www.excelsior.com.mx/nacional/armas-deciden</id>
+    <updated>2026-11-20T08:00:00Z</updated>
+    <summary>La expansión de armas autónomas capaces de seleccionar y atacar objetivos sin intervención humana reabre el debate sobre los límites de la inteligencia artificial en la guerra y la urgencia de establecer reglas internacionales frente a los intereses de las potencias militares</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Blanca Cruz reconoce crisis en el INE, pero descarta retraso electoral para 2027</title>
-    <link href="https://www.excelsior.com.mx/nacional/blanca-cruz-reconoce-crisis-ine-descarta-retraso-para-2027" />
-    <id>https://www.excelsior.com.mx/nacional/blanca-cruz-reconoce-crisis-ine-descarta-retraso-para-2027</id>
-    <updated>2026-11-19T07:37:08Z</updated>
-    <summary>Asegura que las 332 juntas locales y distritales operan con normalidad y que a finales de noviembre quedarán instalados los 300 consejos distritales</summary>
+    <title>PAN niega “protagonismo fugaz” en renovación del INE y rechaza críticas de Monreal</title>
+    <link href="https://www.excelsior.com.mx/nacional/pan-niega-protagonismo-fugaz-renovacion-ine-rechaza-monreal" />
+    <id>https://www.excelsior.com.mx/nacional/pan-niega-protagonismo-fugaz-renovacion-ine-rechaza-monreal</id>
+    <updated>2026-11-20T07:56:05Z</updated>
+    <summary>Elías Lixa, coordinador blanquiazul en la Cámara de Diputados, advierte que postergar el nombramiento en el INE podría llevar la renovación hasta que estén en marcha los comicios</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Sin hoja de ruta contra el sarampión; expertos advierten falta de datos para orientar la vacunación</title>
-    <link href="https://www.eluniversal.com.mx/nacion/sin-hoja-de-ruta-contra-el-sarampion-expertos-advierten-falta-de-datos-para-orientar-la-vacunacion/" />
-    <id>https://www.eluniversal.com.mx/nacion/sin-hoja-de-ruta-contra-el-sarampion-expertos-advierten-falta-de-datos-para-orientar-la-vacunacion/</id>
-    <updated>2026-11-19T07:26:35Z</updated>
-    <summary>Pese a los 20 mil casos y 50 muertes por el virus, no se cuenta con censos de poblaciones con o sin el antígeno; experto advierte que esa información permite focalizar campañas en lugares con brotes</summary>
+    <title>Advierten riesgo de pérdida de autonomía en universidades; seis instituciones reforman elección de rectores</title>
+    <link href="https://www.eluniversal.com.mx/nacion/advierten-riesgo-de-perdida-de-autonomia-en-universidades-seis-instituciones-reforman-eleccion-de-rectores/" />
+    <id>https://www.eluniversal.com.mx/nacion/advierten-riesgo-de-perdida-de-autonomia-en-universidades-seis-instituciones-reforman-eleccion-de-rectores/</id>
+    <updated>2026-11-20T07:04:28Z</updated>
+    <summary>Entre 2023 y 2026, seis instituciones de cinco estados reformaron sus leyes para modificar el mecanismo electoral de sus rectores; autoridades académicas y la ANUIES señalan injerencia política</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Sheinbaum llama a la cooperación ante desigualdades y avances de la IA en la APEC</title>
-    <link href="https://www.excelsior.com.mx/nacional/sheinbaum-llama-cooperacion-desigualdades-avances-ia-apec" />
-    <id>https://www.excelsior.com.mx/nacional/sheinbaum-llama-cooperacion-desigualdades-avances-ia-apec</id>
-    <updated>2026-11-19T07:06:02Z</updated>
-    <summary>En su discurso, la mandataria destacó el combate a la pobreza en México y sostuvo que el crecimiento económico debe reflejarse en mejores condiciones de vida, empleo, vivienda y educación</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Prohíben a Talleres Gráficos subcontratar impresión de boletas electorales</title>
-    <link href="https://www.excelsior.com.mx/nacional/prohiben-talleres-graficos-subcontratar-impresion-boletas-electorales" />
-    <id>https://www.excelsior.com.mx/nacional/prohiben-talleres-graficos-subcontratar-impresion-boletas-electorales</id>
-    <updated>2026-11-19T06:17:04Z</updated>
-    <summary>El decreto publicado en el Diario Oficial de la Federación veta a proveedores sancionados por la ASF, la UIF o prácticas monopólicas, obliga a fijar precios de referencia rumbo a 2027 e incorpora tres consejeros independientes a la Junta de Gobierno</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>"Jamás ha habido  deseo de acabar con el narco"; especialistas analizan muerte de Félix Gallardo Con los de Casa</title>
-    <link href="https://www.eluniversal.com.mx/nacion/jamas-ha-habido-deseo-de-acabar-con-el-narco-especialistas-analizan-muerte-de-felix-gallardo-con-los-de-casa/" />
-    <id>https://www.eluniversal.com.mx/nacion/jamas-ha-habido-deseo-de-acabar-con-el-narco-especialistas-analizan-muerte-de-felix-gallardo-con-los-de-casa/</id>
-    <updated>2026-11-19T03:44:38Z</updated>
-    <summary>Derivado del deceso de Miguel Ángel Félix Gallardo, los especialistas en seguridad Carlos Seoane y David Saucedo compartieron sus observaciones en la mesa de EL UNIVERSAL</summary>
+    <title>Deutsche Bank vendió un negocio fiduciario a CIBanco a pesar de una alerta interna por delitos financieros</title>
+    <link href="https://www.eluniversal.com.mx/periodismo-de-investigacion/deutsche-bank-vendio-un-negocio-fiduciario-a-cibanco-a-pesar-de-una-alerta-interna-por-delitos-financieros/" />
+    <id>https://www.eluniversal.com.mx/periodismo-de-investigacion/deutsche-bank-vendio-un-negocio-fiduciario-a-cibanco-a-pesar-de-una-alerta-interna-por-delitos-financieros/</id>
+    <updated>2026-11-20T07:00:00Z</updated>
+    <summary>Una filtración de correos y documentos confidenciales muestra que el banco alemán identificó en 2019 diversos riesgos de delitos financieros en CIBanco, un mes antes de venderle. En 2025, el banco mexicano fue designado en Estados Unidos como una institución de preocupación primordial en lavado de dinero</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Reparación de socavón revela toma clandestina de hidrocarburo en Venustiano Carranza; intervienen Pemex y FGR</title>
-    <link href="https://www.eluniversal.com.mx/metropoli/localizan-toma-clandestina-de-hidrocarburo-en-inmueble-de-venustiano-carranza-no-existe-riesgo-para-la-poblacion-aseguran-autoridades/" />
-    <id>https://www.eluniversal.com.mx/metropoli/localizan-toma-clandestina-de-hidrocarburo-en-inmueble-de-venustiano-carranza-no-existe-riesgo-para-la-poblacion-aseguran-autoridades/</id>
-    <updated>2026-11-19T00:31:38Z</updated>
-    <summary>La zona permaneció bajo vigilancia mientras se desarrollaban las maniobras y las autoridades federales realizaban las diligencias para determinar el origen y las condiciones de la toma</summary>
-    <author>
-      <name>El Universal</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Frente frío 7 avanza hacia EU, pero frío por las mañanas continuará al norte de México</title>
-    <link href="https://www.excelsior.com.mx/nacional/frente-frio-7-avanza-hacia-eu-frio-por-mananas-continuara-norte-mexico" />
-    <id>https://www.excelsior.com.mx/nacional/frente-frio-7-avanza-hacia-eu-frio-por-mananas-continuara-norte-mexico</id>
-    <updated>2026-11-19T00:08:06Z</updated>
-    <summary>Se prevé que para el jueves 19 de noviembre el frentefrente, frío, 7, avanza, hacia frío 7 avance hacia el sureste de Estados Unidos, dejando de afectar al territorio nacional, aunque continuará el frío por las mañanas</summary>
+    <title>Sheinbaum regresa de China en vuelo comercial tras participar en APEC 2026</title>
+    <link href="https://www.excelsior.com.mx/nacional/sheinbaum-regreso-china" />
+    <id>https://www.excelsior.com.mx/nacional/sheinbaum-regreso-china</id>
+    <updated>2026-11-20T06:43:45Z</updated>
+    <summary>A través de sus redes sociales, la mandataria informó que llegó al país en el vuelo CZ8031 y agradeció a la tripulación por el apoyo durante el trayecto</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>EU ofrece 10 mdd por pistas contra dinero de cárteles; buscan pruebas contra redes ilícitas</title>
-    <link href="https://www.excelsior.com.mx/internacional/eu-ofrece-diez-millones-dolares-por-pistas-para-interrumpir-flujos-capital-carteles" />
-    <id>https://www.excelsior.com.mx/internacional/eu-ofrece-diez-millones-dolares-por-pistas-para-interrumpir-flujos-capital-carteles</id>
-    <updated>2026-11-18T15:55:32Z</updated>
-    <summary>EU lanzó una campaña de recompensas para recibir pistas confidenciales sobre las redes financieras y el lavado de dinero de los cárteles.</summary>
+    <title>Jubilados de la Cámara de Diputados liberan San Lázaro tras diálogo con Mesa Directiva; reagendan reunión para atender demandas</title>
+    <link href="https://www.eluniversal.com.mx/nacion/jubilados-de-la-camara-de-diputados-liberan-san-lazaro-tras-dialogo-con-mesa-directiva-reagendan-reunion-para-atender-demandas/" />
+    <id>https://www.eluniversal.com.mx/nacion/jubilados-de-la-camara-de-diputados-liberan-san-lazaro-tras-dialogo-con-mesa-directiva-reagendan-reunion-para-atender-demandas/</id>
+    <updated>2026-11-20T05:20:22Z</updated>
+    <summary>La protesta mantuvo cerrados los accesos para exigir la restitución de un apoyo económico mensual</summary>
+    <author>
+      <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>La Universidad La Salle entrega el Galardón Profesionales con Valor 2026 a Olegario Vázquez Aldir</title>
+    <link href="https://www.excelsior.com.mx/nacional/universidad-salle-galardon-profesionales-con-valor-2026-vazquez-aldir-harp-helu" />
+    <id>https://www.excelsior.com.mx/nacional/universidad-salle-galardon-profesionales-con-valor-2026-vazquez-aldir-harp-helu</id>
+    <updated>2026-11-20T00:27:17Z</updated>
+    <summary>La Universidad La Salle entregó el Galardón Profesionales con Valor 2026 a Olegario Vázquez Aldir, Alfredo Harp Helú y al doctor José Manuel Arturo Ruano Aguilar.</summary>
     <author>
       <name>Excélsior</name>
     </author>
@@ -245,74 +245,74 @@
     </author>
   </entry>
   <entry>
-    <title>EN VIVO: Conferencia mañanera de Sheinbaum (191126)</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/19/en-vivo-conferencia-mananera-de-sheinbaum-191126-383976.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/19/en-vivo-conferencia-mananera-de-sheinbaum-191126-383976.html</id>
-    <updated>2026-11-19T15:02:41Z</updated>
+    <title>Rusia lanza ataque masivo con más de 500 misiles y drones sobre Ucrania en represalia por el puente de Kerch</title>
+    <link href="https://www.proceso.com.mx/internacional/2026/11/20/rusia-lanza-ataque-masivo-con-mas-de-500-misiles-y-drones-sobre-ucrania-en-represalia-por-el-puente-de-kerch-384037.html" />
+    <id>https://www.proceso.com.mx/internacional/2026/11/20/rusia-lanza-ataque-masivo-con-mas-de-500-misiles-y-drones-sobre-ucrania-en-represalia-por-el-puente-de-kerch-384037.html</id>
+    <updated>2026-11-20T14:45:02Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Tribunal Electoral desecha queja de Morena contra Salinas Pliego por llamarlo "narcopartido"</title>
-    <link href="https://www.proceso.com.mx/nacional/politica/2026/11/18/batean-queja-de-morena-contra-salinas-pliego-por-lamarlo-narcopartido-383950.html" />
-    <id>https://www.proceso.com.mx/nacional/politica/2026/11/18/batean-queja-de-morena-contra-salinas-pliego-por-lamarlo-narcopartido-383950.html</id>
-    <updated>2026-11-19T15:02:41Z</updated>
+    <title>Llega ahora el frente frío 8 con lluvias fuertes de viernes a lunes en estas entidades</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/19/llega-ahora-el-frente-frio-8-con-lluvias-fuertes-de-viernes-a-lunes-384035.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/19/llega-ahora-el-frente-frio-8-con-lluvias-fuertes-de-viernes-a-lunes-384035.html</id>
+    <updated>2026-11-20T14:45:02Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>El fracking llega tarde: adiós a la soberanía energética en este sexenio</title>
-    <link href="https://www.proceso.com.mx/reportajes/2026/11/19/el-fracking-llega-tarde-adios-a-la-soberania-energetica-en-este-sexenio-383955.html" />
-    <id>https://www.proceso.com.mx/reportajes/2026/11/19/el-fracking-llega-tarde-adios-a-la-soberania-energetica-en-este-sexenio-383955.html</id>
-    <updated>2026-11-19T15:02:41Z</updated>
-    <summary>Luca Ferrari, integrante del comité científico oficial, advierte que la producción significativa de gas no convencional tardaría al menos cuatro o cinco años, por lo que la promesa presidencial de soberanía energética no se concretará durante el mandato de Claudia Sheinbaum; además, persisten obstáculos de agua, rentabilidad y consulta social.</summary>
+    <title>Sheinbaum acierta en China, según analistas: pacta cooperación y deja aranceles a Ebrard</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/20/sheinbaum-acierta-en-china-segun-analistas-pacta-cooperacion-y-deja-aranceles-a-ebrard-384036.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/20/sheinbaum-acierta-en-china-segun-analistas-pacta-cooperacion-y-deja-aranceles-a-ebrard-384036.html</id>
+    <updated>2026-11-20T14:45:02Z</updated>
+    <summary>Sheinbaum dejó claro que su país no está interesado en un tratado de libre comercio con el gigante asiático y confió en llegar a acuerdos comerciales con Washington en diciembre.</summary>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Xi Jinping, Trump y Putin acuerdan entablar un diálogo para frenar armas nucleares</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/11/19/xi-jinping-trump-y-putin-acuerdan-entablar-un-dialogo-para-prevenir-la-proliferacion-de-armas-nucleares-383978.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/11/19/xi-jinping-trump-y-putin-acuerdan-entablar-un-dialogo-para-prevenir-la-proliferacion-de-armas-nucleares-383978.html</id>
-    <updated>2026-11-19T15:02:41Z</updated>
+    <title>Trump, Vance y los archivos de Epstein: el Congreso va por las reuniones secretas</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/19/trump-vance-y-los-archivos-de-epstein-el-congreso-va-por-las-reuniones-secretas-384000.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/19/trump-vance-y-los-archivos-de-epstein-el-congreso-va-por-las-reuniones-secretas-384000.html</id>
+    <updated>2026-11-20T14:45:02Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>La Unión Europea fue víctima de ciberataque potenciado con inteligencia artificial</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/11/19/la-union-europea-fue-victima-de-ciberataque-potenciado-con-inteligencia-artificial-383977.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/11/19/la-union-europea-fue-victima-de-ciberataque-potenciado-con-inteligencia-artificial-383977.html</id>
-    <updated>2026-11-19T15:02:41Z</updated>
+    <title>Donald Trump concede indulto póstumo a Pete Rose y lo acerca al Salón de la Fama</title>
+    <link href="https://www.proceso.com.mx/deportes/2026/11/20/donald-trump-concede-indulto-postumo-a-pete-rose-y-lo-acerca-al-salon-de-la-fama-384039.html" />
+    <id>https://www.proceso.com.mx/deportes/2026/11/20/donald-trump-concede-indulto-postumo-a-pete-rose-y-lo-acerca-al-salon-de-la-fama-384039.html</id>
+    <updated>2026-11-20T14:45:02Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Ordenan arrestar a Luis de Llano tras rechazar disculpa a Sasha Sokol</title>
-    <link href="https://www.proceso.com.mx/cultura/2026/11/19/ordenan-arrestar-a-luis-de-llano-tras-rechazar-disculpa-a-sasha-sokol-383980.html" />
-    <id>https://www.proceso.com.mx/cultura/2026/11/19/ordenan-arrestar-a-luis-de-llano-tras-rechazar-disculpa-a-sasha-sokol-383980.html</id>
-    <updated>2026-11-19T15:02:41Z</updated>
+    <title>Nayib Bukele va por la reelección en El Salvador en medio de su despliegue antipandillas en Haití</title>
+    <link href="https://www.proceso.com.mx/internacional/2026/11/20/nayib-bukele-va-por-la-reeleccion-en-el-salvador-en-medio-de-su-despliegue-antipandillas-en-haiti-384040.html" />
+    <id>https://www.proceso.com.mx/internacional/2026/11/20/nayib-bukele-va-por-la-reeleccion-en-el-salvador-en-medio-de-su-despliegue-antipandillas-en-haiti-384040.html</id>
+    <updated>2026-11-20T14:45:02Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Musk admite sentirse “bastante tonto” por gastar más de 400 millones de dólares en las elecciones</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/11/19/musk-admite-sentirse-bastante-tonto-por-gastar-millones-en-elecciones-383974.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/11/19/musk-admite-sentirse-bastante-tonto-por-gastar-millones-en-elecciones-383974.html</id>
-    <updated>2026-11-19T15:02:41Z</updated>
+    <title>Un reformista discreto desafía a Infantino: Tashima sigue postulado a la FIFA</title>
+    <link href="https://www.proceso.com.mx/deportes/2026/11/20/un-reformista-discreto-desafia-a-infantino-tashima-sigue-postulado-a-la-fifa-384038.html" />
+    <id>https://www.proceso.com.mx/deportes/2026/11/20/un-reformista-discreto-desafia-a-infantino-tashima-sigue-postulado-a-la-fifa-384038.html</id>
+    <updated>2026-11-20T14:45:02Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Giménez Cacho enfrenta sus propios fantasmas familiares en “Nocturno”</title>
-    <link href="https://www.proceso.com.mx/cultura/2026/11/19/gimenez-cacho-enfrenta-sus-propios-fantasmas-familiares-en-nocturno-383916.html" />
-    <id>https://www.proceso.com.mx/cultura/2026/11/19/gimenez-cacho-enfrenta-sus-propios-fantasmas-familiares-en-nocturno-383916.html</id>
-    <updated>2026-11-19T15:02:41Z</updated>
+    <title>La UNAM escala 71 lugares en ranking mundial de sustentabilidad 2027</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/19/la-unam-escala-71-lugares-en-ranking-mundial-de-sustentabilidad-2027-384034.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/19/la-unam-escala-71-lugares-en-ranking-mundial-de-sustentabilidad-2027-384034.html</id>
+    <updated>2026-11-20T14:45:02Z</updated>
     <author>
       <name>Proceso</name>
     </author>
@@ -321,63 +321,63 @@
     <title>La entrega-recepción de Taddei: el tiempo corre y las observaciones siguen pendientes</title>
     <link href="https://www.proceso.com.mx/opinion/2026/11/19/la-entrega-recepcion-de-taddei-el-tiempo-corre-y-las-observaciones-siguen-pendientes-383945.html" />
     <id>https://www.proceso.com.mx/opinion/2026/11/19/la-entrega-recepcion-de-taddei-el-tiempo-corre-y-las-observaciones-siguen-pendientes-383945.html</id>
-    <updated>2026-11-19T15:02:41Z</updated>
+    <updated>2026-11-20T14:45:02Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Congreso aprueba la ley que prohíbe el maltrato animal</title>
-    <link href="https://www.proceso.com.mx/nacional/politica/2026/11/19/congreso-aprueba-la-ley-que-prohibe-el-maltrato-animal-383975.html" />
-    <id>https://www.proceso.com.mx/nacional/politica/2026/11/19/congreso-aprueba-la-ley-que-prohibe-el-maltrato-animal-383975.html</id>
-    <updated>2026-11-19T15:02:41Z</updated>
-    <summary>El texto aprobado deja en manos de los estados la regulación de las corridas de toros y las peleas de gallos.</summary>
+    <title>Alcalde de Álvaro Obregón pide aumento presupuestal del 9.6% para 2027</title>
+    <link href="https://www.proceso.com.mx/nacional/cdmx/2026/11/19/alcalde-de-alvaro-obregon-pide-aumento-presupuestal-del-96-para-2027-384032.html" />
+    <id>https://www.proceso.com.mx/nacional/cdmx/2026/11/19/alcalde-de-alvaro-obregon-pide-aumento-presupuestal-del-96-para-2027-384032.html</id>
+    <updated>2026-11-20T14:45:02Z</updated>
+    <summary>Javier López Casarín negó violaciones a la Ley por el gasto de 1.3 millones de pesos en publicidad y logística rumbo a su segundo informe de gobierno.</summary>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Batea cuestionamientos secretario de Gobierno</title>
-    <link href="https://www.eluniversal.com.mx/opinion/kiosko/batea-cuestionamientos-secretario-de-gobierno/" />
-    <id>https://www.eluniversal.com.mx/opinion/kiosko/batea-cuestionamientos-secretario-de-gobierno/</id>
-    <updated>2026-11-19T15:02:41Z</updated>
+    <title>Benito Taibo: los días de langosta terminan en Radio UNAM</title>
+    <link href="https://www.eluniversal.com.mx/cultura/benito-taibo-los-dias-de-langosta-terminan-en-radio-unam/" />
+    <id>https://www.eluniversal.com.mx/cultura/benito-taibo-los-dias-de-langosta-terminan-en-radio-unam/</id>
+    <updated>2026-11-20T14:45:02Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Dos meses más de consentir a los incumplidos de bicis eléctricas</title>
-    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/dos-meses-mas-de-consentir-a-los-incumplidos-de-bicis-electricas/" />
-    <id>https://www.eluniversal.com.mx/opinion/el-caballito/dos-meses-mas-de-consentir-a-los-incumplidos-de-bicis-electricas/</id>
-    <updated>2026-11-19T15:02:41Z</updated>
+    <title>Interrupciones en EU exhiben debilidad y falta de control</title>
+    <link href="https://www.eluniversal.com.mx/mundo/interrupciones-en-eu-exhiben-debilidad-y-falta-de-control/" />
+    <id>https://www.eluniversal.com.mx/mundo/interrupciones-en-eu-exhiben-debilidad-y-falta-de-control/</id>
+    <updated>2026-11-20T14:45:02Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Reaparece Pepe Toño</title>
-    <link href="https://www.eluniversal.com.mx/opinion/desbalance/reaparece-pepe-tono/" />
-    <id>https://www.eluniversal.com.mx/opinion/desbalance/reaparece-pepe-tono/</id>
-    <updated>2026-11-19T15:02:41Z</updated>
+    <title>Adiós remesas en Banxico</title>
+    <link href="https://www.eluniversal.com.mx/opinion/desbalance/adios-remesas-en-banxico/" />
+    <id>https://www.eluniversal.com.mx/opinion/desbalance/adios-remesas-en-banxico/</id>
+    <updated>2026-11-20T14:45:02Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Dua Lipa, el deseo para Santa de Maná</title>
-    <link href="https://www.eluniversal.com.mx/espectaculos/dua-lipa-el-deseo-para-santa-de-mana/" />
-    <id>https://www.eluniversal.com.mx/espectaculos/dua-lipa-el-deseo-para-santa-de-mana/</id>
-    <updated>2026-11-19T15:02:41Z</updated>
+    <title>Inquietan reformas a la Ley de Monumentos</title>
+    <link href="https://www.eluniversal.com.mx/opinion/crimen-castigo/inquietan-reformas-a-la-ley-de-monumentos/" />
+    <id>https://www.eluniversal.com.mx/opinion/crimen-castigo/inquietan-reformas-a-la-ley-de-monumentos/</id>
+    <updated>2026-11-20T14:45:02Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Doblador de narcos</title>
-    <link href="https://www.eluniversal.com.mx/carton/kemchs/doblador-de-narcos/" />
-    <id>https://www.eluniversal.com.mx/carton/kemchs/doblador-de-narcos/</id>
-    <updated>2026-11-19T15:02:41Z</updated>
-    <summary>Cartón de KEMCHS</summary>
+    <title>Diplomacia del panda proyecta poder blando</title>
+    <link href="https://www.eluniversal.com.mx/mundo/diplomacia-del-panda-proyecta-poder-blando-quererlos-no-implica-confiar-en-el-gobierno-chino-dice-especialista/" />
+    <id>https://www.eluniversal.com.mx/mundo/diplomacia-del-panda-proyecta-poder-blando-quererlos-no-implica-confiar-en-el-gobierno-chino-dice-especialista/</id>
+    <updated>2026-11-20T14:45:02Z</updated>
+    <summary>En el marco de la APEC, la presidenta Claudia Sheinbaum solicitó un panda a su homólogo chino, Xi Jinping, con el fin de estrechar relaciones entre ambos países</summary>
     <author>
       <name>El Universal</name>
     </author>
