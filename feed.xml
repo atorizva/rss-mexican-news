@@ -2,154 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mexican News</title>
   <id>tag:atorizva.github.io,2026:rss-mexican-news</id>
-  <updated>2026-11-22T13:54:22Z</updated>
+  <updated>2026-11-23T17:06:01Z</updated>
   <link href="https://atorizva.github.io/rss-mexican-news/feed.xml" rel="self" />
   <entry>
-    <title>Nido de las Águilas, el epicentro de los narcodrones espías</title>
-    <link href="https://www.eluniversal.com.mx/nacion/nido-de-las-aguilas-el-epicentro-de-los-narcodrones-espias/" />
-    <id>https://www.eluniversal.com.mx/nacion/nido-de-las-aguilas-el-epicentro-de-los-narcodrones-espias/</id>
-    <updated>2026-11-22T09:43:57Z</updated>
-    <summary>Desde esta colonia, en Tijuana, los traficantes buscan ingresar migrantes a territorio estadounidense con el apoyo de sistemas aéreos no tripulados</summary>
+    <title>Defensa confirma apoyo de EU con drones para ubicar al 'Chapo Isidro'; 16 sicarios fueron abatidos</title>
+    <link href="https://www.excelsior.com.mx/nacional/operativo-captura-chapo-isidro-16-abatidos-eu-apoyo-drones" />
+    <id>https://www.excelsior.com.mx/nacional/operativo-captura-chapo-isidro-16-abatidos-eu-apoyo-drones</id>
+    <updated>2026-11-23T16:12:00Z</updated>
+    <summary>Conoce cómo fue el operativo militar para detener al Chapo Isidro en Guasave, el apoyo de drones de EU y su alianza con el Mayito Flaco.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Sheinbaum descarta salida de García Harfuch de SSPC; ‘no hay ningún cambio en el Gabinete’, afirma</title>
+    <link href="https://www.excelsior.com.mx/nacional/sheinbaum-descarta-salida-garcia-harfuch-sspc-no-hay-ningun-cambio-gabinete-afirma" />
+    <id>https://www.excelsior.com.mx/nacional/sheinbaum-descarta-salida-garcia-harfuch-sspc-no-hay-ningun-cambio-gabinete-afirma</id>
+    <updated>2026-11-23T15:30:31Z</updated>
+    <summary>“No sé de dónde salió ese rumor. Omar está en la Secretaría de Seguridad”, dijo la Presidente durante la mañanera.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>México será sede del Mundial Femenil de 2031; FIFA lo hace oficial</title>
+    <link href="https://www.eluniversal.com.mx/deportes/mexico-sera-sede-del-mundial-femenil-de-2031-fifa-lo-hace-oficial/" />
+    <id>https://www.eluniversal.com.mx/deportes/mexico-sera-sede-del-mundial-femenil-de-2031-fifa-lo-hace-oficial/</id>
+    <updated>2026-11-23T15:26:17Z</updated>
+    <summary>El torneo se disputará de manera conjunta con Estados Unidos, Costa Rica y Jamaica</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Sinaloa se levanta tras caída del Chapo Isidro</title>
-    <link href="https://www.excelsior.com.mx/nacional/sinaloa-levanta-tras-caida-chapo-isidro" />
-    <id>https://www.excelsior.com.mx/nacional/sinaloa-levanta-tras-caida-chapo-isidro</id>
-    <updated>2026-11-22T09:43:00Z</updated>
-    <summary>La captura dejó un saldo de al menos 15 presuntos delincuentes muertos. El gobierno del estado reportó al cierre de esta edición que la situación estaba bajo control</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Los rostros de quienes viven en la calle; “llegué a la Obrera sin nada, pasé mucho tiempo a la intemperie”</title>
-    <link href="https://www.eluniversal.com.mx/metropoli/los-rostros-de-quienes-viven-en-la-calle-llegue-a-la-obrera-sin-nada-pase-mucho-tiempo-a-la-intemperie/" />
-    <id>https://www.eluniversal.com.mx/metropoli/los-rostros-de-quienes-viven-en-la-calle-llegue-a-la-obrera-sin-nada-pase-mucho-tiempo-a-la-intemperie/</id>
-    <updated>2026-11-22T09:36:26Z</updated>
-    <summary>En bajopuentes o en camellones hay quienes han encontrado dónde vivir. Adicciones y problemas familiares los llevaron a esta condición. Unos se ganan la vida con trabajitos y otros denuncian malos tratos en refugios</summary>
+    <title>Harfuch anuncia reforzamiento de seguridad en Sinaloa tras captura del “Chapo Isidro”; acusa impunidad y omisión de autoridades</title>
+    <link href="https://www.eluniversal.com.mx/nacion/harfuch-anuncia-reforzamiento-de-seguridad-en-sinaloa-tras-captura-del-chapo-isidro-acusa-impunidad-y-omision-de-autoridades/" />
+    <id>https://www.eluniversal.com.mx/nacion/harfuch-anuncia-reforzamiento-de-seguridad-en-sinaloa-tras-captura-del-chapo-isidro-acusa-impunidad-y-omision-de-autoridades/</id>
+    <updated>2026-11-23T14:51:57Z</updated>
+    <summary>El secretario de Seguridad advirtió que en la entidad “hubo autoridades que se dejaron corromper”</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Ejército activa plan para restaurar la paz</title>
-    <link href="https://www.excelsior.com.mx/nacional/ejercito-activa-plan-para-restaurar-paz" />
-    <id>https://www.excelsior.com.mx/nacional/ejercito-activa-plan-para-restaurar-paz</id>
-    <updated>2026-11-22T09:36:00Z</updated>
-    <summary>Tras capturar al líder del cártel de Guasave en Sinaloa, fuerzas federales despejan carreteras bloqueadas y protegen a la población</summary>
+    <title>México tendrá otro Mundial: FIFA confirma al país como sede de la Copa Femenil 2031</title>
+    <link href="https://www.excelsior.com.mx/deportes/mexico-tendra-mundial-fifa-confirma-pais-como-sede-copa-femenina-2031" />
+    <id>https://www.excelsior.com.mx/deportes/mexico-tendra-mundial-fifa-confirma-pais-como-sede-copa-femenina-2031</id>
+    <updated>2026-11-23T14:41:18Z</updated>
+    <summary>Nuestro país organizará el torneo junto a Estados Unidos, Jamaica y Costa Rica; Ciudad de México, Guadalajara, Monterrey y Torreón forman parte de las sedes propuestas</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Clan Taddei hizo transas hasta en la consulta infantil; irregularidades alcanzan los 7.4 mdp</title>
-    <link href="https://www.eluniversal.com.mx/nacion/en-consulta-infantil-74-mdp-sin-aclarar/" />
-    <id>https://www.eluniversal.com.mx/nacion/en-consulta-infantil-74-mdp-sin-aclarar/</id>
-    <updated>2026-11-22T09:17:15Z</updated>
-    <summary>La auditoría del Órgano Interno de Control del INE detectó falta de comprobación de pagos y contratación de 105 personas, entre ellas un niño de nueve años</summary>
+    <title>Jensen Huang es restituido como presidente y director ejecutivo de Nvidia; comparecerá en diciembre</title>
+    <link href="https://www.eluniversal.com.mx/mundo/jensen-huang-es-restituido-como-presidente-y-director-ejecutivo-de-nvidia-comparecera-en-diciembre/" />
+    <id>https://www.eluniversal.com.mx/mundo/jensen-huang-es-restituido-como-presidente-y-director-ejecutivo-de-nvidia-comparecera-en-diciembre/</id>
+    <updated>2026-11-23T14:25:13Z</updated>
+    <summary>El 1 de diciembre, Huang comparecerá para dar su testimonio sobre el escándalo por la exportación de chips a China</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Policía recupera a su hijo tras cuatro meses de violencia vicaria</title>
-    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/policia-recupera-hijo-tras-cuatro-meses-violencia-vicaria" />
-    <id>https://www.excelsior.com.mx/ciudad-de-mexico/policia-recupera-hijo-tras-cuatro-meses-violencia-vicaria</id>
-    <updated>2026-11-22T09:13:00Z</updated>
-    <summary>Bianca Sánchez, elemento de la Policía Auxiliar, denunció que su expareja, exuniformado destituido por abuso sexual, sustrajo al menor en julio; en una audiencia previa en Amecameca, familiares del señalado golpearon a activistas de la colectiva Siempre Firmes</summary>
+    <title>Tras escándalo, Nvidia restituye a Jensen Huang como presidente y CEO</title>
+    <link href="https://www.excelsior.com.mx/internacional/tras-escandalo-nvidia-restituye-jensen-huang-como-presidente-y-ceo" />
+    <id>https://www.excelsior.com.mx/internacional/tras-escandalo-nvidia-restituye-jensen-huang-como-presidente-y-ceo</id>
+    <updated>2026-11-23T14:24:58Z</updated>
+    <summary>La junta directiva confirmó su reincorporación inmediata y mantendrá abiertas las investigaciones sobre presuntos riesgos de seguridad nacional.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Plagas afectan plantaciones de árboles de Navidad</title>
-    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/plagas-afectan-plantaciones-arboles-navidad" />
-    <id>https://www.excelsior.com.mx/ciudad-de-mexico/plagas-afectan-plantaciones-arboles-navidad</id>
-    <updated>2026-11-22T09:10:00Z</updated>
-    <summary>Productores de Amecameca alertan por la presencia del hongo tizón suizo, cuya erradicación tardará hasta cuatro años; piden a la Profepa reforzar inspecciones en aduanas</summary>
+    <title>El PIB crece 3.3% anual, con un 0.9% durante el tercer trimestre: Inegi</title>
+    <link href="https://www.excelsior.com.mx/finanzas/pib-crece-3-3-anual-con-0-9-tercer-trimestre-inegi" />
+    <id>https://www.excelsior.com.mx/finanzas/pib-crece-3-3-anual-con-0-9-tercer-trimestre-inegi</id>
+    <updated>2026-11-23T13:53:38Z</updated>
+    <summary>Las actividades secundarias, que incluyen minería, construcción y manufacturas, crecieron 0.4%.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Matan a 3 jóvenes en dos entidades</title>
-    <link href="https://www.excelsior.com.mx/nacional/matan-3-jovenes-dos-entidades" />
-    <id>https://www.excelsior.com.mx/nacional/matan-3-jovenes-dos-entidades</id>
-    <updated>2026-11-22T08:58:10Z</updated>
-    <summary>En Veracruz, Evelyn León Hernández, de 17 años, fue hallada sin vida tras desaparecer; en Tlaxcala, un joven de 20 años y una niña de seis fueron asesinados.</summary>
+    <title>La 'Mañanera' de Sheinbaum EN VIVO: Temas de la conferencia hoy 23 de noviembre de 2026</title>
+    <link href="https://www.excelsior.com.mx/nacional/mananera-sheinbaum-hoy-temas-conferencia-23-noviembre-2026" />
+    <id>https://www.excelsior.com.mx/nacional/mananera-sheinbaum-hoy-temas-conferencia-23-noviembre-2026</id>
+    <updated>2026-11-23T13:46:56Z</updated>
+    <summary>Conoce los temas clave de la conferencia matutina de Claudia Sheinbaum de este 23 de noviembre. Resumen, anuncios principales y preguntas de la prensa.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>A 103 años de las leyes antichinas en México: de guetos forzados a memoria viva</title>
-    <link href="https://www.excelsior.com.mx/nacional/103-anos-leyes-antichinas-mexico-guetos-forzados-memoria-viva" />
-    <id>https://www.excelsior.com.mx/nacional/103-anos-leyes-antichinas-mexico-guetos-forzados-memoria-viva</id>
-    <updated>2026-11-22T08:50:00Z</updated>
-    <summary>Promulgadas en diciembre de 1923 en Sonora, las normas antichinas prohibieron matrimonios mixtos, confinaron comercios asiáticos y detonaron el éxodo hacia la capital tras la masacre de 303 chinos en Torreón</summary>
+    <title>Productora de Coca-Cola bajo investigación en Europa por presuntas prácticas monopólicas</title>
+    <link href="https://www.excelsior.com.mx/internacional/productora-coca-cola-bajo-investigacion-europa-por-presuntas-practicas-monopolicas" />
+    <id>https://www.excelsior.com.mx/internacional/productora-coca-cola-bajo-investigacion-europa-por-presuntas-practicas-monopolicas</id>
+    <updated>2026-11-23T12:45:42Z</updated>
+    <summary>La Comisión Europea sospecha que la compañía pudo haber abusado de su posición dominante en el mercado de bebidas.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Operan en la irregularidad 9 de cada 10 anexos en México</title>
-    <link href="https://www.excelsior.com.mx/nacional/9-cada-10-anexos-mexico-operan-irregularidad" />
-    <id>https://www.excelsior.com.mx/nacional/9-cada-10-anexos-mexico-operan-irregularidad</id>
-    <updated>2026-11-22T08:30:00Z</updated>
-    <summary>Las familias pagan por una rehabilitación que casi nunca llega, pues sólo 3% de los internados en los anexos sale limpio, según la Comisión Nacional de Salud Mental y Adicciones</summary>
+    <title>Alice Huang, amante de exdirectivo de Nvidia, en la mira por espionaje chino y contrabando de chips</title>
+    <link href="https://www.excelsior.com.mx/internacional/alice-huang-amante-exdirectivo-nvidia-mira-por-espionaje-chino-y-contrabando-chips" />
+    <id>https://www.excelsior.com.mx/internacional/alice-huang-amante-exdirectivo-nvidia-mira-por-espionaje-chino-y-contrabando-chips</id>
+    <updated>2026-11-23T12:35:09Z</updated>
+    <summary>Alice Huang habría tenido contactos durante más de un año con un funcionario del Ministerio de Seguridad del Estado de China.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Anexos en México, entre la vulneración de internos y su cercanía con el crimen</title>
-    <link href="https://www.excelsior.com.mx/nacional/anexos-mexico-entre-vulneracion-internos-y-cercania-con-crimen" />
-    <id>https://www.excelsior.com.mx/nacional/anexos-mexico-entre-vulneracion-internos-y-cercania-con-crimen</id>
-    <updated>2026-11-22T08:30:00Z</updated>
-    <summary>Desapariciones, reclutamiento forzado, falta de higiene y otras vulneraciones se reportan en los anexos irregulares que operan a lo largo del país</summary>
+    <title>Senado revive Padrón de Cabilderos tras dos años; acredita a 200 personas y 88 organizaciones</title>
+    <link href="https://www.excelsior.com.mx/politica/senado-revive-padron-cabilderos-tras-dos-anos-acredita-200-personas-y-88-organizaciones" />
+    <id>https://www.excelsior.com.mx/politica/senado-revive-padron-cabilderos-tras-dos-anos-acredita-200-personas-y-88-organizaciones</id>
+    <updated>2026-11-23T08:00:00Z</updated>
+    <summary>Entre los perfiles avalados figuran la exfiscal electoral María de los Ángeles Fromow, Roberto Cantoral Zucchi y cámaras empresariales como el CCE; tendrán credencial digital, prohibición de entrar al pleno y obligación de rendir informes bimestrales</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Gusti ilustra la cotidianidad del joven Mallko y su cromosoma extra</title>
-    <link href="https://www.excelsior.com.mx/cultura/gusti-ilustra-cotidianidad-joven-mallko-y-cromosoma-extra" />
-    <id>https://www.excelsior.com.mx/cultura/gusti-ilustra-cotidianidad-joven-mallko-y-cromosoma-extra</id>
-    <updated>2026-11-22T08:15:00Z</updated>
-    <summary>El ilustrador argentino radicado en Barcelona dedica un segundo libro a su hijo de 19 años que vive con condición de síndrome de Down</summary>
+    <title>Pagaron hasta 7 veces más por cajas electorales en estados; detectan sobreprecios y opacidad</title>
+    <link href="https://www.excelsior.com.mx/nacional/pagaron-hasta-7-veces-mas-por-cajas-electorales-estados-detectan-sobreprecios-y-opacidad" />
+    <id>https://www.excelsior.com.mx/nacional/pagaron-hasta-7-veces-mas-por-cajas-electorales-estados-detectan-sobreprecios-y-opacidad</id>
+    <updated>2026-11-23T08:00:00Z</updated>
+    <summary>El abuso en precios en material electoral es parte de la trama de corrupción que ha imperado por décadas en la organización de elecciones y que se destapó con el escándalo de malos manejos en el INE, por parte de Guadalupe Taddei.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Nostalgia punk y fiesta electrónica: Así se vivió el segundo día del Corona Capital</title>
-    <link href="https://www.excelsior.com.mx/espectaculos/nostalgia-punk-y-fiesta-electronica-vivio-segundo-dia-corona-capital" />
-    <id>https://www.excelsior.com.mx/espectaculos/nostalgia-punk-y-fiesta-electronica-vivio-segundo-dia-corona-capital</id>
-    <updated>2026-11-22T06:32:57Z</updated>
-    <summary>Más de 76 mil personas vibraron en la segunda jornada del Corona Capital. The Offspring sorprendió con homenajes punk a Ozzy Osbourne y Taylor Swift, Underworld armó una fiesta electrónica con láseres y Mother Mother conquistó con guiños a Nirvana y Pixies</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>The Offspring evoca a Taylor Swift al ritmo del punk; desata la euforia en el Corona Capital</title>
-    <link href="https://www.eluniversal.com.mx/espectaculos/the-offspring-evoca-a-taylor-swift-al-ritmo-del-punk-desata-la-euforia-en-el-corona-capital/" />
-    <id>https://www.eluniversal.com.mx/espectaculos/the-offspring-evoca-a-taylor-swift-al-ritmo-del-punk-desata-la-euforia-en-el-corona-capital/</id>
-    <updated>2026-11-22T05:38:56Z</updated>
-    <summary>La banda californiana sorprendió al público con una versión punk de "Love Story", donde también rindió tributos a Ozzy Osbourne y Black Sabbath</summary>
+    <title>Una casa sencilla, el último escondite de “El Chapo Isidro”; así fue el operativo que lo llevó a la captura</title>
+    <link href="https://www.eluniversal.com.mx/nacion/una-casa-sencilla-el-ultimo-escondite-de-el-chapo-isidro-asi-fue-el-operativo-que-lo-llevo-a-la-captura/" />
+    <id>https://www.eluniversal.com.mx/nacion/una-casa-sencilla-el-ultimo-escondite-de-el-chapo-isidro-asi-fue-el-operativo-que-lo-llevo-a-la-captura/</id>
+    <updated>2026-11-23T07:58:32Z</updated>
+    <summary>El Chapo Isidro fue capturado el viernes durante un operativo por tierra y aire en una casa sencilla de Guasave, su último escondite; habitantes urgen a que regrese la paz</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Su forma de caminar, su voz y los mensajes con su familia, así identificaron al "Chapo Isidro":NYT; lo vigilaron con drones</title>
-    <link href="https://www.eluniversal.com.mx/mundo/su-forma-de-caminar-su-voz-y-los-mensajes-con-su-familia-asi-identificaron-al-chapo-isidro-lo-vigilaron-con-drones/" />
-    <id>https://www.eluniversal.com.mx/mundo/su-forma-de-caminar-su-voz-y-los-mensajes-con-su-familia-asi-identificaron-al-chapo-isidro-lo-vigilaron-con-drones/</id>
-    <updated>2026-11-22T05:25:42Z</updated>
-    <summary>De acuerdo con The New York Times, las autoridades mexicanas utilizaron operativos y eligieron una casa donde hubiera menos "daños colaterales"</summary>
+    <title>Pemex adjudicó casi mil mdp a Black Ecco TI durante gestión de Octavio Romero; empresa tenía evaluación de riesgo condicionado</title>
+    <link href="https://www.eluniversal.com.mx/nacion/pemex-adjudico-casi-mil-mdp-a-black-ecco-ti-durante-gestion-de-octavio-romero-empresa-tenia-evaluacion-de-riesgo-condicionado/" />
+    <id>https://www.eluniversal.com.mx/nacion/pemex-adjudico-casi-mil-mdp-a-black-ecco-ti-durante-gestion-de-octavio-romero-empresa-tenia-evaluacion-de-riesgo-condicionado/</id>
+    <updated>2026-11-23T07:15:16Z</updated>
+    <summary>La Auditoría Superior de la Federación detecta diferencias millonarias entre los costos de adquisición de equipos de cómputo y los precios pagados por instituciones públicas</summary>
     <author>
       <name>El Universal</name>
     </author>
@@ -245,139 +245,139 @@
     </author>
   </entry>
   <entry>
-    <title>Comando Norte de EU revela apoyo de inteligencia en captura del “Chapo Isidro”; DEA y embajador elogian operativo</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/21/comando-norte-de-eu-revela-apoyo-inteligencia-captura-chapo-isidro-384115.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/21/comando-norte-de-eu-revela-apoyo-inteligencia-captura-chapo-isidro-384115.html</id>
-    <updated>2026-11-22T13:54:22Z</updated>
+    <title>Operación Centella: así fue la captura de “El Chapo Isidro”</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/23/operacion-centella-asi-fue-la-captura-de-el-chapo-isidro-384189.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/23/operacion-centella-asi-fue-la-captura-de-el-chapo-isidro-384189.html</id>
+    <updated>2026-11-23T17:06:01Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>“El Chapo Isidro”: el ascenso del lugarteniente que terminó al frente de los Beltrán Leyva</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/21/chapo-isidro-de-lugarteniente-a-lider-de-los-beltran-leyva-384104.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/21/chapo-isidro-de-lugarteniente-a-lider-de-los-beltran-leyva-384104.html</id>
-    <updated>2026-11-22T13:54:22Z</updated>
+    <title>Consejo de Nvidia restituye a Jensen Juang como CEO y las acciones se disparan un 29%</title>
+    <link href="https://www.proceso.com.mx/economia/2026/11/23/consejo-de-nvidia-restituye-a-jensen-juang-como-ceo-y-las-acciones-se-disparan-un-29-384183.html" />
+    <id>https://www.proceso.com.mx/economia/2026/11/23/consejo-de-nvidia-restituye-a-jensen-juang-como-ceo-y-las-acciones-se-disparan-un-29-384183.html</id>
+    <updated>2026-11-23T17:06:01Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Cuatro soldados y siete criminales murieron en el operativo para detener a “El Chapo Isidro”</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/21/cuatro-soldados-murieron-en-operativo-contra-el-chapo-isidro-384116.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/21/cuatro-soldados-murieron-en-operativo-contra-el-chapo-isidro-384116.html</id>
-    <updated>2026-11-22T13:54:22Z</updated>
-    <summary>La Sedena también reportó que, de los ocho detenidos en Guasave, tres fueron trasladados a la Ciudad de México, entre ellos el propio Fausto Isidro Meza Flores, su primo y su cuñado, figuras clave del Cártel de los Beltrán Leyva.</summary>
+    <title>"Hubo autoridades que se dejaron corromper": Harfuch sobre narcos en Sinaloa</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/23/hubo-autoridades-que-se-dejaron-corromper-harfuch-sobre-narcos-en-sinaloa-384184.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/23/hubo-autoridades-que-se-dejaron-corromper-harfuch-sobre-narcos-en-sinaloa-384184.html</id>
+    <updated>2026-11-23T17:06:01Z</updated>
+    <summary>Tras la captura del "El Chapo Isidro", el secretario de seguridad admitió que por muchos años las organizaciones criminales sembraron violencia con impunidad por omisión de autoridades sinaloenses.</summary>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>García Harfuch presume captura de “El Chapo Isidro”; operativo contó con inteligencia de EU</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/21/garcia-harfuch-presume-captura-de-el-chapo-isidro-operativo-conto-con-inteligencia-de-eu-384103.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/21/garcia-harfuch-presume-captura-de-el-chapo-isidro-operativo-conto-con-inteligencia-de-eu-384103.html</id>
-    <updated>2026-11-22T13:54:22Z</updated>
+    <title>FIFA oficializa a México como una de las cuatro sedes del Mundial femenil 2031</title>
+    <link href="https://www.proceso.com.mx/deportes/2026/11/23/fifa-oficializa-a-mexico-como-una-de-las-cuatro-sedes-del-mundial-femenil-2031-384187.html" />
+    <id>https://www.proceso.com.mx/deportes/2026/11/23/fifa-oficializa-a-mexico-como-una-de-las-cuatro-sedes-del-mundial-femenil-2031-384187.html</id>
+    <updated>2026-11-23T17:06:01Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Matan a presunto sobrino de Caro Quintero y a su escolta en Lomas de Angelópolis, Puebla</title>
-    <link href="https://www.proceso.com.mx/nacional/estados/2026/11/21/matan-a-presunto-sobrino-de-caro-quintero-en-puebla-384131.html" />
-    <id>https://www.proceso.com.mx/nacional/estados/2026/11/21/matan-a-presunto-sobrino-de-caro-quintero-en-puebla-384131.html</id>
-    <updated>2026-11-22T13:54:22Z</updated>
+    <title>ONG ecologistas tildan la COP31 de "fracaso colosal" y piden avanzar fuera del bloqueo de la ONU</title>
+    <link href="https://www.proceso.com.mx/internacional/2026/11/23/ong-ecologistas-tildan-la-cop31-de-fracaso-colosal-y-piden-avanzar-fuera-del-bloqueo-de-la-onu-384181.html" />
+    <id>https://www.proceso.com.mx/internacional/2026/11/23/ong-ecologistas-tildan-la-cop31-de-fracaso-colosal-y-piden-avanzar-fuera-del-bloqueo-de-la-onu-384181.html</id>
+    <updated>2026-11-23T17:06:01Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Tropas rusas toman el control de otra localidad en el noreste de Ucrania</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/11/22/tropas-rusas-toman-el-control-de-otra-localidad-en-el-noreste-de-ucrania-384134.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/11/22/tropas-rusas-toman-el-control-de-otra-localidad-en-el-noreste-de-ucrania-384134.html</id>
-    <updated>2026-11-22T13:54:22Z</updated>
+    <title>Desalojan concierto de Don Toliver en Manchester tras liberarse sustancia desconocida en el público</title>
+    <link href="https://www.proceso.com.mx/cultura/2026/11/23/desalojan-concierto-de-don-toliver-en-manchester-tras-liberarse-sustancia-desconocida-en-el-publico-384180.html" />
+    <id>https://www.proceso.com.mx/cultura/2026/11/23/desalojan-concierto-de-don-toliver-en-manchester-tras-liberarse-sustancia-desconocida-en-el-publico-384180.html</id>
+    <updated>2026-11-23T17:06:01Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Presupuesto de Cultura para 2027 perpetúa modelo institucional del siglo pasado: Carlos Villaseñor</title>
-    <link href="https://www.proceso.com.mx/cultura/2026/11/22/presupuesto-de-cultura-para-2027-perpetua-modelo-del-siglo-pasado-384077.html" />
-    <id>https://www.proceso.com.mx/cultura/2026/11/22/presupuesto-de-cultura-para-2027-perpetua-modelo-del-siglo-pasado-384077.html</id>
-    <updated>2026-11-22T13:54:22Z</updated>
+    <title>EN VIVO: Conferencia mañanera de Sheinbaum (231126)</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/23/en-vivo-conferencia-mananera-de-sheinbaum-231126-384179.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/23/en-vivo-conferencia-mananera-de-sheinbaum-231126-384179.html</id>
+    <updated>2026-11-23T17:06:01Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Pese a presiones de Trump, México debe apostar por China y para estar en el nuevo orden comercial</title>
-    <link href="https://www.proceso.com.mx/economia/2026/11/22/mexico-debe-apostar-por-china-y-para-estar-en-el-nuevo-orden-comercial-384086.html" />
-    <id>https://www.proceso.com.mx/economia/2026/11/22/mexico-debe-apostar-por-china-y-para-estar-en-el-nuevo-orden-comercial-384086.html</id>
-    <updated>2026-11-22T13:54:22Z</updated>
+    <title>Mexicanos detenidos por el ICE en el aeropuerto de Seattle iban a un bautizo familiar</title>
+    <link href="https://www.proceso.com.mx/internacional/2026/11/23/mexicanos-detenidos-por-ice-en-aeropuerto-de-seattle-iban-a-un-bautizo-384178.html" />
+    <id>https://www.proceso.com.mx/internacional/2026/11/23/mexicanos-detenidos-por-ice-en-aeropuerto-de-seattle-iban-a-un-bautizo-384178.html</id>
+    <updated>2026-11-23T17:06:01Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Robótica en México: Entre reconocimientos internacionales y falta de recursos</title>
-    <link href="https://www.proceso.com.mx/ciencia-tecnologia/2026/11/22/robotica-en-mexico-entre-reconocimientos-y-falta-de-recursos-384079.html" />
-    <id>https://www.proceso.com.mx/ciencia-tecnologia/2026/11/22/robotica-en-mexico-entre-reconocimientos-y-falta-de-recursos-384079.html</id>
-    <updated>2026-11-22T13:54:22Z</updated>
+    <title>Caen ocho integrantes más de la facción del Chapo Isidro tras tiroteo con militares</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/23/caen-ocho-integrantes-mas-de-la-faccion-del-chapo-isidro-tras-tiroteo-384177.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/23/caen-ocho-integrantes-mas-de-la-faccion-del-chapo-isidro-tras-tiroteo-384177.html</id>
+    <updated>2026-11-23T17:06:01Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Violencia contra las mujeres: México y Cataluña debatirán medidas de prevención y acceso a la justicia</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/22/violencia-contra-las-mujeres-mexico-y-cataluna-debatiran-medidas-de-prevencion-y-acceso-a-la-justicia-384084.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/22/violencia-contra-las-mujeres-mexico-y-cataluna-debatiran-medidas-de-prevencion-y-acceso-a-la-justicia-384084.html</id>
-    <updated>2026-11-22T13:54:22Z</updated>
-    <summary>En vísperas del 25N, representantes de instituciones mexicanas, del gobierno catalán y de ONU Mujeres se reunirán en la Cámara de Diputados para intercambiar experiencias sobre atención a víctimas y políticas públicas, en un contexto marcado por los feminicidios, las desapariciones de mujeres y los obstáculos para acceder a la justicia.</summary>
+    <title>Vinculan a proceso a presunto operador financiero de La Unión Tepito: FGR</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/23/vinculan-a-proceso-a-operador-financiero-de-la-union-tepito-fgr-384176.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/23/vinculan-a-proceso-a-operador-financiero-de-la-union-tepito-fgr-384176.html</id>
+    <updated>2026-11-23T17:06:01Z</updated>
+    <summary>Apodado “El Chino” por su nacionalidad, Bojun “N” se encontraba en posesión de 43 millones de pesos que fueron asegurados durante el operativo.</summary>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Lemus y Frangie se lavan las manos por capos en Zapopan</title>
-    <link href="https://www.eluniversal.com.mx/opinion/kiosko/lemus-y-frangie-se-lavan-las-manos-por-capos-en-zapopan/" />
-    <id>https://www.eluniversal.com.mx/opinion/kiosko/lemus-y-frangie-se-lavan-las-manos-por-capos-en-zapopan/</id>
-    <updated>2026-11-22T13:54:22Z</updated>
+    <title>Indigna a morenistas la actitud de El Gullit Peña</title>
+    <link href="https://www.eluniversal.com.mx/opinion/kiosko/indigna-a-morenistas-la-actitud-de-el-gullit-pena/" />
+    <id>https://www.eluniversal.com.mx/opinion/kiosko/indigna-a-morenistas-la-actitud-de-el-gullit-pena/</id>
+    <updated>2026-11-23T17:06:01Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>¿Unidad o fuego amigo en la alcaldía Iztacalco?</title>
-    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/unidad-o-fuego-amigo-en-la-alcaldia-iztacalco/" />
-    <id>https://www.eluniversal.com.mx/opinion/el-caballito/unidad-o-fuego-amigo-en-la-alcaldia-iztacalco/</id>
-    <updated>2026-11-22T13:54:22Z</updated>
+    <title>Trabajan para la unidad en Morena ¿Se logrará?</title>
+    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/trabajan-para-la-unidad-en-morena-se-lograra/" />
+    <id>https://www.eluniversal.com.mx/opinion/el-caballito/trabajan-para-la-unidad-en-morena-se-lograra/</id>
+    <updated>2026-11-23T17:06:01Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Las entrevistas imaginarias con personajes históricos de la CDMX</title>
-    <link href="https://www.eluniversal.com.mx/opinion/mochilazo-en-el-tiempo/las-entrevistas-imaginarias-con-personajes-historicos-de-la-cdmx/" />
-    <id>https://www.eluniversal.com.mx/opinion/mochilazo-en-el-tiempo/las-entrevistas-imaginarias-con-personajes-historicos-de-la-cdmx/</id>
-    <updated>2026-11-22T13:54:22Z</updated>
+    <title>La ausencia de la subsecretaria de Hacienda</title>
+    <link href="https://www.eluniversal.com.mx/opinion/desbalance/la-ausencia-de-la-subsecretaria-de-hacienda/" />
+    <id>https://www.eluniversal.com.mx/opinion/desbalance/la-ausencia-de-la-subsecretaria-de-hacienda/</id>
+    <updated>2026-11-23T17:06:01Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>El GPTsionario</title>
-    <link href="https://www.eluniversal.com.mx/carton/boligan/el-gptsionario/" />
-    <id>https://www.eluniversal.com.mx/carton/boligan/el-gptsionario/</id>
-    <updated>2026-11-22T13:54:22Z</updated>
+    <title>El agua sucia asecha a la FIL Guadalajara</title>
+    <link href="https://www.eluniversal.com.mx/opinion/crimen-castigo/el-agua-sucia-asecha-a-la-fil-guadalajara/" />
+    <id>https://www.eluniversal.com.mx/opinion/crimen-castigo/el-agua-sucia-asecha-a-la-fil-guadalajara/</id>
+    <updated>2026-11-23T17:06:01Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Socios comerciales</title>
-    <link href="https://www.eluniversal.com.mx/carton/luy/socios-comerciales/" />
-    <id>https://www.eluniversal.com.mx/carton/luy/socios-comerciales/</id>
-    <updated>2026-11-22T13:54:22Z</updated>
-    <summary>Cartón de LUY</summary>
+    <title>Machado en Venezuela, el dilema de la transición</title>
+    <link href="https://www.eluniversal.com.mx/mundo/machado-en-venezuela-el-dilema-de-la-transicion/" />
+    <id>https://www.eluniversal.com.mx/mundo/machado-en-venezuela-el-dilema-de-la-transicion/</id>
+    <updated>2026-11-23T17:06:01Z</updated>
+    <summary>La líder opositora y su partido no tienen representación en la negociación sobre las elecciones, que ella apoya, al tiempo que Estados Unidos firma pactos militares y gestiona los recursos petroleros del país sudamericano</summary>
     <author>
       <name>El Universal</name>
     </author>
