@@ -2,156 +2,165 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mexican News</title>
   <id>tag:atorizva.github.io,2026:rss-mexican-news</id>
-  <updated>2026-11-26T16:12:17Z</updated>
+  <updated>2026-11-27T15:57:40Z</updated>
   <link href="https://atorizva.github.io/rss-mexican-news/feed.xml" rel="self" />
   <entry>
-    <title>México revisará con EU el uso del espacio aéreo por lanzamientos de SpaceX</title>
-    <link href="https://www.excelsior.com.mx/nacional/mexico-busca-reunion-con-autoridades-eu-por-operaciones-spacex-sheinbaum" />
-    <id>https://www.excelsior.com.mx/nacional/mexico-busca-reunion-con-autoridades-eu-por-operaciones-spacex-sheinbaum</id>
-    <updated>2026-11-26T15:31:05Z</updated>
-    <summary>El objetivo de la reunión será establecer mecanismos de coordinación entre ambos países para atender las operaciones de SpaceX, dijo.</summary>
+    <title>Hackean Cloud One, plataforma insignia en la nube de la Fuerza Aérea de Estados Unidos</title>
+    <link href="https://www.excelsior.com.mx/internacional/hackean-cloud-one-plataforma-nube-fuerza-aerea-estados-unidos" />
+    <id>https://www.excelsior.com.mx/internacional/hackean-cloud-one-plataforma-nube-fuerza-aerea-estados-unidos</id>
+    <updated>2026-11-27T15:35:20Z</updated>
+    <summary>Piratas informáticos vulneraron Cloud One, la plataforma en la nube de la Fuerza Aérea de EU, poniendo en riesgo datos tácticos, logísticos y de personal.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>FGR y gabinete de seguridad definirán si 'El Chapo Isidro' es extraditado a EU: Sheinbaum</title>
-    <link href="https://www.excelsior.com.mx/nacional/fgr-gabinete-seguridad-analizaran-extradicion-chapo-isidro-eu-sheinbaum" />
-    <id>https://www.excelsior.com.mx/nacional/fgr-gabinete-seguridad-analizaran-extradicion-chapo-isidro-eu-sheinbaum</id>
-    <updated>2026-11-26T15:29:32Z</updated>
-    <summary>Claudia Sheinbaum informó que la FGR y el Gabinete de Seguridad evaluarán la posible extradición a EU de Fausto Isidro Meza, el Chapo Isidro</summary>
+    <title>Le rompen los cristales del coche a tabicazos por no darles dinero en GAM</title>
+    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/le-rompen-cristales-coche-tabicazos-por-no-darles-dinero-gam" />
+    <id>https://www.excelsior.com.mx/ciudad-de-mexico/le-rompen-cristales-coche-tabicazos-por-no-darles-dinero-gam</id>
+    <updated>2026-11-27T15:29:10Z</updated>
+    <summary>Sujetos en presunto estado de intoxicación arremetieron contra un automovilista en Avenida Instituto Politécnico Nacional.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Sheinbaum critica que DEA abriera canal de denuncias en WhatsApp; "es un asunto de injerencia"</title>
-    <link href="https://www.excelsior.com.mx/nacional/sheinbaum-critica-linea-denuncia-dea-acusa-injerencia-mexico" />
-    <id>https://www.excelsior.com.mx/nacional/sheinbaum-critica-linea-denuncia-dea-acusa-injerencia-mexico</id>
-    <updated>2026-11-26T15:02:30Z</updated>
-    <summary>Claudia Sheinbaum cuestionó a la DEA por abrir una línea para denunciar a políticos mexicanos y exigió a EU informar sobre su combate al narcotráfico.Claudia Sheinbaum cuestionó a la DEA por abrir una línea para denunciar a políticos mexicanos y exigió a EU informar sobre su combate al narcotráfico.</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>“Pedí que la FGR investigue”; Sheinbaum exige aclarar si exfiscal de Chihuahua recaudó dinero ilícito en campaña de Maru Campos</title>
-    <link href="https://www.eluniversal.com.mx/nacion/pedi-que-la-fgr-investigue-sheinbaum-exige-aclarar-si-exfiscal-de-chihuahua-recaudo-dinero-ilicito-en-campana-de-maru-campos/" />
-    <id>https://www.eluniversal.com.mx/nacion/pedi-que-la-fgr-investigue-sheinbaum-exige-aclarar-si-exfiscal-de-chihuahua-recaudo-dinero-ilicito-en-campana-de-maru-campos/</id>
-    <updated>2026-11-26T14:53:32Z</updated>
-    <summary>La mandataria federal consideró que el caso tiene implicaciones relevantes en la relación de México con EU</summary>
+    <title>México presenta queja formal ante EU por línea de denuncia de la DEA; "tenemos que defender la soberanía", dice Sheinbaum</title>
+    <link href="https://www.eluniversal.com.mx/nacion/mexico-presenta-queja-formal-ante-eu-por-linea-de-denuncia-de-la-dea-tenemos-que-defender-la-soberania-dice-sheinbaum/" />
+    <id>https://www.eluniversal.com.mx/nacion/mexico-presenta-queja-formal-ante-eu-por-linea-de-denuncia-de-la-dea-tenemos-que-defender-la-soberania-dice-sheinbaum/</id>
+    <updated>2026-11-27T15:20:36Z</updated>
+    <summary>La Presidenta sostuvo que desde su gobierno existe la obligación de manifestarse ante medidas como la que incentivó la Agencia Antidrogas de Estados Unidos</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Edmundo González anuncia su regreso a Venezuela tras dos años de exilio</title>
-    <link href="https://www.excelsior.com.mx/internacional/edmundo-gonzalez-anuncia-regreso-venezuela-tras-dos-anos-exilio" />
-    <id>https://www.excelsior.com.mx/internacional/edmundo-gonzalez-anuncia-regreso-venezuela-tras-dos-anos-exilio</id>
-    <updated>2026-11-26T14:41:25Z</updated>
-    <summary>El opositor anunció que regresará a Venezuela para participar en la peregrinación de la Virgen de Coromoto el próximo 5 de diciembre.</summary>
+    <title>Sheinbaum presenta queja formal a embajador de EU por línea de WhatsApp de la DEA</title>
+    <link href="https://www.excelsior.com.mx/nacional/sheinbaum-presenta-queja-formal-eu-linea-whatsapp-dea-embajador-ronald-johnson" />
+    <id>https://www.excelsior.com.mx/nacional/sheinbaum-presenta-queja-formal-eu-linea-whatsapp-dea-embajador-ronald-johnson</id>
+    <updated>2026-11-27T15:09:49Z</updated>
+    <summary>Claudia Sheinbaum envió una queja formal al embajador Ronald Johnson por la línea de WhatsApp de la DEA para denuncias; rechazó actos injerencistas.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>“Es un asunto de injerencia”; Sheinbaum condena anuncio de la DEA sobre abrir canales de denuncia contra cárteles en México</title>
-    <link href="https://www.eluniversal.com.mx/nacion/es-un-asunto-de-injerencia-sheinbaum-condena-anuncio-de-la-dea-de-abrir-canales-de-denuncia-contra-carteles-en-mexico/" />
-    <id>https://www.eluniversal.com.mx/nacion/es-un-asunto-de-injerencia-sheinbaum-condena-anuncio-de-la-dea-de-abrir-canales-de-denuncia-contra-carteles-en-mexico/</id>
-    <updated>2026-11-26T14:32:14Z</updated>
-    <summary>La Presidenta sostuvo que la agencia estadounidense debería investigar las redes de corrupción de su propio país</summary>
+    <title>Eugenio Derbez comparte irónico mensaje en medio de la polémica de su hijo Vadhir</title>
+    <link href="https://www.excelsior.com.mx/espectaculos/eugenio-derbez-comparte-ironico-mensaje-medio-polemica-hijo-vadhir" />
+    <id>https://www.excelsior.com.mx/espectaculos/eugenio-derbez-comparte-ironico-mensaje-medio-polemica-hijo-vadhir</id>
+    <updated>2026-11-27T15:05:38Z</updated>
+    <summary>Eugenio Derbez compartió un video con motivo del Día de Acción de Gracias, pero sus pausas y gestos llamaron la atención, especialmente, por la controversia que rodea a su hijo Vadhir.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Alerta por Tormenta Invernal; provocará lluvias y bajas temperaturas en gran parte del país</title>
+    <link href="https://www.excelsior.com.mx/nacional/alerta-por-tormenta-invernal-provocara-lluvias-y-bajas-temperaturas-gran-parte-pais" />
+    <id>https://www.excelsior.com.mx/nacional/alerta-por-tormenta-invernal-provocara-lluvias-y-bajas-temperaturas-gran-parte-pais</id>
+    <updated>2026-11-27T14:35:04Z</updated>
+    <summary>En la CDMX se espera caída de nieve o aguanieve en las zonas altas.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Viernes de dos marchas y varias manifestaciones en CDMX</title>
+    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/viernes-dos-marchas-y-varias-manifestaciones-cdmx" />
+    <id>https://www.excelsior.com.mx/ciudad-de-mexico/viernes-dos-marchas-y-varias-manifestaciones-cdmx</id>
+    <updated>2026-11-27T14:21:26Z</updated>
+    <summary>Las zonas más afectadas serán la colonia Doctores, Paseo de la Reforma, el Centro Histórico e Iztapalapa.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>La 'Mañanera' de Sheinbaum EN VIVO: Temas de la conferencia hoy 27 de noviembre de 2026</title>
+    <link href="https://www.excelsior.com.mx/nacional/mananera-sheinbaum-hoy-temas-conferencia-27-noviembre-2026" />
+    <id>https://www.excelsior.com.mx/nacional/mananera-sheinbaum-hoy-temas-conferencia-27-noviembre-2026</id>
+    <updated>2026-11-27T13:36:36Z</updated>
+    <summary>Conoce los temas clave de la conferencia matutina de Claudia Sheinbaum de este 27 de noviembre. Resumen, anuncios principales y preguntas de la prensa.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Zelenski critica que Trump llame "amigo" a Putin, a quien compara con Hitler</title>
+    <link href="https://www.excelsior.com.mx/internacional/zelenski-critica-trump-llame-amigo-putin-compara-hitler" />
+    <id>https://www.excelsior.com.mx/internacional/zelenski-critica-trump-llame-amigo-putin-compara-hitler</id>
+    <updated>2026-11-27T09:45:32Z</updated>
+    <summary>El mandatario ucraniano también recordó los desencuentros con la Casa Blanca y cuestionó la postura estadounidense frente a Moscú.</summary>
+    <author>
+      <name>Excélsior</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Aún no operan 4 elevadores del jardín flotante</title>
+    <link href="https://www.eluniversal.com.mx/metropoli/aun-no-operan-4-elevadores-del-jardin-flotante/" />
+    <id>https://www.eluniversal.com.mx/metropoli/aun-no-operan-4-elevadores-del-jardin-flotante/</id>
+    <updated>2026-11-27T09:20:56Z</updated>
+    <summary>Personal de Obras y de Grupo Idinsa trabajan en la colocación de infraestructura, pese a que se prometió su conclusión en octubre</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Paro en el Metro de Londres provoca retrasos y suspende tres líneas</title>
-    <link href="https://www.excelsior.com.mx/internacional/paro-metro-londres-provoca-retrasos-y-suspende-tres-lineas" />
-    <id>https://www.excelsior.com.mx/internacional/paro-metro-londres-provoca-retrasos-y-suspende-tres-lineas</id>
-    <updated>2026-11-26T14:27:11Z</updated>
-    <summary>La huelga de operadores del Metro de Londres afecta a millones de pasajeros. Tres líneas estarán suspendidas y habrá ocho jornadas de paro.</summary>
+    <title>Disminuye población en pobreza laboral; datos del Inegi</title>
+    <link href="https://www.excelsior.com.mx/finanzas/disminuye-poblacion-pobreza-laboral-datos-inegi" />
+    <id>https://www.excelsior.com.mx/finanzas/disminuye-poblacion-pobreza-laboral-datos-inegi</id>
+    <updated>2026-11-27T09:16:42Z</updated>
+    <summary>Cae el número de personas que no pueden adquirir la canasta básica con sus ingresos; Estado de México, SLP y Morelos, los estados con mayor avance</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>Se incendia pipa de gas en Avenida Oceanía; chofer abandona la unidad</title>
-    <link href="https://www.excelsior.com.mx/ciudad-de-mexico/incendia-pipa-gas-oceania-chofer-abandona-unidad" />
-    <id>https://www.excelsior.com.mx/ciudad-de-mexico/incendia-pipa-gas-oceania-chofer-abandona-unidad</id>
-    <updated>2026-11-26T14:15:34Z</updated>
-    <summary>La pipa tenía una capacidad de 4 mil 500 litros de gas LP, los daños se concentraron principalmente en la cabina del vehículo.</summary>
+    <title>Senadora afirma que WhatsApp de la DEA apoya a sinaloenses ante desconfianza en fiscalías</title>
+    <link href="https://www.excelsior.com.mx/politica/senadora-afirma-que-whatsapp-dea-apoya-sinaloenses-desconfianza-fiscalias" />
+    <id>https://www.excelsior.com.mx/politica/senadora-afirma-que-whatsapp-dea-apoya-sinaloenses-desconfianza-fiscalias</id>
+    <updated>2026-11-27T08:40:00Z</updated>
+    <summary>Oaloma Sánchez afirmó que se trata de un mecanismo más confiable que las fiscalías mexicanas.</summary>
     <author>
       <name>Excélsior</name>
     </author>
   </entry>
   <entry>
-    <title>DEA abre líneas de denuncia para información sobre cárteles y funcionarios corruptos; arroba a medios y periodistas mexicanos</title>
-    <link href="https://www.eluniversal.com.mx/mundo/dea-abre-lineas-de-denuncia-para-informacion-sobre-carteles-mexicanos-y-funcionarios-corruptos-arroba-a-medios-y-periodistas-mexicanos/" />
-    <id>https://www.eluniversal.com.mx/mundo/dea-abre-lineas-de-denuncia-para-informacion-sobre-carteles-mexicanos-y-funcionarios-corruptos-arroba-a-medios-y-periodistas-mexicanos/</id>
-    <updated>2026-11-26T13:47:16Z</updated>
-    <summary>Las líneas están dedicadas a los estados de Sinaloa y Jalisco</summary>
+    <title>Inzunza, acusado de narco en EU, gana más que la presidenta; Senado le pagó con cheques nominativos</title>
+    <link href="https://www.eluniversal.com.mx/nacion/inzunza-acusado-de-narco-en-eu-gana-mas-que-la-presidenta-senado-le-pago-con-cheques-nominativos/" />
+    <id>https://www.eluniversal.com.mx/nacion/inzunza-acusado-de-narco-en-eu-gana-mas-que-la-presidenta-senado-le-pago-con-cheques-nominativos/</id>
+    <updated>2026-11-27T06:26:36Z</updated>
+    <summary>Los ingresos brutos del senador acusado por EU de nexos con el narco superan a los de la Presidenta</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>La 'Mañanera' de Sheinbaum EN VIVO: Temas de la conferencia hoy 26 de noviembre de 2026</title>
-    <link href="https://www.excelsior.com.mx/nacional/mananera-sheinbaum-hoy-temas-conferencia-26-noviembre-2026" />
-    <id>https://www.excelsior.com.mx/nacional/mananera-sheinbaum-hoy-temas-conferencia-26-noviembre-2026</id>
-    <updated>2026-11-26T13:34:59Z</updated>
-    <summary>Conoce los temas clave de la conferencia matutina de Claudia Sheinbaum de este 26 de noviembre. Resumen, anuncios principales y preguntas de la prensa.</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>FIFA confirma ciberataque; hackers roban 12 GB de información confidencial del organismo</title>
-    <link href="https://www.excelsior.com.mx/deportes/fifa-confirma-ciberataque-hackers-roban-12-gb-informacion-confidencial-organismo" />
-    <id>https://www.excelsior.com.mx/deportes/fifa-confirma-ciberataque-hackers-roban-12-gb-informacion-confidencial-organismo</id>
-    <updated>2026-11-26T13:22:26Z</updated>
-    <summary>Una intrusión en sus sistemas comprometió información personal y empresarial del organismo, la FIFA investiga el alcance de la filtración.</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Frente frío 8 sacude al mar en 2 estados; hoy se prevé la primera tormenta invernal</title>
-    <link href="https://www.excelsior.com.mx/nacional/frente-frio-8-sacude-mar-2-estados-hoy-preve-1-tormenta-invernal" />
-    <id>https://www.excelsior.com.mx/nacional/frente-frio-8-sacude-mar-2-estados-hoy-preve-1-tormenta-invernal</id>
-    <updated>2026-11-26T08:43:10Z</updated>
-    <summary>El alto oleaje en playas de Veracruz y Baja California Sur ocasionó que el mar se desbordara; el fenómeno dejará lluvias</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>PAN amaga con no ir a elecciones de 2027</title>
-    <link href="https://www.excelsior.com.mx/internacional/pan-amaga-no-ir-elecciones-de2027" />
-    <id>https://www.excelsior.com.mx/internacional/pan-amaga-no-ir-elecciones-de2027</id>
-    <updated>2026-11-26T07:59:01Z</updated>
-    <summary>El coordinador panista en el Senado, Ricardo Anaya, cuestionó el criterio de asignación de diputaciones y anticipó una respuesta ante la decisión del INE.</summary>
-    <author>
-      <name>Excélsior</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Desoyen las alertas; dan más contratos a Black Ecco</title>
-    <link href="https://www.eluniversal.com.mx/nacion/desoyen-las-alertas-dan-mas-contratos-a-black-ecco/" />
-    <id>https://www.eluniversal.com.mx/nacion/desoyen-las-alertas-dan-mas-contratos-a-black-ecco/</id>
-    <updated>2026-11-26T07:01:00Z</updated>
-    <summary>Aunque cuenta con procedimientos de responsabilidad administrativa promovidos por la Auditoría Superior de la Federación, establece acuerdos con el gobierno federal</summary>
+    <title>Quieren matar a Rocha Moya</title>
+    <link href="https://www.eluniversal.com.mx/opinion/arlequin/quieren-matar-a-rocha-moya/" />
+    <id>https://www.eluniversal.com.mx/opinion/arlequin/quieren-matar-a-rocha-moya/</id>
+    <updated>2026-11-27T06:00:00Z</updated>
+    <summary>Arlequín</summary>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>"Operativo contra El Chapo Isidro, para el público de EU"; analizan operativo Con los de Casa</title>
-    <link href="https://www.eluniversal.com.mx/nacion/operativo-contra-el-chapo-isidro-para-el-publico-de-eu-analizan-operativo-con-los-de-casa/" />
-    <id>https://www.eluniversal.com.mx/nacion/operativo-contra-el-chapo-isidro-para-el-publico-de-eu-analizan-operativo-con-los-de-casa/</id>
-    <updated>2026-11-26T04:11:12Z</updated>
-    <summary>Especialistas cuestionaron que la captura de el líder criminal se valore por su despliegue visual y no por los resultados en el combate al crimen organizado</summary>
+    <title>Secretaría de las Mujeres respalda y acompaña a Ximena Santaolalla; "ninguna mujer debe enfrentar sola el camino hacia la justicia"</title>
+    <link href="https://www.eluniversal.com.mx/nacion/secretaria-de-las-mujeres-respalda-y-acompana-a-ximena-santaolalla-ninguna-mujer-debe-enfrentar-sola-el-camino-hacia-la-justicia/" />
+    <id>https://www.eluniversal.com.mx/nacion/secretaria-de-las-mujeres-respalda-y-acompana-a-ximena-santaolalla-ninguna-mujer-debe-enfrentar-sola-el-camino-hacia-la-justicia/</id>
+    <updated>2026-11-27T01:02:55Z</updated>
+    <summary>A través de un comunicado, expresó su solidaridad con la escritora que hizo público que fue víctima de abuso sexual desde los 5 años y parte de su adolescencia</summary>
     <author>
       <name>El Universal</name>
+    </author>
+  </entry>
+  <entry>
+    <title>“El ‘cero desperdicio’ es MENTIRA”. Así funciona el laboratorio secreto de Baldío y Arca Tierra</title>
+    <link href="https://grupoanimal.mx/noticias/cero-desperdicio-laboratorio-secreto-baldio-arca-tierra" />
+    <id>https://grupoanimal.mx/noticias/cero-desperdicio-laboratorio-secreto-baldio-arca-tierra</id>
+    <updated>2026-11-27T00:00:00Z</updated>
+    <author>
+      <name>Animal Político</name>
     </author>
   </entry>
   <entry>
@@ -236,147 +245,139 @@
     </author>
   </entry>
   <entry>
-    <title>Ceuta, la frontera del sueño europeo</title>
-    <link href="https://grupoanimal.mx/noticias/ceuta-frontera-sueno-europeo" />
-    <id>https://grupoanimal.mx/noticias/ceuta-frontera-sueno-europeo</id>
-    <updated>2026-08-12T00:00:00Z</updated>
-    <author>
-      <name>Animal Político</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Sheinbaum ofrece a Ximena Santaolalla apoyo del gobierno de México para denunciar a su violador</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/26/sheinbaum-ofrece-a-ximena-santaolalla-apoyo-del-gobierno-de-mexico-384397.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/26/sheinbaum-ofrece-a-ximena-santaolalla-apoyo-del-gobierno-de-mexico-384397.html</id>
-    <updated>2026-11-26T16:12:17Z</updated>
+    <title>Tras polémica por la colección Gelman, inauguran Bodega Nacional de Arte en Chapultepec</title>
+    <link href="https://www.proceso.com.mx/cultura/2026/11/27/tras-polemica-por-la-coleccion-gelman-inauguran-bodega-nacional-de-arte-en-chapultepec-384444.html" />
+    <id>https://www.proceso.com.mx/cultura/2026/11/27/tras-polemica-por-la-coleccion-gelman-inauguran-bodega-nacional-de-arte-en-chapultepec-384444.html</id>
+    <updated>2026-11-27T15:57:40Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>“Es evidente que es un asunto de injerencia”: Sheinbaum a Terry Cole sobre WhatsApp</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/26/es-evidente-que-es-un-asunto-de-injerencia-sheinbaum-a-terry-cole-sobre-whatsapp-384396.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/26/es-evidente-que-es-un-asunto-de-injerencia-sheinbaum-a-terry-cole-sobre-whatsapp-384396.html</id>
-    <updated>2026-11-26T16:12:17Z</updated>
+    <title>Ebrard cierra gira por Asia y presume acuerdos para combatir la triangulación comercial</title>
+    <link href="https://www.proceso.com.mx/economia/2026/11/27/ebrard-cierra-gira-por-asia-y-presume-acuerdos-para-combatir-384443.html" />
+    <id>https://www.proceso.com.mx/economia/2026/11/27/ebrard-cierra-gira-por-asia-y-presume-acuerdos-para-combatir-384443.html</id>
+    <updated>2026-11-27T15:57:40Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Tortura, abuso sexual y abandono: El precio que pagó una testigo protegida contra Los Zetas</title>
-    <link href="https://www.proceso.com.mx/reportajes/2026/11/26/el-precio-que-pago-una-testigo-protegida-contra-los-zetas-384375.html" />
-    <id>https://www.proceso.com.mx/reportajes/2026/11/26/el-precio-que-pago-una-testigo-protegida-contra-los-zetas-384375.html</id>
-    <updated>2026-11-26T16:12:17Z</updated>
-    <summary>Conocida durante 16 años como Venus, Ciria Alicia Fernández rompe el anonimato para narrar el drama de cómo pasó de abogada del cártel del Golfo y los Zetas a testigo colaboradora de la PGR. Detenida y torturada sexualmente por autoridades en Hidalgo en 2010, entregó pruebas de los vínculos del cártel con el entonces gobernador Miguel Ángel Osorio Chong (posterior secretario de Gobernación con Peña Nieto). Pese a declarar en juicios clave, fue dada de baja del programa de testigos en 2015 y abandonada por las instituciones.</summary>
+    <title>A una semana de la caída del "Chapo Isidro”, gobierno mantiene operativos y golpea estructuras de “Los Mayos”</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/27/a-una-semana-de-la-caida-del-chapo-isidro-gobierno-mantiene-operati-384445.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/27/a-una-semana-de-la-caida-del-chapo-isidro-gobierno-mantiene-operati-384445.html</id>
+    <updated>2026-11-27T15:57:40Z</updated>
+    <summary>La Marina inhabilitó dos campamentos en Sinaloa y detuvo en Durango a un presunto operador de las Fuerzas Especiales Zambada; en Jalisco fueron aseguradas al menos 51 armas de fuego y en Nayarit fue inhabilitado un laboratorio de drogas sintéticas. En dos jornadas, las autoridades reportaron 24 detenidos en 10 entidades.</summary>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Human Rights Watch pide a Sheinbaum evitar violencia tras caída de “El Chapo Isidro"</title>
-    <link href="https://www.proceso.com.mx/internacional/2026/11/26/pide-human-rights-watch-a-sheinbaum-evitar-violencia-tras-caida-de-el-chapo-isidro-384394.html" />
-    <id>https://www.proceso.com.mx/internacional/2026/11/26/pide-human-rights-watch-a-sheinbaum-evitar-violencia-tras-caida-de-el-chapo-isidro-384394.html</id>
-    <updated>2026-11-26T16:12:17Z</updated>
+    <title>Tras elecciones en EU, división entre los republicanos pone bajo la lupa los aranceles de Trump</title>
+    <link href="https://www.proceso.com.mx/internacional/2026/11/27/tras-elecciones-en-eu-division-entre-los-republicanos-pone-bajo-la-lupa-los-aranceles-de-trump-384446.html" />
+    <id>https://www.proceso.com.mx/internacional/2026/11/27/tras-elecciones-en-eu-division-entre-los-republicanos-pone-bajo-la-lupa-los-aranceles-de-trump-384446.html</id>
+    <updated>2026-11-27T15:57:40Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>DEA publica WhatsApp para denunciar a narcos y funcionarios corruptos de Sinaloa</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/25/dea-publica-whatsapp-para-denunciar-a-narcos-y-funcionarios-corruptos-384371.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/25/dea-publica-whatsapp-para-denunciar-a-narcos-y-funcionarios-corruptos-384371.html</id>
-    <updated>2026-11-26T16:12:17Z</updated>
-    <author>
-      <name>Proceso</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Por la narcoguerra en Sinaloa, Coparmex pide a Sheinbaum un presupuesto extraordinario</title>
-    <link href="https://www.proceso.com.mx/economia/2026/11/26/por-la-narcoguerra-en-sinaloa-coparmex-pide-a-sheinbaum-un-presupuesto-extraordinario-384393.html" />
-    <id>https://www.proceso.com.mx/economia/2026/11/26/por-la-narcoguerra-en-sinaloa-coparmex-pide-a-sheinbaum-un-presupuesto-extraordinario-384393.html</id>
-    <updated>2026-11-26T16:12:17Z</updated>
-    <author>
-      <name>Proceso</name>
-    </author>
-  </entry>
-  <entry>
-    <title>FIFA dice que fue víctima de un ciberataque que afectó "información personal y comercial"</title>
-    <link href="https://www.proceso.com.mx/deportes/2026/11/26/fifa-dice-que-fue-victima-de-un-ciberataque-que-afecto-informacion-personal-y-comercial-384392.html" />
-    <id>https://www.proceso.com.mx/deportes/2026/11/26/fifa-dice-que-fue-victima-de-un-ciberataque-que-afecto-informacion-personal-y-comercial-384392.html</id>
-    <updated>2026-11-26T16:12:17Z</updated>
-    <author>
-      <name>Proceso</name>
-    </author>
-  </entry>
-  <entry>
-    <title>"Cambio de estrategia"</title>
-    <link href="https://www.proceso.com.mx/opinion/2026/11/25/cambio-de-estrategia-384345.html" />
-    <id>https://www.proceso.com.mx/opinion/2026/11/25/cambio-de-estrategia-384345.html</id>
-    <updated>2026-11-26T16:12:17Z</updated>
-    <author>
-      <name>Proceso</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Brújula moral</title>
-    <link href="https://www.proceso.com.mx/opinion/2026/11/25/brujula-moral-384300.html" />
-    <id>https://www.proceso.com.mx/opinion/2026/11/25/brujula-moral-384300.html</id>
-    <updated>2026-11-26T16:12:17Z</updated>
+    <title>Grecia defiende la creación de centros de migrantes en terceros países</title>
+    <link href="https://www.proceso.com.mx/internacional/2026/11/27/grecia-defiende-la-creacion-de-centros-de-migrantes-en-terceros-paises-384442.html" />
+    <id>https://www.proceso.com.mx/internacional/2026/11/27/grecia-defiende-la-creacion-de-centros-de-migrantes-en-terceros-paises-384442.html</id>
+    <updated>2026-11-27T15:57:40Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
     <title>EN VIVO: Conferencia mañanera de Sheinbaum (261126)</title>
-    <link href="https://www.proceso.com.mx/nacional/2026/11/26/en-vivo-conferencia-mananera-de-sheinbaum-261126-384391.html" />
-    <id>https://www.proceso.com.mx/nacional/2026/11/26/en-vivo-conferencia-mananera-de-sheinbaum-261126-384391.html</id>
-    <updated>2026-11-26T16:12:17Z</updated>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/27/en-vivo-conferencia-mananera-de-sheinbaum-261126-384429.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/27/en-vivo-conferencia-mananera-de-sheinbaum-261126-384429.html</id>
+    <updated>2026-11-27T15:57:40Z</updated>
     <author>
       <name>Proceso</name>
     </author>
   </entry>
   <entry>
-    <title>Exhiben presunto abuso sexual de diputado en 25N</title>
-    <link href="https://www.eluniversal.com.mx/opinion/kiosko/exhiben-presunto-abuso-sexual-de-diputado-en-25n/" />
-    <id>https://www.eluniversal.com.mx/opinion/kiosko/exhiben-presunto-abuso-sexual-de-diputado-en-25n/</id>
-    <updated>2026-11-26T16:12:17Z</updated>
+    <title>El campeón Cruz Azul se presenta en cuartos de final de Liga MX con goleada sobre León (Video)</title>
+    <link href="https://www.proceso.com.mx/deportes/2026/11/26/cruz-azul-se-presenta-en-cuartos-de-final-con-goleada-sobre-leon-384441.html" />
+    <id>https://www.proceso.com.mx/deportes/2026/11/26/cruz-azul-se-presenta-en-cuartos-de-final-con-goleada-sobre-leon-384441.html</id>
+    <updated>2026-11-27T15:57:40Z</updated>
+    <author>
+      <name>Proceso</name>
+    </author>
+  </entry>
+  <entry>
+    <title>La oposición boicotea foro del INE sobre la sobrerrepresentación en el Congreso</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/26/la-oposicion-boicotea-foro-del-ine-sobre-la-sobrerrepresentacion-384440.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/26/la-oposicion-boicotea-foro-del-ine-sobre-la-sobrerrepresentacion-384440.html</id>
+    <updated>2026-11-27T15:57:40Z</updated>
+    <author>
+      <name>Proceso</name>
+    </author>
+  </entry>
+  <entry>
+    <title>La fiscalía Godoy: ¿Pruebas para unos, “de oídas” para otros?</title>
+    <link href="https://www.proceso.com.mx/opinion/2026/11/26/la-fiscalia-godoy-pruebas-para-unos-de-oidas-para-otros-384342.html" />
+    <id>https://www.proceso.com.mx/opinion/2026/11/26/la-fiscalia-godoy-pruebas-para-unos-de-oidas-para-otros-384342.html</id>
+    <updated>2026-11-27T15:57:40Z</updated>
+    <author>
+      <name>Proceso</name>
+    </author>
+  </entry>
+  <entry>
+    <title>ICE presume “colaboración sostenida” con México para la captura de “El Chapo Isidro”</title>
+    <link href="https://www.proceso.com.mx/nacional/2026/11/26/ice-presume-colaboracion-sostenida-con-mexico-para-la-captura-de-el-chapo-isidro-384438.html" />
+    <id>https://www.proceso.com.mx/nacional/2026/11/26/ice-presume-colaboracion-sostenida-con-mexico-para-la-captura-de-el-chapo-isidro-384438.html</id>
+    <updated>2026-11-27T15:57:40Z</updated>
+    <summary>La agencia estadunidense reveló que un grupo de trabajo del Departamento de Seguridad Nacional participó en las investigaciones que culminaron con la detención de Fausto Isidro Meza Flores por fuerzas militares mexicanas en Sinaloa.</summary>
+    <author>
+      <name>Proceso</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Ven más “fuego amigo” que superchería en video</title>
+    <link href="https://www.eluniversal.com.mx/opinion/kiosko/ven-mas-fuego-amigo-que-supercheria-en-video/" />
+    <id>https://www.eluniversal.com.mx/opinion/kiosko/ven-mas-fuego-amigo-que-supercheria-en-video/</id>
+    <updated>2026-11-27T15:57:40Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>El último clavo al ataúd de la transparencia en la CDMX</title>
-    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/el-ultimo-clavo-al-ataud-de-la-transparencia-en-la-cdmx/" />
-    <id>https://www.eluniversal.com.mx/opinion/el-caballito/el-ultimo-clavo-al-ataud-de-la-transparencia-en-la-cdmx/</id>
-    <updated>2026-11-26T16:12:17Z</updated>
+    <title>Darán “un poquito” más de recursos al IEEM</title>
+    <link href="https://www.eluniversal.com.mx/opinion/el-caballito/daran-un-poquito-mas-de-recursos-al-ieem/" />
+    <id>https://www.eluniversal.com.mx/opinion/el-caballito/daran-un-poquito-mas-de-recursos-al-ieem/</id>
+    <updated>2026-11-27T15:57:40Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Venta del MRO de Mexicana, en puerta</title>
-    <link href="https://www.eluniversal.com.mx/opinion/desbalance/venta-del-mro-de-mexicana-en-puerta/" />
-    <id>https://www.eluniversal.com.mx/opinion/desbalance/venta-del-mro-de-mexicana-en-puerta/</id>
-    <updated>2026-11-26T16:12:17Z</updated>
+    <title>Gobiernos locales se amarran el cinturón</title>
+    <link href="https://www.eluniversal.com.mx/opinion/desbalance/gobiernos-locales-se-amarran-el-cinturon/" />
+    <id>https://www.eluniversal.com.mx/opinion/desbalance/gobiernos-locales-se-amarran-el-cinturon/</id>
+    <updated>2026-11-27T15:57:40Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Quiúbole con la adultez, Yordi</title>
-    <link href="https://www.eluniversal.com.mx/espectaculos/quiubole-con-la-adultez-yordi/" />
-    <id>https://www.eluniversal.com.mx/espectaculos/quiubole-con-la-adultez-yordi/</id>
-    <updated>2026-11-26T16:12:17Z</updated>
+    <title>Las piruetas al revés de Evoé Sotelo</title>
+    <link href="https://www.eluniversal.com.mx/opinion/crimen-castigo/las-piruetas-al-reves-de-evoe-sotelo/" />
+    <id>https://www.eluniversal.com.mx/opinion/crimen-castigo/las-piruetas-al-reves-de-evoe-sotelo/</id>
+    <updated>2026-11-27T15:57:40Z</updated>
     <author>
       <name>El Universal</name>
     </author>
   </entry>
   <entry>
-    <title>Protección a la mujer</title>
-    <link href="https://www.eluniversal.com.mx/carton/kemchs/proteccion-a-la-mujer/" />
-    <id>https://www.eluniversal.com.mx/carton/kemchs/proteccion-a-la-mujer/</id>
-    <updated>2026-11-26T16:12:17Z</updated>
-    <summary>Cartón de KEMCHS</summary>
+    <title>Academia de San Carlos: 245 años consagrada a las bellas artes</title>
+    <link href="https://www.eluniversal.com.mx/cultura/academia-de-san-carlos-245-anos-consagrada-a-las-bellas-artes/" />
+    <id>https://www.eluniversal.com.mx/cultura/academia-de-san-carlos-245-anos-consagrada-a-las-bellas-artes/</id>
+    <updated>2026-11-27T15:57:40Z</updated>
+    <summary>Es la primera escuela de arte y el primer museo de arte de América; se fundó a partir de una Cédula Real expedida por el entonces rey de España, Carlos III</summary>
     <author>
       <name>El Universal</name>
     </author>
